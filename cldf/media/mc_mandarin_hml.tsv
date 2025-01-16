@@ -1,0 +1,2286 @@
+corpus	text	uid	gword	gloss	graid	gform	ganim	gfunc	refind	isnref
+mandarin	hml	0001	#	#	#nc	#nc				
+mandarin	hml	0001	ok	ok	nc	nc				
+mandarin	hml	0001	hǎo	good	nc	nc				
+mandarin	hml	0001	le	ASP	nc	nc				
+mandarin	hml	0001	ké	oh	nc	nc				
+mandarin	hml	0002	#	#	#nc	#nc				
+mandarin	hml	0002	è	oh	nc	nc				
+mandarin	hml	0002	long	long	nc	nc				
+mandarin	hml	0002	long	long	nc	nc				
+mandarin	hml	0002	ago	ago	nc	nc				
+mandarin	hml	0003	#	#	##	##				
+mandarin	hml	0003	g	yes	other	other				
+mandarin	hml	0003	hē	ha	other	other				
+mandarin	hml	0003	ZERO	0_you	0.2:s	0	2	s		
+mandarin	hml	0003	bié	stop	lv	lv				
+mandarin	hml	0003	bié	stop	lv	lv				
+mandarin	hml	0003	chědàn	joke	v:pred	v		pred		
+mandarin	hml	0003	#	#	##	##				
+mandarin	hml	0003	ZERO	0_you	0.2:s	0	2	s		
+mandarin	hml	0003	lái	come	v:pred	v		pred		
+mandarin	hml	0003	#	#	##	##				
+mandarin	hml	0003	wǒ	1SG	pro.1:s	pro	1	s		
+mandarin	hml	0003	gěi	give/ADP	adp	adp				
+mandarin	hml	0003	nǐ	2SG	pro.2:obl	pro	2	obl		
+mandarin	hml	0003	nòng	make	v:pred	v		pred		
+mandarin	hml	0004	#	#	##	##				
+mandarin	hml	0004	ZERO	0_I	0.1:a	0	1	a		
+mandarin	hml	0004	gěi	give/ADP	adp	adp				
+mandarin	hml	0004	gěi	give/ADP	nc	nc				
+mandarin	hml	0004	nǐ	2SG	pro.2:g	pro	2	g		
+mandarin	hml	0004	shuō	say	v:pred	v		pred		
+mandarin	hml	0004	yī	one	ln	ln				
+mandarin	hml	0004	gè	CL	ln	ln				
+mandarin	hml	0004	nà	that	ln	ln				
+mandarin	hml	0004	gè	CL	ln	ln				
+mandarin	hml	0004	shenme	what	pro:p	pro		p		
+mandarin	hml	0004	gǔdài	ancient_time	nc	nc				
+mandarin	hml	0004	díyīgè	first	nc	nc				
+mandarin	hml	0004	zé	oh	nc	nc				
+mandarin	hml	0004	biǎoxiàn	display	nc	nc				
+mandarin	hml	0004	yī	one	nc	nc				
+mandarin	hml	0004	gè	CL	nc	nc				
+mandarin	hml	0005	#	#	##	##				
+mandarin	hml	0005	yīnwéi	because	other	other				
+mandarin	hml	0005	xiànzài	now	other	other				
+mandarin	hml	0005	wǒmén	1PL	pro.1:s	pro	1	s		
+mandarin	hml	0005	dou	all	other	other				
+mandarin	hml	0005	zhīdào	know	v:pred	v		pred		
+mandarin	hml	0005	#	#	##	##				
+mandarin	hml	0005	hā	ha	other	other				
+mandarin	hml	0005	nà	that	ln	ln				
+mandarin	hml	0005	gè	CL	ln	ln				
+mandarin	hml	0005	shìjiè	world	np:l	np		l		
+mandarin	hml	0005	shàng	on	adp	adp				
+mandarin	hml	0005	ZERO	0_we	0.1:a	0	1	a		
+mandarin	hml	0005	qiángdiào	emphasise	v:pred	v		pred		
+mandarin	hml	0005	zhè	this	ln	ln				
+mandarin	hml	0005	nán	man	ln	ln				
+mandarin	hml	0005	nǚ	woman	ln	ln				
+mandarin	hml	0005	píngděng	equality	np:p	np		p		
+mandarin	hml	0006	#	#	##	##				
+mandarin	hml	0006	g	yes	other	other				
+mandarin	hml	0006	dànshì	but	other	other				
+mandarin	hml	0006	zài	in	adp	adp				
+mandarin	hml	0006	zài	in	adp	adp				
+mandarin	hml	0006	gǔdài	ancient_time	np:other	np		other		
+mandarin	hml	0006	deshíhòu	when	adp	adp				
+mandarin	hml	0006	yóu	NC	nc	nc				
+mandarin	hml	0006	yóuqí	especially	other	other				
+mandarin	hml	0006	shì	COP	other	other				
+mandarin	hml	0006	zhōngguó	China	ln	ln				
+mandarin	hml	0006	fēngjiàn	feudal	ln	ln				
+mandarin	hml	0006	shèhuì	society	np:other	np		other		
+mandarin	hml	0006	deshíhòu	when	other	other				
+mandarin	hml	0007	qíshí	actually	other	other				
+mandarin	hml	0007	nǚxìng	woman	np.h:a	np	h	a		
+mandarin	hml	0007	shì	COP	other	other				
+mandarin	hml	0007	hěn	very	other	other				
+mandarin	hml	0007	shòu	suffer	v:pred	v		pred		
+mandarin	hml	0007	nà	that	ln	ln				
+mandarin	hml	0007	gè	CL	ln	ln				
+mandarin	hml	0007	qíshì	discrimination	np:p	np		p		
+mandarin	hml	0007	=de	=MOD	=other	=other				
+mandarin	hml	0008	#	#	##	##				
+mandarin	hml	0008	dànshì	but	other	other				
+mandarin	hml	0008	ā	oh	other	other				
+mandarin	hml	0008	zài	in	adp	adp				
+mandarin	hml	0008	gǔdài	ancient_time	np:other	np		other	1008	new
+mandarin	hml	0008	chūxiàn	appear	v:pred	v		pred		
+mandarin	hml	0008	le	ASP	rv	rv				
+mandarin	hml	0008	yī	one	ln	ln				
+mandarin	hml	0008	míng	CL	ln	ln				
+mandarin	hml	0008	bǐjiào	comparatively	ln	ln				
+mandarin	hml	0008	qínǚzǐ	strange_woman	np.h:s	np	h	s	1001	new
+mandarin	hml	0008	bā	MP	other	other				
+mandarin	hml	0008	#	#	##	##				
+mandarin	hml	0008	ZERO	0_I	0.1:s_ds	0	1	s_ds	1001	
+mandarin	hml	0008	yīnggāi	should	other	other				
+mandarin	hml	0008	shuō	say	v:pred	v		pred		
+mandarin	hml	0008	jiù	ADV	other	other				
+mandarin	hml	0008	shì	COP	other	other				
+mandarin	hml	0009	#	#	##	##				
+mandarin	hml	0009	g	yes	other	other				
+mandarin	hml	0009	tā	3SG	ln_pro.h:poss	ln_pro	h	poss	1001	
+mandarin	hml	0009	=de	=MOD	=ln	=ln				
+mandarin	hml	0009	gùshì	story	np:dt_a	np		dt_a	1002	new
+mandarin	hml	0009	ne	MP	other	other				
+mandarin	hml	0009	ZERO	0_it	dt_0:a	dt_0		a		
+mandarin	hml	0009	jiù	ADV	other	other				
+mandarin	hml	0009	zhèngmíng	prove	v:pred	v		pred		
+mandarin	hml	0009	le	ASP	rv	rv				
+mandarin	hml	0009	yī	one	ln	ln				
+mandarin	hml	0009	diǎn	little	np:p	np		p		
+mandarin	hml	0009	#	#	##	##				
+mandarin	hml	0009	jiù	ADV	other	other				
+mandarin	hml	0009	shì	COP	other	other				
+mandarin	hml	0009	ā	MP	other	other				
+mandarin	hml	0009	jīnguó	woman_with_manly_spirit	np:a	np		a	1187	new
+mandarin	hml	0009	bù	NEG	lv	lv				
+mandarin	hml	0009	ràng	let	v:pred	v		pred		
+mandarin	hml	0009	xūméi	woman_with_manly_spirit	np:p	np		p	1187	
+mandarin	hml	0010	#	#	##	##				
+mandarin	hml	0010	ā	MP	other	other				
+mandarin	hml	0010	nǚháizǐ	girl	np.h:a	np	h	a	1054	new
+mandarin	hml	0010	tóngyàng	also	other	other				
+mandarin	hml	0010	kěyǐ	can	lv	lv				
+mandarin	hml	0010	bàndào	do	v:pred	v		pred		
+mandarin	hml	0010	bǐ	COMP	adp	adp				
+mandarin	hml	0010	nánháizǐ	boy	np.h:obl	np	h	obl	1183	new
+mandarin	hml	0010	gēng	more	ln	ln				
+mandarin	hml	0010	hǎo	good	ln	ln				
+mandarin	hml	0010	=de	=MOD	=ln	=ln				
+mandarin	hml	0010	shìqíng	thing	np:p	np		p	1188	new
+mandarin	hml	0011	#	#	##	##				
+mandarin	hml	0011	ké	oh	other	other				
+mandarin	hml	0011	suǒyǐ	so	other	other				
+mandarin	hml	0011	shuō	say	other	other				
+mandarin	hml	0011	wǒ	1SG	pro.1:a	pro	1	a		
+mandarin	hml	0011	jiù	ADV	other	other				
+mandarin	hml	0011	gěi	give/ADP	adp	adp				
+mandarin	hml	0011	nǐmén	2PL	pro.2:g	pro	2	g		
+mandarin	hml	0011	jiǎng	tell	v:pred	v		pred		
+mandarin	hml	0011	yī	one	ln	ln				
+mandarin	hml	0011	gè	CL	ln	ln				
+mandarin	hml	0011	#	#	#rc	#rc				
+mandarin	hml	0011	huāmùlán	HuaMulan	pn_np.h:s	pn_np	h	s	1001	
+mandarin	hml	0011	tì	take_place_of	adp	adp				
+mandarin	hml	0011	fù	father	np.h:obl	np	h	obl	1003	new
+mandarin	hml	0011	cóng	enlist	v:pred	v		pred		
+mandarin	hml	0011	jūn	army	rv	rv			1004	new
+mandarin	hml	0011	%	%	%	%				
+mandarin	hml	0011	zhè	this	ln	ln				
+mandarin	hml	0011	gè	CL	ln	ln				
+mandarin	hml	0011	gùshì	story	np:p	np		p	1002	
+mandarin	hml	0011	g	yes	other	other				
+mandarin	hml	0012	#	#	##	##				
+mandarin	hml	0012	shǒuxiān	first	other	other				
+mandarin	hml	0012	shuō	say	other	other				
+mandarin	hml	0012	zài	in	adp	adp				
+mandarin	hml	0012	lìshǐ	history	np:other	np		other		
+mandarin	hml	0012	shàng	on	adp	adp				
+mandarin	hml	0012	=de	=MOD	=other	=other				
+mandarin	hml	0012	mùlán	Mulan	np.h:dt_s	np	h	dt_s	1001	
+mandarin	hml	0012	tā	3SG	pro.h:s	pro	h	s	1001	
+mandarin	hml	0012	shì	COP	cop	cop				
+mandarin	hml	0012	zài	in	adp	adp				
+mandarin	hml	0012	ā	MP	other	other				
+mandarin	hml	0012	suígōng	Suigong	np:pred	np		pred		
+mandarin	hml	0013	#	#	##	##				
+mandarin	hml	0013	ā	MP	other	other				
+mandarin	hml	0013	OK	OK	other	other				
+mandarin	hml	0013	ké	oh	other	other				
+mandarin	hml	0013	tā	3SG	pro.h:s	pro	h	s	1001	
+mandarin	hml	0013	shì	COP	other	other				
+mandarin	hml	0013	nà	that	other	other				
+mandarin	hml	0013	gè	CL	other	other				
+mandarin	hml	0013	dàgài	around	other	other				
+mandarin	hml	0013	zài	in	adp	adp				
+mandarin	hml	0013	suí	Sui	ln	ln				
+mandarin	hml	0013	zhāo	dynasty	np:pred	np		pred	1005	new
+mandarin	hml	0013	deshíhòu	when	adp	adp				
+mandarin	hml	0014	#	#	##	##				
+mandarin	hml	0014	tā	3SG	nc	nc			1001	
+mandarin	hml	0014	shì	COP	nc	nc				
+mandarin	hml	0014	nà	that	other	other				
+mandarin	hml	0014	gè	CL	other	other				
+mandarin	hml	0014	nà	that	ln	ln				
+mandarin	hml	0014	gè	CL	ln	ln				
+mandarin	hml	0014	shíhòu	moment	np:other	np		other	1008	
+mandarin	hml	0014	ne	MP	other	other				
+mandarin	hml	0014	jiùshì	ADV	other	other				
+mandarin	hml	0014	tūjué	Turk	nc	nc				
+mandarin	hml	0014	tūjué	Turk	np.h:a	np	h	a	1006	
+mandarin	hml	0014	zhè	this	other	other				
+mandarin	hml	0014	gè	CL	other	other				
+mandarin	hml	0014	jīngcháng	often	other	other				
+mandarin	hml	0014	qīnfàn	invade	v:pred	v		pred		
+mandarin	hml	0014	nà	that	ln	ln				
+mandarin	hml	0014	gè	CL	ln	ln				
+mandarin	hml	0014	zhōngguó	China	ln	ln				
+mandarin	hml	0014	=de	=MOD	=ln	=ln				
+mandarin	hml	0014	biānjiāng	border	np:p	np		p	1007	new
+mandarin	hml	0015	#	#	##	##				
+mandarin	hml	0015	suǒyǐ	so	other	other				
+mandarin	hml	0015	shuō	say	other	other				
+mandarin	hml	0015	nà	that	ln	ln				
+mandarin	hml	0015	gè	CL	ln	ln				
+mandarin	hml	0015	shíhòu	moment	np:other	np		other	1008	
+mandarin	hml	0015	jiù	ADV	other	other				
+mandarin	hml	0015	ā	MP	other	other				
+mandarin	hml	0015	ZERO	0_government	0.h:a	0	h	a	1009	new
+mandarin	hml	0015	jīngcháng	often	other	other				
+mandarin	hml	0015	jìnxíng	carry_out	v:pred	v		pred		
+mandarin	hml	0015	nà	that	ln	ln				
+mandarin	hml	0015	zhǒng	type	ln	ln				
+mandarin	hml	0015	dà	big	ln	ln				
+mandarin	hml	0015	de	MOD	ln	ln				
+mandarin	hml	0015	zhēngbīng	recruit(ment)	np:p	np		p	1010	new
+mandarin	hml	0016	#	#	##	##				
+mandarin	hml	0016	dāngshí	at_that_time	other	other			1008	
+mandarin	hml	0016	mù	NC	nc	nc				
+mandarin	hml	0016	mùlán	Mulan	ln_pn_np.h:poss	ln_pn_np	h	poss	1001	
+mandarin	hml	0016	de	MOD	ln	ln				
+mandarin	hml	0016	fùqīn	father	np.h:dt_s	np	h	dt_s	1003	
+mandarin	hml	0016	ne	MP	other	other				
+mandarin	hml	0016	ZERO	0_he	dt_0.h:s	dt_0	h	s	1003	
+mandarin	hml	0016	shì	COP	cop	cop				
+mandarin	hml	0016	shì	COP	nc	nc				
+mandarin	hml	0016	yī	one	ln	ln				
+mandarin	hml	0016	míng	CL	ln	ln				
+mandarin	hml	0016	tuìwǔ	muster_out	ln	ln				
+mandarin	hml	0016	de	MOD	ln	ln				
+mandarin	hml	0016	lǎobīng	veteran	np.h:pred	np	h	pred	1003	
+mandarin	hml	0016	g	yes	other	other				
+mandarin	hml	0017	#	#	##	##				
+mandarin	hml	0017	ā	MP	other	other				
+mandarin	hml	0017	dāngshí	at_that_time	other	other			1008	
+mandarin	hml	0017	tā	3SG	pro.h:s	pro	h	s	1003	
+mandarin	hml	0017	zài	in	lv	lv				
+mandarin	hml	0017	tuìwǔ	muster_out	v:pred	v		pred		
+mandarin	hml	0017	#	#	##	##				
+mandarin	hml	0017	ZERO	0_he	0.h:s	0	h	s	1003	
+mandarin	hml	0017	huílái	come_back	v:pred	v		pred		
+mandarin	hml	0017	deshíhòu	when	other	other				
+mandarin	hml	0017	ne	MP	other	other				
+mandarin	hml	0017	#	#	##	##				
+mandarin	hml	0017	ZERO	0_he	0.h:a	0	h	a	1003	
+mandarin	hml	0017	jiù	ADV	other	other				
+mandarin	hml	0017	bǎ	BA	adp	adp				
+mandarin	hml	0017	zìjǐ	REFL	ln_refl.h:poss	ln_refl	h	poss	1003	
+mandarin	hml	0017	de	MOD	ln	ln				
+mandarin	hml	0017	yī	one	ln	ln				
+mandarin	hml	0017	shēn	body	ln	ln				
+mandarin	hml	0017	wǔyì	feat	np:obl	np		obl	1013	new
+mandarin	hml	0017	jiào	teach	v:pred	v		pred		
+mandarin	hml	0017	gěi	give/ADP	rv_svc	rv_svc				
+mandarin	hml	0017	le	ASP	rv	rv				
+mandarin	hml	0017	zìjǐ	REFL	ln_refl.h:poss	ln_refl	h	poss	1003	
+mandarin	hml	0017	de	MOD	ln	ln				
+mandarin	hml	0017	liǎng	two	ln	ln				
+mandarin	hml	0017	gè	CL	ln	ln				
+mandarin	hml	0017	nǚér	daughter	np.h:p	np	h	p	1011	bridging
+mandarin	hml	0018	#	#	##	##				
+mandarin	hml	0018	yī	one	nc	nc				
+mandarin	hml	0018	gè	CL	nc	nc				
+mandarin	hml	0018	jiàozuò	called	nc	nc				
+mandarin	hml	0018	ké	oh	other	other				
+mandarin	hml	0018	ké	oh	other	other				
+mandarin	hml	0018	ZERO	0_he	0.h:a	0	h	a	1003	
+mandarin	hml	0018	ā	MP	other	other				
+mandarin	hml	0018	jiào	teach	v:pred	v		pred		
+mandarin	hml	0018	gěi	give/ADP	rv_svc	rv_svc				
+mandarin	hml	0018	le	ASP	rv	rv				
+mandarin	hml	0018	zìjǐ	REFL	ln_refl.h:poss	ln_refl	h	poss	1003	
+mandarin	hml	0018	de	MOD	ln	ln				
+mandarin	hml	0018	liǎng	two	ln	ln				
+mandarin	hml	0018	liǎnggè	two	ln	ln				
+mandarin	hml	0018	nǚér	daughter	np.h:p	np	h	p	1011	
+mandarin	hml	0019	#	#	##	##				
+mandarin	hml	0019	yī	one	ln	ln				
+mandarin	hml	0019	gè	CL	pro.h:a	pro	h	a	1012	new
+mandarin	hml	0019	jiàozuò	called	v:pred	v		pred		
+mandarin	hml	0019	mùhuì	Muhui	pn_np.h:p	pn_np	h	p	1012	
+mandarin	hml	0019	#	#	##	##				
+mandarin	hml	0019	yī	one	ln	ln				
+mandarin	hml	0019	gè	CL	pro.h:a	pro	h	a	1001	
+mandarin	hml	0019	jiào	called	v:pred	v		pred		
+mandarin	hml	0019	mùlán	Mulan	pn_np.h:p	pn_np	h	p	1001	
+mandarin	hml	0020	#	#	##	##				
+mandarin	hml	0020	g	yes	other	other				
+mandarin	hml	0020	dànshì	but	other	other				
+mandarin	hml	0020	yīnwéi	because	other	other				
+mandarin	hml	0020	mù	NC	nc	nc				
+mandarin	hml	0020	mùlán	Mulan	pn_np.h:dt_s	pn_np	h	dt_s	1001	
+mandarin	hml	0020	dehua	when	other	other				
+mandarin	hml	0020	ZERO	0_she	dt_0.h:s	dt_0	h	s	1001	
+mandarin	hml	0020	bǐjiào	comparatively	other	other				
+mandarin	hml	0020	smart	cōngmíng	other:pred	other		pred		
+mandarin	hml	0020	#	#	##	##				
+mandarin	hml	0020	ZERO	0_she	0.h:s	0	h	s	1001	
+mandarin	hml	0020	yǒnggǎn	courageous	other:pred	other		pred		
+mandarin	hml	0020	wán	finish	other	other				
+mandarin	hml	0020	le	ASP	other	other				
+mandarin	hml	0021	#	#	##	##				
+mandarin	hml	0021	ZERO	0_she	0.h:s	0	h	s	1001	
+mandarin	hml	0021	bǐ	COMP	adp	adp				
+mandarin	hml	0021	bǐ	COMP	adp	adp				
+mandarin	hml	0021	mèimèi	little_sister	np.h:obl	np	h	obl	1012	
+mandarin	hml	0021	ne	MP	other	other				
+mandarin	hml	0021	yě	also	other	other				
+mandarin	hml	0021	yào	will	other	other				
+mandarin	hml	0021	gēng	more	other	other				
+mandarin	hml	0021	qiáng	strong	other:pred	other		pred		
+mandarin	hml	0021	yī	one	other	other				
+mandarin	hml	0021	diǎn	little	other	other				
+mandarin	hml	0022	#	#	##	##				
+mandarin	hml	0022	suǒyǐ	so	other	other				
+mandarin	hml	0022	shuō	say	other	other				
+mandarin	hml	0022	g	yes	other	other				
+mandarin	hml	0022	tā	3SG	pro.h:a	pro	h	a	1001	
+mandarin	hml	0022	jiùshì	ADV	other	other				
+mandarin	hml	0022	xiāngdāngyú	similar_to	other	other				
+mandarin	hml	0022	xí	study	nc	nc				
+mandarin	hml	0022	xí	study	v:pred	v		pred		
+mandarin	hml	0022	dé	receive	rv_svc	rv_svc				
+mandarin	hml	0022	le	ASP	rv	rv				
+mandarin	hml	0022	fùqīn	father	ln_np.h:poss	ln_np	h	poss	1003	
+mandarin	hml	0022	huāhú	Huahu	ln_pn_np.h:poss	ln_pn_np	h	poss	1003	
+mandarin	hml	0022	de	MOD	ln	ln				
+mandarin	hml	0022	nà	that	ln	ln				
+mandarin	hml	0022	gè	CL	ln	ln				
+mandarin	hml	0022	wǔgōng	martial_art	np:p	np		p	1013	
+mandarin	hml	0023	#	#	##	##				
+mandarin	hml	0023	yīn	because	other	other				
+mandarin	hml	0023	dāngshí	at_that_time	other	other				
+mandarin	hml	0023	zài	in	adp	adp				
+mandarin	hml	0023	nà	that	ln	ln				
+mandarin	hml	0023	gè	CL	ln	ln				
+mandarin	hml	0023	běijīng	Beijing	pn_np:l	pn_np		l	1014	new
+mandarin	hml	0023	dāngshí	at_that_time	other	other				
+mandarin	hml	0023	běijīng	Beijing	ln_pn_np:poss	ln_pn_np		poss	1014	
+mandarin	hml	0023	de	MOD	other	other				
+mandarin	hml	0023	tūjué	Turk	pn_np.h:a	pn_np	h	a	1006	
+mandarin	hml	0023	hūrán	suddenly	other	other				
+mandarin	hml	0023	jiù	ADV	other	other				
+mandarin	hml	0023	shì	COP	other	other				
+mandarin	hml	0023	rùqīn	invade	v:pred	v		pred		
+mandarin	hml	0023	ZERO	0_borders	0:p	0		p	1007	
+mandarin	hml	0024	#	#	##	##				
+mandarin	hml	0024	ā	MP	other	other				
+mandarin	hml	0024	ZERO	0_they	0.h:a	0	h	a	1006	
+mandarin	hml	0024	duì	to	adp	adp				
+mandarin	hml	0024	límín	common_people	np.h:obl	np	h	obl	1015	new
+mandarin	hml	0024	bǎixìng	civilian	np.h:obl	np	h	obl	1016	bridging
+mandarin	hml	0024	zàochéng	produce	v:pred	v		pred		
+mandarin	hml	0024	le	ASP	rv	rv				
+mandarin	hml	0024	hěn	very	ln	ln				
+mandarin	hml	0024	dà	big	ln	ln				
+mandarin	hml	0024	de	MOD	ln	ln				
+mandarin	hml	0024	sǔnshāng	hurt	np:p	np		p	1017	new
+mandarin	hml	0025	#	#	##	##				
+mandarin	hml	0025	g	yes	other	other				
+mandarin	hml	0025	zhè	this	ln	ln				
+mandarin	hml	0025	yàng	way	np:other	np		other		
+mandarin	hml	0025	yǒu	have	v:pred	v		pred		
+mandarin	hml	0025	yī	one	ln	ln				
+mandarin	hml	0025	tiān	day	np:s	np		s		
+mandarin	hml	0025	ne	MP	other	other				
+mandarin	hml	0025	#	#	##	##				
+mandarin	hml	0025	nà	that	ln	ln				
+mandarin	hml	0025	gè	CL	ln	ln				
+mandarin	hml	0025	yuánshuài	marshal	np.h:s	np	h	s	1019	new
+mandarin	hml	0025	jiù	ADV	other	other				
+mandarin	hml	0025	xià	NC	nc	nc				
+mandarin	hml	0025	xiàlíng	issue_order	v:pred	v		pred		
+mandarin	hml	0026	#	#	##	##				
+mandarin	hml	0026	ZERO	0_they	0.h:a	0	h	a	1020	new
+mandarin	hml	0026	zhēngjí	collect	v:pred	v		pred		
+mandarin	hml	0026	gè	any	ln	ln				
+mandarin	hml	0026	di	place	ln_np	ln_np				
+mandarin	hml	0026	de	MOD	ln	ln				
+mandarin	hml	0026	yìmín	official	np.h:p	np	h	p	1021	bridging
+mandarin	hml	0026	#	#	##	##				
+mandarin	hml	0026	ZERO	0_official	0.h:s	0	h	s	1021	
+mandarin	hml	0026	cóngjūn	enlist	v:pred	v		pred		
+mandarin	hml	0026	#	#	##	##				
+mandarin	hml	0026	ZERO	0_official	0.h:a	0	h	a	1021	
+mandarin	hml	0026	bǎowèi	defend	nc	nc				
+mandarin	hml	0026	bǎowèi	defend	v:pred	v		pred		
+mandarin	hml	0026	guótǔ	country_soil	np:p	np		p	1022	new
+mandarin	hml	0027	#	#	##	##				
+mandarin	hml	0027	duì	to	adp	adp				
+mandarin	hml	0027	mùlán	Mulan	pn_np.h:obl	pn_np	h	obl	1001	
+mandarin	hml	0027	láishuō	saying	adp	adp				
+mandarin	hml	0027	ne	MP	other	other				
+mandarin	hml	0027	g	yes	other	other				
+mandarin	hml	0027	zé	oh	other	other				
+mandarin	hml	0027	è	oh	other	other				
+mandarin	hml	0027	tā	3SG	nc	nc				
+mandarin	hml	0027	de	MOD	nc	nc				
+mandarin	hml	0027	nà	that	nc	nc				
+mandarin	hml	0027	gè	CL	nc	nc				
+mandarin	hml	0027	zài	in	adp	adp				
+mandarin	hml	0027	nà	that	ln	ln				
+mandarin	hml	0027	gè	CL	ln	ln				
+mandarin	hml	0027	jūnshū	military_document	ln_np:poss	ln_np		poss	1024	new
+mandarin	hml	0027	shíèr	twelve	ln	ln				
+mandarin	hml	0027	juàn	CL	np:l	np		l		
+mandarin	hml	0027	lǐ	in	adp	adp				
+mandarin	hml	0027	jiù	ADV	other	other				
+mandarin	hml	0027	shì	COP	other	other				
+mandarin	hml	0027	měi	every	ln	ln				
+mandarin	hml	0027	yī	one	ln	ln				
+mandarin	hml	0027	juàn	CL	np:a	np		a	1024	
+mandarin	hml	0027	dū	all	lv	lv				
+mandarin	hml	0027	yǒu	have	v:pred	v		pred		
+mandarin	hml	0027	tā	3SG	ln_pro.h:poss	ln_pro	h	poss	1001	
+mandarin	hml	0027	fùqīn	father	ln_np.h:poss	ln_np	h	poss	1003	
+mandarin	hml	0027	de	MOD	ln	ln				
+mandarin	hml	0027	míngzì	name	np:p	np		p	1023	bridging
+mandarin	hml	0028	#	#	##	##				
+mandarin	hml	0028	g	yes	other	other				
+mandarin	hml	0028	yīnwéi	because	other	other				
+mandarin	hml	0028	zhè	this	nc	nc				
+mandarin	hml	0028	zhè	this	ln	ln				
+mandarin	hml	0028	cì	time	np:other	np		other	1025	new
+mandarin	hml	0028	zhēngbīng	enlistment	np:dt	np		dt	1026	new
+mandarin	hml	0028	ne	MP	other	other				
+mandarin	hml	0028	ZERO	0_they	0.h:a	0	h	a	1021	
+mandarin	hml	0028	yaoqiú	request	v:pred	v		pred		
+mandarin	hml	0028	nà	that	ln	ln				
+mandarin	hml	0028	gè	CL	ln	ln				
+mandarin	hml	0028	#	#	#rc	#rc				
+mandarin	hml	0028	ZERO	0_they	0.h:a	0	h	a	1027	bridging
+mandarin	hml	0028	fan	retire	v:pred	v		pred		
+mandarin	hml	0028	tuìwǔ	army	np:p	np		p	1004	
+mandarin	hml	0028	%	%	%	%				
+mandarin	hml	0028	de	MOD	ln	ln				
+mandarin	hml	0028	jūnguān	military_officer	np.h:p	np	h	p	1027	
+mandarin	hml	0028	#	#	##	##				
+mandarin	hml	0028	ZERO	0_they	0.h:s	0	h	s	1027	
+mandarin	hml	0028	doū	all	lv	lv				
+mandarin	hml	0028	xūyào	need	lv	lv				
+mandarin	hml	0028	cóngzhēng	go_on_expedition	v:pred	v		pred		
+mandarin	hml	0029	#	#	##	##				
+mandarin	hml	0029	rúguǒ	if	other	other				
+mandarin	hml	0029	shì	COP	other	other				
+mandarin	hml	0029	niánlíng	age	np:s	np		s	1028	new
+mandarin	hml	0029	tài	too	other	other				
+mandarin	hml	0029	dà	big	other:pred	other		pred		
+mandarin	hml	0029	le	ASP	other	other				
+mandarin	hml	0030	#	#	##	##				
+mandarin	hml	0030	nà	that	other	other				
+mandarin	hml	0030	tā	3SG	pro.h:s	pro	h	s	1029	new
+mandarin	hml	0030	jiù	ADV	other	other				
+mandarin	hml	0030	shì	COP	other	other				
+mandarin	hml	0030	ā	MP	other	other				
+mandarin	hml	0030	yóu	by	adp	adp				
+mandarin	hml	0030	nà	that	ln	ln				
+mandarin	hml	0030	gè	CL	ln	ln				
+mandarin	hml	0030	érzǐ	son	np.h:obl	np	h	obl	1029	
+mandarin	hml	0030	ā	MP	other	other				
+mandarin	hml	0030	tì	replace	adp	adp				
+mandarin	hml	0030	fù	father	np.h:obl	np	h	obl	1027	
+mandarin	hml	0030	cóngzhēng	go_on_expedition	v:pred	v		pred		
+mandarin	hml	0031	#	#	##	##				
+mandarin	hml	0031	dànshì	but	other	other				
+mandarin	hml	0031	yīnwéi	because	other	other				
+mandarin	hml	0031	nà	that	ln	ln				
+mandarin	hml	0031	gè	CL	ln	ln				
+mandarin	hml	0031	huāhú	Huahu	np.h:dt	np	h	dt	1003	
+mandarin	hml	0031	tā	3SG	ln_pro.h:poss	ln_pro	h	poss	1003	
+mandarin	hml	0031	nián	age	np:s	np		s	1030	bridging
+mandarin	hml	0031	shìfēi	right_and_wrong	other:pred	other		pred		
+mandarin	hml	0031	#	#	##	##				
+mandarin	hml	0031	ZERO	0_it	0:s	0		s	1030	
+mandarin	hml	0031	yǐjīng	already	other	other				
+mandarin	hml	0031	fēicháng	really	other	other				
+mandarin	hml	0031	gāo	high	other:pred	other		pred		
+mandarin	hml	0031	le	ASP	other	other				
+mandarin	hml	0032	#	#	##neg	##neg				
+mandarin	hml	0032	dànshì	but	other	other				
+mandarin	hml	0032	tā	3SG	pro.h:a	pro	h	a	1003	
+mandarin	hml	0032	yòu	again	other	other				
+mandarin	hml	0032	tóngyàng	also	other	other				
+mandarin	hml	0032	de	MOD	other	other				
+mandarin	hml	0032	méi	NEG	lv	lv				
+mandarin	hml	0032	yǒu	have	v:pred	v		pred		
+mandarin	hml	0032	érzǐ	son	np.h:p	np	h	p	1029	
+mandarin	hml	0033	#	#	##	##				
+mandarin	hml	0033	suǒyǐ	so	other	other				
+mandarin	hml	0033	shuō	say	other	other				
+mandarin	hml	0033	ā	MP	other	other				
+mandarin	hml	0033	jiù	ADV	other	other				
+mandarin	hml	0033	ké	oh	other	other				
+mandarin	hml	0033	jiù	ADV	other	other				
+mandarin	hml	0033	shì	COP	other	other				
+mandarin	hml	0033	chǔyú	lie	v:pred	v		pred		
+mandarin	hml	0033	yī	one	ln	ln				
+mandarin	hml	0033	zhǒng	type	ln	ln				
+mandarin	hml	0033	hěn	very	ln	ln				
+mandarin	hml	0033	gāngà	embarassing	ln	ln				
+mandarin	hml	0033	de	MOD	ln	ln				
+mandarin	hml	0033	jìngdì	condition	np:s	np		s	1031	new
+mandarin	hml	0034	#	#	##	##				
+mandarin	hml	0034	ránér	then	other	other				
+mandarin	hml	0034	zhè	this	ln	ln				
+mandarin	hml	0034	gè	CL	ln	ln				
+mandarin	hml	0034	shíhòu	moment	np:other	np		other	1032	new
+mandarin	hml	0034	ne	MP	other	other				
+mandarin	hml	0034	tā	3SG	ln_pro.h:poss	ln_pro	h	poss	1003	
+mandarin	hml	0034	de	MOD	ln	ln				
+mandarin	hml	0034	nǚér	daughter	np.h:a	np	h	a	1001	
+mandarin	hml	0034	mùlán	Mulan	rn_pn_np.h	rn_pn_np	h		1001	
+mandarin	hml	0034	jiù	ADV	other	other				
+mandarin	hml	0034	huídao	return	v:pred	v		pred		
+mandarin	hml	0034	le	ASP	rv	rv				
+mandarin	hml	0034	zìjǐ	REFL	ln_refl.h:poss	ln_refl	h	poss	1001	
+mandarin	hml	0034	de	MOD	ln	ln				
+mandarin	hml	0034	jīfáng	equipment room	np:p	np		p	1033	new
+mandarin	hml	0034	#	#	##	##				
+mandarin	hml	0034	ZERO	0_she	0.h:s	0	h	s	1001	
+mandarin	hml	0034	xīn	heart	np:l	np		l	1034	bridging
+mandarin	hml	0034	lǐ	in	adp	adp				
+mandarin	hml	0034	xīn	heart	np:l	np		l	1034	
+mandarin	hml	0034	lǐ	in	adp	adp				
+mandarin	hml	0034	hěn	very	other	other				
+mandarin	hml	0034	chóumèn	gloomy	other:pred	other		pred		
+mandarin	hml	0034	ā	MP	other	other				
+mandarin	hml	0035	#	#	##	##				
+mandarin	hml	0035	ZERO	0_she	0.h:a	0	h	a	1001	
+mandarin	hml	0035	xiǎngqǐ	think_of	v:pred	v		pred		
+mandarin	hml	0035	#	#	#cc:p	#cc		p		
+mandarin	hml	0035	fùqīn	father	np.h:dt	np	h	dt	1003	
+mandarin	hml	0035	nà	that	ln	ln				
+mandarin	hml	0035	gè	CL	ln	ln				
+mandarin	hml	0035	nián	age	np:s	np		s	1030	
+mandarin	hml	0035	lǎo	old	other:pred	other		pred		
+mandarin	hml	0035	#	#	##	##				
+mandarin	hml	0035	tǐ	body	np:s	np		s	1035	bridging
+mandarin	hml	0035	ruò	weak	other:pred	other		pred		
+mandarin	hml	0035	#	#	##	##				
+mandarin	hml	0035	ZERO	0_he	0.h:s	0	h	s	1003	
+mandarin	hml	0035	duō	many	other	other				
+mandarin	hml	0035	bìng	sickness	other:pred	other		pred	1047	new
+mandarin	hml	0035	#	#	##neg	##neg				
+mandarin	hml	0035	ZERO	0_he	0.h:a	0	h	a	1003	
+mandarin	hml	0035	yòu	again	other	other				
+mandarin	hml	0035	méi	NEG	lv	lv				
+mandarin	hml	0035	yǒu	have	v:pred	v		pred		
+mandarin	hml	0035	méi	NEG	nc	nc				
+mandarin	hml	0035	yǒu	have	nc	nc				
+mandarin	hml	0035	dà	big	ln	ln				
+mandarin	hml	0035	de	MOD	ln	ln				
+mandarin	hml	0035	érzǐ	son	np.h:p	np	h	p	1029	
+mandarin	hml	0035	#	#	##	##				
+mandarin	hml	0035	ZERO	0_he	0.h:a	0	h	a	1029	
+mandarin	hml	0035	kěyǐ	can	lv	lv				
+mandarin	hml	0035	tìdài	replace	v:pred	v		pred		
+mandarin	hml	0035	ZERO	0_father	0.h:p	0	h	p	1003	
+mandarin	hml	0035	wéi	for	adp	adp				
+mandarin	hml	0035	guó	country	ln_np:poss	ln_np		poss	1022	
+mandarin	hml	0035	xiàolì	effect	np:obl	np		obl	1036	new
+mandarin	hml	0036	#	#	##	##				
+mandarin	hml	0036	wán	finish	other	other				
+mandarin	hml	0036	le	ASP	other	other				
+mandarin	hml	0036	wéi	for	adp	adp				
+mandarin	hml	0036	guó	country	ln_np:poss	ln_np		poss	1022	
+mandarin	hml	0036	xiàolì	effect	np:obl	np		obl	1036	
+mandarin	hml	0036	ne	MP	other	other				
+mandarin	hml	0036	tā	3SG	pro.h:a	pro	h	a	1001	
+mandarin	hml	0036	xiǎng	want	v:pred	v		pred		
+mandarin	hml	0036	#	#	#cc:p	#cc		p		
+mandarin	hml	0036	zìjǐ	REFL	refl.h:a	refl	h	a	1001	
+mandarin	hml	0036	běn	original	other	other				
+mandarin	hml	0036	yǒu	have	v:pred	v		pred		
+mandarin	hml	0036	zérèn	responsibility	np:p	np		p	1037	new
+mandarin	hml	0037	#	#	##	##				
+mandarin	hml	0037	ZERO	0_it	0:s	0		s		
+mandarin	hml	0037	wúnài	having_no_choice	other:pred	other		pred		
+mandarin	hml	0037	ne	MP	other	other				
+mandarin	hml	0037	#	#	##	##				
+mandarin	hml	0037	#	#	#cc:s	#cc		s		
+mandarin	hml	0037	nǚzǐ	woman	np.h:s	np	h	s	1038	new
+mandarin	hml	0037	cóngjūn	enlist	v:pred	v		pred		
+mandarin	hml	0037	%	%	%	%				
+mandarin	hml	0037	fēicháng	really	other	other				
+mandarin	hml	0038	bùbian	inappropriate	other:pred	other		pred		
+mandarin	hml	0038	#	#	##	##				
+mandarin	hml	0038	ZERO	0_she	0.h:s	0	h	s	1001	
+mandarin	hml	0038	xiǎng	think	v:pred	v		pred		
+mandarin	hml	0038	dào	arrive	adp	adp				
+mandarin	hml	0038	zhèlǐ	here	pro:l	pro		l	1189	new
+mandarin	hml	0038	#	#	##	##				
+mandarin	hml	0038	tā	3SG	pro.h:s	pro	h	s	1001	
+mandarin	hml	0038	bùyóudé	cannot_help	lv	lv				
+mandarin	hml	0038	tànxī	sigh	v:pred	v		pred		
+mandarin	hml	0038	g	yes	other	other				
+mandarin	hml	0039	#	#	##	##				
+mandarin	hml	0039	jiù	ADV	other	other				
+mandarin	hml	0039	xiāngdāngyú	similar_to	other	other				
+mandarin	hml	0039	#	#	#ac	#ac				
+mandarin	hml	0039	wǒmén	1PL	pro.1:s	pro	1	s	1039	new
+mandarin	hml	0039	zài	in	adp	adp				
+mandarin	hml	0039	xiǎoxué	primary_school	np:l	np		l	1040	new
+mandarin	hml	0039	deshíhòu	when	other	other				
+mandarin	hml	0039	%	%	%	%				
+mandarin	hml	0039	ZERO	0_we	0.1:a	0	1	a	1039	
+mandarin	hml	0039	yě	also	other	other				
+mandarin	hml	0039	yě	also	other	other				
+mandarin	hml	0039	zhīdào	know	v:pred	v		pred		
+mandarin	hml	0039	nà	that	ln	ln				
+mandarin	hml	0039	gè	CL	ln	ln				
+mandarin	hml	0039	jījī	sighing_noise	np:p	np		p	1041	new
+mandarin	hml	0039	fù	father	np:other	np		other	1003	
+mandarin	hml	0039	jījī	sighing_noise	np:other	np		other	1041	
+mandarin	hml	0039	#	#	##	##				
+mandarin	hml	0039	mùlán	Mulan	pn_np.h:a	pn_np	h	a	1001	
+mandarin	hml	0039	dāng	as	v:pred	v		pred		
+mandarin	hml	0039	hùzhi	household_knitter	np.h:p	np	h	p	1042	new
+mandarin	hml	0040	#	#	#nc	#nc				
+mandarin	hml	0040	bù	NEG	nc	nc				
+mandarin	hml	0040	wén	news	nc	nc				
+mandarin	hml	0040	jīzhu	loom	nc	nc				
+mandarin	hml	0040	shēng	voice	nc	nc				
+mandarin	hml	0040	wéiwén	but	nc	nc				
+mandarin	hml	0040	wen	news	nc	nc				
+mandarin	hml	0040	nǚ	woman	nc	nc				
+mandarin	hml	0040	tànxī	sigh	nc	nc				
+mandarin	hml	0041	#	#	##	##				
+mandarin	hml	0041	zhège	this	pro:s	pro		s	1043	new
+mandarin	hml	0041	zhè	this	nc	nc				
+mandarin	hml	0041	gè	CL	nc	nc				
+mandarin	hml	0041	kěnéng	maybe	other	other				
+mandarin	hml	0041	jiù	ADV	other	other				
+mandarin	hml	0041	shì	COP	other	other				
+mandarin	hml	0041	xiàngdāng	NC	other	other				
+mandarin	hml	0041	g	yes	other	other				
+mandarin	hml	0041	duì	to	adp	adp				
+mandarin	hml	0041	tā	3SG	pro.h:dt	pro	h	dt	1001	
+mandarin	hml	0041	dāngshí	at_that_time	np:other	np		other	1008	
+mandarin	hml	0041	nà	that	ln	ln				
+mandarin	hml	0041	gè	CL	ln	ln				
+mandarin	hml	0041	zhuàngtài	situation	np:obl	np		obl	1044	new
+mandarin	hml	0041	zuì	most	ln	ln				
+mandarin	hml	0041	hǎo	good	ln	ln				
+mandarin	hml	0041	de	MOD	ln	ln				
+mandarin	hml	0041	xíngróng	description	np:pred	np		pred	1043	
+mandarin	hml	0042	#	#	##	##				
+mandarin	hml	0042	g	yes	other	other				
+mandarin	hml	0042	hòulái	later	other	other				
+mandarin	hml	0042	ne	MP	other	other				
+mandarin	hml	0042	guānchà	government_workmen	np.h:s	np	h	s	1045	bridging
+mandarin	hml	0042	yòu	again	other	other				
+mandarin	hml	0042	yòu	again	other	other				
+mandarin	hml	0042	guòlái	come_over	v:pred	v		pred		
+mandarin	hml	0042	#	#	##	##				
+mandarin	hml	0042	ZERO	0_workmen	svc_0.h:a	svc_0	h	a	1045	
+mandarin	hml	0042	cuīcù	urge	v:pred	v		pred		
+mandarin	hml	0042	nà	that	ln	ln				
+mandarin	hml	0042	gè	CL	ln	ln				
+mandarin	hml	0042	mùlán	Mulan	pn_np.h:p	pn_np	h	p	1001	
+mandarin	hml	0043	#	#	##neg	##neg				
+mandarin	hml	0043	ké	oh	other	other				
+mandarin	hml	0043	è	oh	other	other				
+mandarin	hml	0043	ZERO	0_they	0.h:a	0	h	a	1020	
+mandarin	hml	0043	bù	NEG	lv	lv				
+mandarin	hml	0043	yīnggāi	should	lv	lv				
+mandarin	hml	0043	cuī	NC	nc	nc				
+mandarin	hml	0043	cuīcù	urge	v:pred	v		pred		
+mandarin	hml	0043	tā	3SG	ln_pro.h:poss	ln_pro	h	poss	1001	
+mandarin	hml	0043	de	MOD	ln	ln				
+mandarin	hml	0043	fùqīn	father	np.h:p	np	h	p	1003	
+mandarin	hml	0043	#	#	##	##				
+mandarin	hml	0043	ZERO	0_he	svc_0.h:a	svc_0	h	a	1003	
+mandarin	hml	0043	qù	go	v:pred	v		pred		
+mandarin	hml	0043	nà	that	ln	ln				
+mandarin	hml	0043	gè	CL	ln	ln				
+mandarin	hml	0043	yīngzhēng	apply	np:p	np		p	1190	new
+mandarin	hml	0043	#	#	##	##				
+mandarin	hml	0043	ZERO	0_he	svc_0.h:s	svc_0	h	s	1003	
+mandarin	hml	0043	rùwǔ	enlist	v:pred	v		pred		
+mandarin	hml	0044	#	#	##	##				
+mandarin	hml	0044	zhè	this	nc	nc				
+mandarin	hml	0044	gè	CL	nc	nc				
+mandarin	hml	0044	huā	Hua	nc	nc				
+mandarin	hml	0044	ā	MP	nc	nc				
+mandarin	hml	0044	zhè	this	ln	ln				
+mandarin	hml	0044	gè	CL	ln	ln				
+mandarin	hml	0044	shíhòu	moment	np:other	np		other	1046	new
+mandarin	hml	0044	ne	MP	other	other				
+mandarin	hml	0044	huāhú	Huahu	np.h:dt_a	np	h	dt_a	1003	
+mandarin	hml	0044	tā	3SG	pro.h:a	pro	h	a	1003	
+mandarin	hml	0044	fúbìng	support	v:pred	v		pred		
+mandarin	hml	0044	bing	sickness	np:p	np		p	1047	
+mandarin	hml	0044	#	#	##	##				
+mandarin	hml	0044	ZERO	0_he	svc_0.h:a	svc_0	h	a	1003	
+mandarin	hml	0044	chūyíng	go_out	v:pred	v		pred		
+mandarin	hml	0044	ying	barracks	np:p	np		p	1048	new
+mandarin	hml	0045	#	#	##	##				
+mandarin	hml	0045	ZERO	0_he	0.h:a	0	h	a	1003	
+mandarin	hml	0045	juédé	think	v:pred	v		pred		
+mandarin	hml	0045	#	#	#cc:p	#cc		p		
+mandarin	hml	0045	zìjǐ	REFL	refl.h:s	refl	h	s	1003	
+mandarin	hml	0045	wéi	for	adp	adp				
+mandarin	hml	0045	guo	country	np:obl	np		obl	1022	
+mandarin	hml	0045	yudí	enemy_of_emperor	np.h:obl	np	h	obl	1006	
+mandarin	hml	0045	yiburóngcí	duty_bound	other:pred	other		pred		
+mandarin	hml	0046	#	#	##	##				
+mandarin	hml	0046	tā	3SG	pro.h:a	pro	h	a	1003	
+mandarin	hml	0046	biàn	thus	other	other				
+mandarin	hml	0046	yào	will	lv	lv				
+mandarin	hml	0046	shōushí	pack	v:pred	v		pred		
+mandarin	hml	0046	xínglǐ	luggage	np:p	np		p	1049	new
+mandarin	hml	0046	#	#	##	##				
+mandarin	hml	0046	ZERO	0_he	0.h:s	0	h	s	1003	
+mandarin	hml	0046	qù	go	v:pred	v		pred		
+mandarin	hml	0046	#	#	##	##				
+mandarin	hml	0046	ZERO	0_he	svc_0.h:a	svc_0	h	a	1003	
+mandarin	hml	0046	dòng	move	v:pred	v		pred		
+mandarin	hml	0046	shēn	body	np:p	np		p	1035	
+mandarin	hml	0047	#	#	##	##				
+mandarin	hml	0047	dànshì	but	other	other				
+mandarin	hml	0047	mùlán	Mulan	pn_np.h:dt_a	pn_np	h	dt_a	1001	
+mandarin	hml	0047	ne	MP	other	other				
+mandarin	hml	0047	mùlán	Mulan	pn_np.h:a	pn_np	h	a	1001	
+mandarin	hml	0047	zhè	this	ln	ln				
+mandarin	hml	0047	gè	CL	ln	ln				
+mandarin	hml	0047	shíhòu	moment	np:other	np		other	1050	new
+mandarin	hml	0047	zuò	make	v:pred	v		pred		
+mandarin	hml	0047	le	ASP	rv	rv				
+mandarin	hml	0047	yī	one	ln	ln				
+mandarin	hml	0047	gè	CL	ln	ln				
+mandarin	hml	0047	hěn	very	ln	ln				
+mandarin	hml	0047	yǒnggǎn	courageous	ln	ln				
+mandarin	hml	0047	de	MOD	ln	ln				
+mandarin	hml	0047	juédìng	decide/decision	np:p	np		p	1051	new
+mandarin	hml	0048	#	#	##	##				
+mandarin	hml	0048	tā	3SG	pro.h:a	pro	h	a	1001	
+mandarin	hml	0048	juédìng	decide/decision	v:pred	v		pred		
+mandarin	hml	0048	jiù	ADV	other	other				
+mandarin	hml	0048	#	#	#cc:p	#cc		p		
+mandarin	hml	0048	ZERO	0_she	0.h:a	0	h	a	1001	
+mandarin	hml	0048	dàitì	replace	v:pred	v		pred		
+mandarin	hml	0048	zìjǐ	REFL	nc	nc			1001	
+mandarin	hml	0048	dàitì	replace	nc	nc				
+mandarin	hml	0048	zìjǐ	REFL	ln_refl.h:poss	ln_refl	h	poss	1001	
+mandarin	hml	0048	de	MOD	ln	ln				
+mandarin	hml	0048	fùqīn	father	np.h:p	np	h	p	1003	
+mandarin	hml	0048	#	#	##	##				
+mandarin	hml	0048	ZERO	0_she	svc_0.h:s	svc_0	h	s	1001	
+mandarin	hml	0048	qù	go	v:pred	v		pred		
+mandarin	hml	0048	#	#	##	##				
+mandarin	hml	0048	ZERO	0_she	svc_0.h:s	svc_0	h	s	1001	
+mandarin	hml	0048	yīngzhēng	apply	v:pred	v		pred		
+mandarin	hml	0048	#	#	##	##				
+mandarin	hml	0048	ZERO	0_she	svc_0.h:s	svc_0	h	s	1001	
+mandarin	hml	0048	rùwǔ	enlist	v:pred	v		pred		
+mandarin	hml	0049	#	#	##neg	##neg				
+mandarin	hml	0049	dànshì	but	other	other				
+mandarin	hml	0049	dāngshí	at_that_time	np:other	np		other		
+mandarin	hml	0049	dàjiā	everybody	np.h:s	np	h	s	1053	new
+mandarin	hml	0049	doū	all	rn	rn				
+mandarin	hml	0049	bù	NEG	lv	lv				
+mandarin	hml	0049	tóngyì	agree	v:pred	v		pred		
+mandarin	hml	0050	#	#	##	##				
+mandarin	hml	0050	yīnwéi	because	other	other				
+mandarin	hml	0050	doū	all	pro.h:s_ds	pro	h	s_ds	1053	
+mandarin	hml	0050	shuō	say	v:pred	v		pred		
+mandarin	hml	0050	#	#	##ds	##ds				
+mandarin	hml	0050	nǚháiér	girl	nc	nc			1054	
+mandarin	hml	0050	nǚ	woman	nc	nc			1038	
+mandarin	hml	0050	nǚháiér	girl	ln_np.h:poss	ln_np	h	poss	1054	
+mandarin	hml	0050	jiā	home	np:s	np		s	1055	new
+mandarin	hml	0050	qù	go	v:pred	v		pred		
+mandarin	hml	0050	bude	cannot	rv	rv				
+mandarin	hml	0051	#	#	##	##				
+mandarin	hml	0051	g	yes	other	other				
+mandarin	hml	0051	dànshì	but	other	other				
+mandarin	hml	0051	zài	in	adp	adp				
+mandarin	hml	0051	mùlán	Mulan	ln_pn_np.h:poss	ln_pn_np	h	poss	1001	
+mandarin	hml	0051	de	MOD	ln	ln				
+mandarin	hml	0051	#	#	#rc	#rc				
+mandarin	hml	0051	ZERO	0_she	f0.h:s	f0	h	s	1001	
+mandarin	hml	0051	yī	one	lv	lv				
+mandarin	hml	0051	zài	in	lv	lv				
+mandarin	hml	0051	jiānchí	insist	v:pred	v		pred		
+mandarin	hml	0051	#	#	#rc	#rc				
+mandarin	hml	0051	ZERO	0_she	f0.h:a	f0	h	a	1001	
+mandarin	hml	0051	yàoqiú	request	v:pred	v		pred		
+mandarin	hml	0051	#	#	#cc:p	#cc		p		
+mandarin	hml	0051	nǚ	woman	np.h:a	np	h	a	1038	
+mandarin	hml	0051	bàn	dress_as	v:pred	v		pred		
+mandarin	hml	0051	nán	man	nc	nc			1056	new
+mandarin	hml	0051	nánzhuāng	dressed_as_boy	np:p	np		p	1057	new
+mandarin	hml	0051	%	%	%	%				
+mandarin	hml	0051	de	MOD	ln	ln				
+mandarin	hml	0051	yàoqiú	request	np:obl	np		obl	1058	new
+mandarin	hml	0051	xià	under	adp	adp				
+mandarin	hml	0052	tā	3SG	nc	nc			1001	
+mandarin	hml	0052	tā	3SG	pro.h:a	pro	h	a	1001	
+mandarin	hml	0052	tóngshí	at_the_same_time	np:other	np		other	1059	new
+mandarin	hml	0052	gěi	give/ADP	adp	adp				
+mandarin	hml	0052	dàjiā	everybody	np.h:g	np	h	g	1053	
+mandarin	hml	0052	yě	also	other	other				
+mandarin	hml	0052	biǎoyǎn	present	v:pred	v		pred		
+mandarin	hml	0052	le	ASP	rv	rv				
+mandarin	hml	0052	tā	3SG	ln_pro.h:poss	ln_pro	h	poss	1001	
+mandarin	hml	0052	zìjǐ	REFL	ln_refl.h:poss	ln_refl	h	poss	1001	
+mandarin	hml	0052	de	MOD	ln	ln				
+mandarin	hml	0052	gāoqiáng	strong	ln	ln				
+mandarin	hml	0052	wǔyì	feat	np:p	np		p	1060	new
+mandarin	hml	0053	#	#	##	##				
+mandarin	hml	0053	zhè	this	ln	ln				
+mandarin	hml	0053	yang	way	np:other	np		other		
+mandarin	hml	0053	ne	MP	other	other				
+mandarin	hml	0053	fùqīn	father	np.h:s	np	h	s	1003	
+mandarin	hml	0053	hé	and	rn	rn				
+mandarin	hml	0053	qīnrén	relatives	rn_np.h	rn_np	h		1061	new
+mandarin	hml	0053	jiù	ADV	other	other				
+mandarin	hml	0053	tóngyì	agree	v:pred	v		pred		
+mandarin	hml	0053	le	ASP	rv	rv				
+mandarin	hml	0053	#	#	##	##				
+mandarin	hml	0053	tā	3SG	pro.h:a	pro	h	a	1001	
+mandarin	hml	0053	zé	oh	other	other				
+mandarin	hml	0053	tì	replace	v:pred	v		pred		
+mandarin	hml	0053	zìjǐ	REFL	refl.h:p	refl	h	p	1001	
+mandarin	hml	0053	#	#	##	##				
+mandarin	hml	0053	ZERO	0_she	svc_0.h:s	svc_0	h	s	1001	
+mandarin	hml	0053	chūzhēng	go_out_to_battle	v:pred	v		pred		
+mandarin	hml	0054	#	#	##	##				
+mandarin	hml	0054	nǚ	woman	nc	nc				
+mandarin	hml	0054	bàn	dress_as	nc	nc				
+mandarin	hml	0054	nǚ	woman	np.h:a	np	h	a	1038	
+mandarin	hml	0054	bàn	dress_as	v:pred	v		pred		
+mandarin	hml	0054	nánzhuāng	dressed_as_boy	np:p	np		p	1057	
+mandarin	hml	0054	zhīhòu	after	other	other				
+mandarin	hml	0054	ne	MP	other	other				
+mandarin	hml	0055	#	#	##	##				
+mandarin	hml	0055	mùlán	Mulan	pn_np.h:dt_a	pn_np	h	dt_a	1001	
+mandarin	hml	0055	è	oh	other	other				
+mandarin	hml	0055	tā	3SG	pro.h:a	pro	h	a	1001	
+mandarin	hml	0055	mǎi	buy	v:pred	v		pred		
+mandarin	hml	0055	hǎo	good	rv	rv				
+mandarin	hml	0055	zìjǐ	REFL	ln_refl.h:poss	ln_refl	h	poss	1001	
+mandarin	hml	0055	de	MOD	ln	ln				
+mandarin	hml	0055	gōngjiàn	bow_and_arrow	np:p	np		p	1062	new
+mandarin	hml	0055	ān	saddle	rn_np	rn_np			1191	new
+mandarin	hml	0055	mǎ	horse	rn_np	rn_np			1067	new
+mandarin	hml	0055	#	#	##	##				
+mandarin	hml	0055	yīqiē	everything	pro:s	pro		s	1063	new
+mandarin	hml	0055	doū	all	lv	lv				
+mandarin	hml	0055	dǎdiǎnhǎo	get_luggage_ready	v:pred	v		pred		
+mandarin	hml	0055	zhīhòu	after	other	other				
+mandarin	hml	0056	#	#	##	##				
+mandarin	hml	0056	ZERO	0_she	0.h:s	0	h	s	1001	
+mandarin	hml	0056	suízhe	following	adp	adp				
+mandarin	hml	0056	chāotíng	royal_court	ln_np:poss	ln_np		poss	1064	new
+mandarin	hml	0056	de	MOD	ln	ln				
+mandarin	hml	0056	yuánshuài	marshal	np.h:obl	np	h	obl	1065	new
+mandarin	hml	0056	jiù	ADV	other	other				
+mandarin	hml	0056	yīqǐ	together	other	other				
+mandarin	hml	0056	chūzhēng	go_out_to_battle	v:pred	v		pred		
+mandarin	hml	0056	la	ASP	rv	rv				
+mandarin	hml	0057	#	#	##	##				
+mandarin	hml	0057	è	oh	other	other				
+mandarin	hml	0057	ZERO	0_he	0.h:a	0	h	a	1065	
+mandarin	hml	0057	zài	in	lv	lv				
+mandarin	hml	0057	diǎnqi	point	v:pred	v		pred		
+mandarin	hml	0057	rén	person	np.h:p	np	h	p	1066	new
+mandarin	hml	0057	mǎ	horse	rn_np.h	rn_np	h		1067	
+mandarin	hml	0057	#	#	##	##				
+mandarin	hml	0057	dāo	knife	np:s	np		s	1068	new
+mandarin	hml	0057	qiāng	gun	rn_np	rn_np			1069	new
+mandarin	hml	0057	zhěngqí	functional	other:pred	other		pred		
+mandarin	hml	0057	#	#	##	##				
+mandarin	hml	0057	dàduì	brigade	np.h:a	np	h	a	1070	new
+mandarin	hml	0057	rén	person	rn_np.h	rn_np	h		1066	
+mandarin	hml	0057	mǎ	horse	rn_np	rn_np			1067	
+mandarin	hml	0057	jiù	ADV	other	other				
+mandarin	hml	0057	hàohàodangdang	vigorous	lv	lv				
+mandarin	hml	0057	de	MOD	lv	lv				
+mandarin	hml	0057	kāifù	march	v:pred	v		pred		
+mandarin	hml	0057	qiánxiàn	front	np:p	np		p	1071	new
+mandarin	hml	0058	#	#	##	##				
+mandarin	hml	0058	mùlán	Mulan	pn_np.h:dt	pn_np	h	dt	1001	
+mandarin	hml	0058	tāmén	3PL	pro.h:a	pro	h	a	1070	
+mandarin	hml	0058	guò	pass	v:pred	v		pred		
+mandarin	hml	0058	le	ASP	rv	rv				
+mandarin	hml	0058	huánghé	yellow_river	pn_np:p	pn_np		p	1072	new
+mandarin	hml	0058	zhīhòu	after	other	other				
+mandarin	hml	0058	#	#	##	##				
+mandarin	hml	0058	ZERO	0_they	0.h:a	0	h	a	1070	
+mandarin	hml	0058	yòu	again	other	other				
+mandarin	hml	0058	dùguò	cross	v:pred	v		pred		
+mandarin	hml	0058	hēishuǐ	Heishui	pn_np.h:p	pn_np	h	p	1072	
+mandarin	hml	0059	#	#	##	##				
+mandarin	hml	0059	ZERO	0_they	0.h:s	0	h	s	1070	
+mandarin	hml	0059	pīxingdaiyue	travel_day_and_night	other:pred	other		pred		
+mandarin	hml	0059	#	#	##	##				
+mandarin	hml	0059	ZERO	0_they	0.h:s	0	h	s	1070	
+mandarin	hml	0059	fānshanyueling	pass_over_mountains	other:pred	other		pred		
+mandarin	hml	0060	#	#	##	##				
+mandarin	hml	0060	zuìzhōng	in_the_end	other	other				
+mandarin	hml	0060	zài	in	nc	nc				
+mandarin	hml	0060	zài	in	adp	adp				
+mandarin	hml	0060	xíngjūn	march	ln	ln				
+mandarin	hml	0060	túzhong	en_route	np:other	np		other	1073	new
+mandarin	hml	0060	ne	MP	other	other				
+mandarin	hml	0060	yǒu	have	nc	nc				
+mandarin	hml	0060	yǒu	have	v:pred	v		pred		
+mandarin	hml	0060	yī	one	ln	ln				
+mandarin	hml	0060	gè	CL	ln	ln				
+mandarin	hml	0060	xiǎo	little	ln	ln				
+mandarin	hml	0060	gùshì	story	np:s	np		s	1074	new
+mandarin	hml	0061	#	#	##	##				
+mandarin	hml	0061	jiùshì	ADV	other	other				
+mandarin	hml	0061	yǒu	have	ln	ln				
+mandarin	hml	0061	yī	one	ln	ln				
+mandarin	hml	0061	gè	CL	ln	ln				
+mandarin	hml	0061	zhànshì	warrior	np.h:s_ds	np	h	s_ds	1075	new
+mandarin	hml	0061	shuōqi	mention	v:pred	v		pred		
+mandarin	hml	0061	#	#	##ds	##ds				
+mandarin	hml	0061	fùnǚ	woman	np.h:s	np	h	s	1038	
+mandarin	hml	0061	zài	in	adp	adp				
+mandarin	hml	0061	jiā	home	np:l	np		l	1055	
+mandarin	hml	0061	ān	safely	lv	lv				
+mandarin	hml	0061	xiangqīngfú	live_in_ease_and_comfort	v:pred	v		pred		
+mandarin	hml	0061	g	yes	other	other				
+mandarin	hml	0061	#	#	##ds	##ds				
+mandarin	hml	0061	kǔ	bitter	ln	ln				
+mandarin	hml	0061	shìér	thing	np:dt	np		dt	1076	new
+mandarin	hml	0061	doū	all	rn	rn				
+mandarin	hml	0061	ZERO	0_they	0.h:a	0	h	a	1038	
+mandarin	hml	0061	ràng	let	v:pred	v		pred		
+mandarin	hml	0061	nánzǐ	man	np.h:p	np	h	p	1056	
+mandarin	hml	0061	#	#	##ds	##ds				
+mandarin	hml	0061	ZERO	0_they	svc_0.h:s	svc_0	h	s	1038	
+mandarin	hml	0061	qù	go	v:pred	v		pred		
+mandarin	hml	0061	#	#	##ds	##ds				
+mandarin	hml	0061	nánzǐ	man	np.h:a	np	h	a	1056	
+mandarin	hml	0061	zuò	make	v:pred	v		pred		
+mandarin	hml	0061	ZERO	0_they	0:p	0		p	1038	
+mandarin	hml	0061	le	ASP	other	other				
+mandarin	hml	0062	#	#	##	##				
+mandarin	hml	0062	ā	MP	other	other				
+mandarin	hml	0062	zhè	this	ln	ln				
+mandarin	hml	0062	gè	CL	ln	ln				
+mandarin	hml	0062	shíhòu	moment	np:other	np		other	1077	new
+mandarin	hml	0062	mùlán	Mulan	pn_np.h:dt_a	pn_np	h	dt_a	1001	
+mandarin	hml	0062	tā	3SG	pro.h:a	pro	h	a	1001	
+mandarin	hml	0062	zuòwéi	being	v:pred	v		pred		
+mandarin	hml	0062	yī	one	ln	ln				
+mandarin	hml	0062	gè	CL	ln	ln				
+mandarin	hml	0062	nǚháizǐ	girl	np.h:p	np	h	p	1054	
+mandarin	hml	0062	#	#	##neg	##neg				
+mandarin	hml	0062	ZERO	0_she	0.h:s	0	h	s	1001	
+mandarin	hml	0062	kěnéng	maybe	other	other				
+mandarin	hml	0062	yě	also	other	other				
+mandarin	hml	0062	shì	COP	other	other				
+mandarin	hml	0062	ā	MP	other	other				
+mandarin	hml	0062	xīn	heart	np:l	np		l	1034	
+mandarin	hml	0062	lǐ	in	adp	adp				
+mandarin	hml	0062	huì	will	other	other				
+mandarin	hml	0062	hěn	very	other	other				
+mandarin	hml	0062	bù	NEG	other	other				
+mandarin	hml	0062	shūfú	comfortable	other:pred	other		pred		
+mandarin	hml	0062	suǒyǐ	so	other	other				
+mandarin	hml	0063	#	#	##	##				
+mandarin	hml	0063	ZERO	0_she	0.h:s_ds	0	h	s_ds	1001	
+mandarin	hml	0063	shuō	say	v:pred	v		pred		
+mandarin	hml	0063	#	#	##	##				
+mandarin	hml	0063	tā	3SG	pro.h:s_ds	pro	h	s_ds	1001	
+mandarin	hml	0063	jiù	ADV	other	other				
+mandarin	hml	0063	dāngshí	at_that_time	np:other	np		other	1077	
+mandarin	hml	0063	shuō	say	v:pred	v		pred		
+mandarin	hml	0063	#	#	##	##				
+mandarin	hml	0063	tā	3SG	pro.h:s_ds	pro	h	s_ds	1001	
+mandarin	hml	0063	shuō	say	v:pred	v		pred		
+mandarin	hml	0063	#	#	##ds	##ds				
+mandarin	hml	0063	ZERO	0_we	0.1:a	0	1	a	1078	new
+mandarin	hml	0063	shā	kill	v:pred	v		pred		
+mandarin	hml	0063	dí	enemy	np.h:p	np	h	p	1006	
+mandarin	hml	0063	#	#	##ds	##ds				
+mandarin	hml	0063	ZERO	0_we	0.1:a	0	1	a	1078	
+mandarin	hml	0063	jiù	save	v:pred	v		pred		
+mandarin	hml	0063	guó	country	np:p	np		p	1022	
+mandarin	hml	0063	jiù	ADV	other	other				
+mandarin	hml	0063	shì	COP	other	other				
+mandarin	hml	0063	#	#	##ds	##ds				
+mandarin	hml	0063	ZERO	0_they	0.h:s	0	h	s	1066	
+mandarin	hml	0063	zhàn	war	np:l	np		l	1079	new
+mandarin	hml	0063	sǐ	die	v:pred	v		pred		
+mandarin	hml	0063	#	#	##ds	##ds				
+mandarin	hml	0063	ZERO	0_it	0:s	0		s		
+mandarin	hml	0063	yě	also	other	other				
+mandarin	hml	0063	hěn	very	other	other				
+mandarin	hml	0063	guāngróng	honorable	other:pred	other		pred		
+mandarin	hml	0064	#	#	##	##				
+mandarin	hml	0064	fùnǚ	woman	np.h:a	np	h	a	1080	new
+mandarin	hml	0064	zài	in	adp	adp				
+mandarin	hml	0064	hòufāng	military_logistics	np:l	np		l	1081	new
+mandarin	hml	0064	yě	also	other	other				
+mandarin	hml	0064	yǒu	have	v:pred	v		pred		
+mandarin	hml	0064	zérèn	responsibility	np:p	np		p	1082	new
+mandarin	hml	0065	#	#	##ds	##ds				
+mandarin	hml	0065	ZERO	0_they	0.h:a	0	h	a	1080	
+mandarin	hml	0065	ā	MP	other	other				
+mandarin	hml	0065	gōng	provide	v:pred	v		pred		
+mandarin	hml	0065	gěi	give/ADP	adp	adp				
+mandarin	hml	0065	qiánfāng	front	np:g	np		g	1071	
+mandarin	hml	0065	yī	clothes	np:p	np		p	1083	new
+mandarin	hml	0065	shí	food	rn_np	rn_np			1084	new
+mandarin	hml	0065	suo	all	rn	rn				
+mandarin	hml	0065	suǒxū	need	rn	rn				
+mandarin	hml	0066	#	#	##ds	##ds				
+mandarin	hml	0066	ZERO	0_you	0.2:s_ds	0	2	s_ds	1192	new
+mandarin	hml	0066	zěnme	how	other	other				
+mandarin	hml	0066	kěyǐ	can	lv	lv				
+mandarin	hml	0066	shuō	say	v:pred	v		pred		
+mandarin	hml	0066	#	#	##ds	##ds				
+mandarin	hml	0066	tāmén	3PL	pro.h:s	pro	h	s	1080	
+mandarin	hml	0066	shì	COP	cop	cop				
+mandarin	hml	0066	wúyòng	useless	other:pred	other		pred		
+mandarin	hml	0066	ne	MP	other	other				
+mandarin	hml	0067	#	#	##	##				
+mandarin	hml	0067	g	yes	other	other				
+mandarin	hml	0067	suǒyǐ	so	other	other				
+mandarin	hml	0067	shuō	say	other	other				
+mandarin	hml	0067	cóng	from	adp	adp				
+mandarin	hml	0067	zhege	this	pro:obl	pro		obl		
+mandarin	hml	0067	wǒmén	1PL	pro.1:s	pro	1	s	1039	
+mandarin	hml	0067	yě	also	other	other				
+mandarin	hml	0067	kěyǐ	can	lv	lv				
+mandarin	hml	0067	kànchūlái	see	v:pred	v		pred		
+mandarin	hml	0068	#	#	##	##				
+mandarin	hml	0068	qíshí	actually	other	other				
+mandarin	hml	0068	mùlán	Mulan	pn_np.h:dt_s	pn_np	h	dt_s	1001	
+mandarin	hml	0068	tā	3SG	ln_pro.h:poss	ln_pro	h	poss	1001	
+mandarin	hml	0068	de	MOD	ln	ln				
+mandarin	hml	0068	nèi	inside	ln	ln				
+mandarin	hml	0068	xīn	heart	np:s	np		s	1034	
+mandarin	hml	0068	shì	COP	cop	cop				
+mandarin	hml	0068	hěn	very	other	other				
+mandarin	hml	0068	yǒu	have	other	other				
+mandarin	hml	0068	g	yes	other	other				
+mandarin	hml	0068	hěn	very	other	other				
+mandarin	hml	0068	hěn	very	other	other				
+mandarin	hml	0068	#	#	#rc	#rc				
+mandarin	hml	0068	zhēngqiáng	debate	np:s	np		s	1085	new
+mandarin	hml	0068	qiang	strong	other:pred	other		pred		
+mandarin	hml	0068	%	%	%	%				
+mandarin	hml	0068	hǎoshèng	competitive	ln	ln				
+mandarin	hml	0068	de	MOD	ln	ln				
+mandarin	hml	0068	zhè	this	ln	ln				
+mandarin	hml	0068	zhǒng	type	ln	ln				
+mandarin	hml	0068	gǎnjué	feeling	np:pred	np		pred	1086	new
+mandarin	hml	0069	#	#	#nc	#nc				
+mandarin	hml	0069	suǒyǐ	so	nc	nc				
+mandarin	hml	0069	shuō	say	nc	nc				
+mandarin	hml	0069	tā	3SG	nc	nc			1001	
+mandarin	hml	0069	tā	3SG	nc	nc			1001	
+mandarin	hml	0069	zhī	her	nc	nc				
+mandarin	hml	0069	suǒyǐ	so	nc	nc				
+mandarin	hml	0069	(wénruì)	NC	nc	nc				
+mandarin	hml	0069	tā	3SG	nc	nc			1001	
+mandarin	hml	0069	zhī	her	nc	nc				
+mandarin	hml	0069	suǒyǐ	so	nc	nc				
+mandarin	hml	0069	nà	that	nc	nc				
+mandarin	hml	0069	gè	CL	nc	nc				
+mandarin	hml	0069	nénggòu	can	nc	nc				
+mandarin	hml	0069	#	#	##	##				
+mandarin	hml	0069	ZERO	0_she	0.h:a	0	h	a	1001	
+mandarin	hml	0069	zài	in	adp	adp				
+mandarin	hml	0069	hòulái	later	other	other				
+mandarin	hml	0069	zài	in	adp	adp				
+mandarin	hml	0069	zhàncháng	battlefield	np:l	np		l	1087	new
+mandarin	hml	0069	shàng	on	adp	adp				
+mandarin	hml	0069	nénggòu	can	lv	lv				
+mandarin	hml	0069	qǔdé	receive	v:pred	v		pred		
+mandarin	hml	0069	nàme	that	ln	ln				
+mandarin	hml	0069	duō	many	ln	ln				
+mandarin	hml	0069	de	MOD	ln	ln				
+mandarin	hml	0069	fēnggōngweiji	great_achievement	np:p	np		p	1088	new
+mandarin	hml	0070	#	#	##	##				
+mandarin	hml	0070	ZERO	0_this	0:a	0		a	1193	new
+mandarin	hml	0070	qíshí	actually	other	other				
+mandarin	hml	0070	gēn	with	adp	adp				
+mandarin	hml	0070	#	#	#cc:obl	#cc		obl		
+mandarin	hml	0070	tā	3SG	pro.h:s	pro	h	s	1001	
+mandarin	hml	0070	zhè	this	ln	ln				
+mandarin	hml	0070	gè	CL	ln	ln				
+mandarin	hml	0070	gǔzǐ	ribs	np:l	np		l	1089	bridging
+mandarin	hml	0070	lǐ	in	adp	adp				
+mandarin	hml	0070	zhè	this	ln	ln				
+mandarin	hml	0070	zhǒng	type	np:obl	np		obl		
+mandarin	hml	0070	tèbié	very	other	other				
+mandarin	hml	0070	yàoqiáng	strong_minded	other:pred	other		pred		
+mandarin	hml	0071	#	#	#cc:p	#cc		p		
+mandarin	hml	0071	tóngshí	at_the_same_time	np:other	np		other	1090	new
+mandarin	hml	0071	zìjǐ	REFL	ln_refl.h:poss	ln_refl	h	poss	1001	
+mandarin	hml	0071	de	MOD	ln	ln				
+mandarin	hml	0071	wǔyì	feat	np:s	np		s	1060	
+mandarin	hml	0071	yě	also	other	other				
+mandarin	hml	0071	fēicháng	really	other	other				
+mandarin	hml	0071	gāoqiáng	strong	other:pred	other		pred		
+mandarin	hml	0072	%	%	%	%				
+mandarin	hml	0072	shì	COP	other	other				
+mandarin	hml	0072	yǒu	have	v:pred	v		pred		
+mandarin	hml	0072	hěn	very	nc	nc				
+mandarin	hml	0072	shì	COP	nc	nc				
+mandarin	hml	0072	yǒu	have	nc	nc				
+mandarin	hml	0072	#	#	#rc	#rc				
+mandarin	hml	0072	ZERO	0_they	0.h:a	0	h	a		
+mandarin	hml	0072	fēnbùkāi	cannot_separate	v:pred	v		pred		
+mandarin	hml	0072	ZERO	0_relationship	f0:p	f0		p	1091	new
+mandarin	hml	0072	%	%	%	%				
+mandarin	hml	0072	de	MOD	ln	ln				
+mandarin	hml	0072	guānxì	relationship	np:p	np		p	1091	
+mandarin	hml	0073	#	#	##	##				
+mandarin	hml	0073	zé	oh	other	other				
+mandarin	hml	0073	è	oh	other	other				
+mandarin	hml	0073	tāmén	3PL	nc	nc			1066	
+mandarin	hml	0073	de	MOD	nc	nc				
+mandarin	hml	0073	è	oh	nc	nc				
+mandarin	hml	0073	tāmén	3PL	pro.h:a	pro	h	a	1066	
+mandarin	hml	0073	bei	by	lv	lv				
+mandarin	hml	0073	bian	organize	v:pred	v		pred		
+mandarin	hml	0073	biān	organize	rv	rv				
+mandarin	hml	0073	biān	organize	rv	rv				
+mandarin	hml	0073	hǎo	good	rv	rv				
+mandarin	hml	0073	duì	squadron	np:p	np		p	1092	new
+mandarin	hml	0073	zhīhòu	after	other	other				
+mandarin	hml	0074	#	#	##	##				
+mandarin	hml	0074	ZERO	0_he	0.h:a	0	h	a	1093	new
+mandarin	hml	0074	zài	in	adp	adp				
+mandarin	hml	0074	yī	one	ln	ln				
+mandarin	hml	0074	cì	time	np:other	np		other		
+mandarin	hml	0074	zhěngdùn	reorganise	v:pred	v		pred		
+mandarin	hml	0074	bīngmǎ	troops_and_horses	np:p	np		p	1095	new
+mandarin	hml	0074	hòu	after	other	other				
+mandarin	hml	0075	#	#	##	##				
+mandarin	hml	0075	díbīng	enemy	np.h:dt_s	np	h	dt_s	1006	
+mandarin	hml	0075	díbīng	enemy	np.h:s	np	h	s	1006	
+mandarin	hml	0075	guòlái	come_over	v:pred	v		pred		
+mandarin	hml	0075	jiùshì	ADV	other	other				
+mandarin	hml	0075	#	#	##	##				
+mandarin	hml	0075	tūjué	Turk	pn_np.h:s	pn_np	h	s	1006	
+mandarin	hml	0075	díbīng	enemy	np.h:appos	np	h	appos	1006	
+mandarin	hml	0075	guòlái	come_over	v:pred	v		pred		
+mandarin	hml	0075	#	#	##	##				
+mandarin	hml	0075	ZERO	0_they	0.h:a	0	h	a	1006	
+mandarin	hml	0075	yòu	again	other	other				
+mandarin	hml	0075	fàn	invade	v:pred	v		pred		
+mandarin	hml	0075	nà	that	ln	ln				
+mandarin	hml	0075	gè	CL	ln	ln				
+mandarin	hml	0075	zhōngguó	China	ln_pn_np	ln_pn_np			1022	
+mandarin	hml	0075	de	MOD	ln	ln				
+mandarin	hml	0075	biānjìng	border	np:p	np		p	1007	
+mandarin	hml	0076	#	#	##	##				
+mandarin	hml	0076	ā	MP	other	other				
+mandarin	hml	0076	dāngshí	at_that_time	np:other	np		other		
+mandarin	hml	0076	zài	in	adp	adp				
+mandarin	hml	0076	liǎng	two	ln	ln				
+mandarin	hml	0076	jūn	army	np.h:s	np	h	s	1097	bridging
+mandarin	hml	0076	jiāofēng	cross_swords	v:pred	v		pred		
+mandarin	hml	0076	shí	when	other	other				
+mandarin	hml	0077	#	#	##	##				
+mandarin	hml	0077	g	yes	other	other				
+mandarin	hml	0077	tūjué	Turk	ln_pn_np.h	ln_pn_np	h		1006	
+mandarin	hml	0077	jūn	army	np.h:s	np	h	s	1006	
+mandarin	hml	0077	hūrán	suddenly	other	other				
+mandarin	hml	0077	tuìzǒu	retreat	v:pred	v		pred		
+mandarin	hml	0078	#	#	##neg	##neg				
+mandarin	hml	0078	ā	MP	other	other				
+mandarin	hml	0078	tā	3SG	ln_pro.h:poss	ln_pro	h	poss	1001	
+mandarin	hml	0078	de	MOD	ln	ln				
+mandarin	hml	0078	yuánshuài	marshal	np.h:dt_a	np	h	dt_a	1065	
+mandarin	hml	0078	ne	MP	other	other				
+mandarin	hml	0078	ZERO	0_he	dt_0.h:a	dt_0	h	a	1065	
+mandarin	hml	0078	bù	NEG	lv	lv				
+mandarin	hml	0078	zhīdào	know	v:pred	v		pred		
+mandarin	hml	0078	#	#	#cc:p	#cc		p		
+mandarin	hml	0078	zhège	this	pro:s	pro		s		
+mandarin	hml	0078	shì	COP	cop	cop				
+mandarin	hml	0078	jì	ruse	np:pred	np		pred	1098	new
+mandarin	hml	0079	#	#	##	##				
+mandarin	hml	0079	ZERO	0_they	0.h:s	0	h	s	1092	
+mandarin	hml	0079	qián	front	lv	lv				
+mandarin	hml	0079	qù	go	v:pred	v		pred		
+mandarin	hml	0079	#	#	##	##				
+mandarin	hml	0079	ZERO	0_they	svc_0.h:a	svc_0	h	a	1092	
+mandarin	hml	0079	zhuī	follow	v:pred	v		pred		
+mandarin	hml	0079	ZERO	0_enemy	0.h:p	0	h	p	1006	
+mandarin	hml	0079	#	#	##	##				
+mandarin	hml	0079	jiéguǒ	result	nc	nc			1099	new
+mandarin	hml	0079	bèi	by	nc	nc				
+mandarin	hml	0079	jiéguǒ	result	np:other	np		other	1099	
+mandarin	hml	0079	ZERO	0_they	0.h:s	0	h	s	1092	
+mandarin	hml	0079	bèi	by	adp	adp				
+mandarin	hml	0079	nà	that	ln	ln				
+mandarin	hml	0079	gè	CL	ln	ln				
+mandarin	hml	0079	dàjūn	main_forces	np.h:obl	np	h	obl	1100	bridging
+mandarin	hml	0079	gěi	give/ADP	lv_svc	lv_svc				
+mandarin	hml	0079	bāowéi	surround	v:pred	v		pred		
+mandarin	hml	0079	zhù	stop	rv_svc	rv_svc				
+mandarin	hml	0079	le	ASP	rv	rv				
+mandarin	hml	0080	#	#	##	##				
+mandarin	hml	0080	zhè	this	ln	ln				
+mandarin	hml	0080	gè	CL	ln	ln				
+mandarin	hml	0080	shíhòu	moment	np:other	np		other	1101	new
+mandarin	hml	0080	mùlán	Mulan	pn_np.h:a	pn_np	h	a	1001	
+mandarin	hml	0080	shuàilǐng	lead	v:pred	v		pred		
+mandarin	hml	0080	zìjǐ	REFL	ln_refl.h:poss	ln_refl	h	poss	1001	
+mandarin	hml	0080	de	MOD	ln	ln				
+mandarin	hml	0080	bùduì	troop	np.h:p	np	h	p	1102	bridging
+mandarin	hml	0080	#	#	##	##				
+mandarin	hml	0080	ZERO	0_they	svc_0.h:s	svc_0	h	s	1102	
+mandarin	hml	0080	pīnsǐ	risk_life	v:pred	v		pred		
+mandarin	hml	0080	#	#	##	##				
+mandarin	hml	0080	ZERO	0_they	svc_0.h:a	svc_0	h	a	1102	
+mandarin	hml	0080	xiāng	each_other	other:p	other		p	1194	new
+mandarin	hml	0080	sha	kill	v:pred	v		pred		
+mandarin	hml	0081	#	#	##	##				
+mandarin	hml	0081	zhīhòu	after	other	other				
+mandarin	hml	0081	zài	in	adp	adp				
+mandarin	hml	0081	shífēn	very	ln	ln				
+mandarin	hml	0081	wēi	dangerous	ln	ln				
+mandarin	hml	0081	ji	urgent	ln	ln				
+mandarin	hml	0081	de	MOD	ln	ln				
+mandarin	hml	0081	shíkè	moment	np:other	np		other	1103	new
+mandarin	hml	0081	ZERO	0_they	0.h:s	0	h	s	1102	
+mandarin	hml	0081	gǎn	hurry	lv_svc	lv_svc				
+mandarin	hml	0081	lái	come	v:pred	v		pred		
+mandarin	hml	0081	#	#	##	##				
+mandarin	hml	0081	ZERO	0_they	svc_0.h:a	svc_0	h	a	1102	
+mandarin	hml	0081	shā	kill	v:pred	v		pred		
+mandarin	hml	0081	tui	NC	nc	nc				
+mandarin	hml	0081	tūjué	Turk	ln_pn_np.h:poss	ln_pn_np	h	poss	1006	
+mandarin	hml	0081	wáng	king	np.h:p	np	h	p	1104	bridging
+mandarin	hml	0081	#	#	##	##				
+mandarin	hml	0081	ZERO	0_they	svc_0.h:a	svc_0	h	a	1102	
+mandarin	hml	0081	jiù	save	v:pred	v		pred		
+mandarin	hml	0081	zǒu	walk	rv_svc	rv_svc				
+mandarin	hml	0081	yuánshuài	marshal	np.h:p	np	h	p	1065	
+mandarin	hml	0082	#	#	##	##				
+mandarin	hml	0082	ZERO	0_they	0.h:a	0	h	a	1102	
+mandarin	hml	0082	jiù	save	v:pred	v		pred		
+mandarin	hml	0082	zou	walk	rv_svc	rv_svc				
+mandarin	hml	0082	yuánshuài	marshal	np.h:p	np	h	p	1065	
+mandarin	hml	0082	zhīhòu	after	other	other				
+mandarin	hml	0082	ne	MP	other	other				
+mandarin	hml	0082	zhè	this	ln	ln				
+mandarin	hml	0082	gè	CL	ln	ln				
+mandarin	hml	0082	shíhòu	moment	np:other	np		other	1103	
+mandarin	hml	0083	#	#	##	##				
+mandarin	hml	0083	tā	3SG	pro.h:dt	pro	h	dt	1001	
+mandarin	hml	0083	mùlán	Mulan	ln_pn_np.h:poss	ln_pn_np	h	poss	1001	
+mandarin	hml	0083	de	MOD	ln	ln				
+mandarin	hml	0083	jīzhì	intelligence	np:s	np		s	1105	bridging
+mandarin	hml	0083	jiù	ADV	other	other				
+mandarin	hml	0083	yòu	again	other	other				
+mandarin	hml	0083	yòu	again	other	other				
+mandarin	hml	0083	yòu	again	other	other				
+mandarin	hml	0083	jìn	continue	nc	nc				
+mandarin	hml	0083	yī	one	nc	nc				
+mandarin	hml	0083	bù	step	nc	nc				
+mandarin	hml	0083	xiǎn(shì)	show	nc	nc				
+mandarin	hml	0083	chūlái	come_out	v:pred	v		pred		
+mandarin	hml	0083	le	ASP	rv	rv				
+mandarin	hml	0083	g	yes	other	other				
+mandarin	hml	0084	#	#	##	##				
+mandarin	hml	0084	(nà)	NC	nc	nc				
+mandarin	hml	0084	shenme	what	nc	nc				
+mandarin	hml	0084	tā	3SG	pro.h:dt_a	pro	h	dt_a	1001	
+mandarin	hml	0084	tā	3SG	pro.h:a	pro	h	a	1001	
+mandarin	hml	0084	zài	in	lv	lv				
+mandarin	hml	0084	jiù	save	v:pred	v		pred		
+mandarin	hml	0084	zou	walk	rv_svc	rv_svc				
+mandarin	hml	0084	yuánshuài	marshal	np.h:p	np	h	p	1065	
+mandarin	hml	0084	zhīhòu	after	other	other				
+mandarin	hml	0084	#	#	##	##				
+mandarin	hml	0084	tā	3SG	pro.h:a	pro	h	a	1001	
+mandarin	hml	0084	yòu	again	other	other				
+mandarin	hml	0084	shā	kill	v:pred	v		pred		
+mandarin	hml	0084	le	ASP	rv	rv				
+mandarin	hml	0084	ZERO	0_they	0.h:p	0	h	p	1006	
+mandarin	hml	0084	yī	one	ln	ln				
+mandarin	hml	0084	gè	CL	ln	ln				
+mandarin	hml	0084	huímǎqiang	sudden_thrust	np:other	np		other	1106	new
+mandarin	hml	0085	#	#	##	##				
+mandarin	hml	0085	zhīhòu	after	other	other				
+mandarin	hml	0085	ZERO	0_they	0.h:a	0	h	a	1102	
+mandarin	hml	0085	chōngjìn	burst_in	v:pred	v		pred		
+mandarin	hml	0085	le	ASP	rv	rv				
+mandarin	hml	0085	tūjué	Turk	nc	nc			1006	
+mandarin	hml	0085	tūjué	Turk	ln_pn_np.h:poss	ln_pn_np	h	poss	1006	
+mandarin	hml	0085	de	MOD	ln	ln				
+mandarin	hml	0085	dà	big	ln	ln				
+mandarin	hml	0085	ying	camp	np:p	np		p	1107	new
+mandarin	hml	0086	#	#	##	##				
+mandarin	hml	0086	zhīhòu	after	other	other				
+mandarin	hml	0086	ZERO	0_they	0.h:a	0	h	a	1102	
+mandarin	hml	0086	qíndé	capture	v:pred	v		pred		
+mandarin	hml	0086	le	ASP	rv	rv				
+mandarin	hml	0086	nà	that	ln	ln				
+mandarin	hml	0086	gè	CL	ln	ln				
+mandarin	hml	0086	tūjué	Turk	ln_pn_np.h:poss	ln_pn_np	h	poss	1006	
+mandarin	hml	0086	wáng	king	np.h:p	np	h	p	1104	
+mandarin	hml	0086	g	yes	other	other				
+mandarin	hml	0087	#	#	##	##				
+mandarin	hml	0087	zìcǐ	from_this_moment	other	other				
+mandarin	hml	0087	zhīhòu	after	other	other				
+mandarin	hml	0087	ne	MP	other	other				
+mandarin	hml	0087	mùlán	Mulan	pn_np.h:a	pn_np	h	a	1001	
+mandarin	hml	0087	hěn	very	lv	lv				
+mandarin	hml	0087	shòudào	receive	v:pred	v		pred		
+mandarin	hml	0087	yuánshuài	marshal	ln_np.h:poss	ln_np	h	poss	1065	
+mandarin	hml	0087	de	MOD	ln	ln				
+mandarin	hml	0087	qìzhòng	regard_highly	np:p	np		p	1195	new
+mandarin	hml	0088	#	#	##	##				
+mandarin	hml	0088	ZERO	0_she	0.h:s	0	h	s	1001	
+mandarin	hml	0088	shēnjīngbǎizhàn	veteran_of_a_hundred_battles	other:pred	other		pred		
+mandarin	hml	0088	#	#	##	##				
+mandarin	hml	0088	ZERO	0_she	0.h:a	0	h	a	1001	
+mandarin	hml	0088	lǚ	frequently	lv	lv				
+mandarin	hml	0088	jian	meet	v:pred	v		pred		
+mandarin	hml	0088	qi	surprising	ln	ln				
+mandarin	hml	0088	gong	achievement	np:p	np		p	1108	new
+mandarin	hml	0089	#	#	##	##				
+mandarin	hml	0089	ZERO	0_she	0.h:a	0	h	a	1001	
+mandarin	hml	0089	bìng	and	other	other				
+mandarin	hml	0089	bùduàn	continuous	lv	lv				
+mandarin	hml	0089	de	MOD	lv	lv				
+mandarin	hml	0089	shōudào	receive	v:pred	v		pred		
+mandarin	hml	0089	shēng	promote	np:p	np		p	1109	new
+mandarin	hml	0089	shang	reward	rn_np	rn_np			1110	new
+mandarin	hml	0090	#	#	##	##				
+mandarin	hml	0090	ā	MP	other	other				
+mandarin	hml	0090	jiù	ADV	other	other				
+mandarin	hml	0090	zài	in	adp	adp				
+mandarin	hml	0090	zhè	this	ln	ln				
+mandarin	hml	0090	gè	CL	ln	ln				
+mandarin	hml	0090	shíhòu	moment	np:other	np		other	1111	new
+mandarin	hml	0090	ne	MP	other	other				
+mandarin	hml	0090	yuánshuài	marshal	np.h:dt	np	h	dt	1065	
+mandarin	hml	0090	tā	3SG	pro.h:dt	pro	h	dt	1065	
+mandarin	hml	0090	zài	in	adp	adp				
+mandarin	hml	0090	yī	one	ln	ln				
+mandarin	hml	0090	gè	CL	ln	ln				
+mandarin	hml	0090	#	#	#rc	#rc				
+mandarin	hml	0090	yèshēn	night	np:s	np		s	1112	new
+mandarin	hml	0090	shen	deep	other:pred	other		pred		
+mandarin	hml	0090	#	#	#rc	#rc				
+mandarin	hml	0090	rén	people	np.h:s	np	h	s	1113	new
+mandarin	hml	0090	jing	quiet	other:pred	other		pred		
+mandarin	hml	0090	%	%	%	%				
+mandarin	hml	0090	de	MOD	ln	ln				
+mandarin	hml	0090	wǎnshàng	evening	np:other	np		other	1196	new
+mandarin	hml	0091	mùlán	Mulan	pn_np.h:a	pn_np	h	a	1001	
+mandarin	hml	0091	fèngmìng	follow_order	v:pred	v		pred		
+mandarin	hml	0091	#	#	#cc:p	#cc		p		
+mandarin	hml	0091	ZERO	0_she	f0.h:a	f0	h	a	1001	
+mandarin	hml	0091	zài	in	lv	lv				
+mandarin	hml	0091	xún	patrol	v:pred	v		pred		
+mandarin	hml	0091	ying	camp	np:p	np		p	1114	new
+mandarin	hml	0092	#	#	##	##				
+mandarin	hml	0092	tā	3SG	pro.h:a	pro	h	a	1001	
+mandarin	hml	0092	hūrán	suddenly	other	other				
+mandarin	hml	0092	jiù	ADV	other	other				
+mandarin	hml	0092	kàndào	see	v:pred	v		pred		
+mandarin	hml	0092	le	ASP	rv	rv				
+mandarin	hml	0092	nà	that	ln	ln				
+mandarin	hml	0092	gè	CL	ln	ln				
+mandarin	hml	0092	sù	NC	nc	nc				
+mandarin	hml	0092	sùniǎo	bird_returning_to_nest	np:p	np		p	1115	new
+mandarin	hml	0092	#	#	##	##				
+mandarin	hml	0092	ZERO	0_it	0:s	0		s	1115	
+mandarin	hml	0092	jīngfēi	rocket	v:pred	v		pred		
+mandarin	hml	0092	zì	from	adp	adp				
+mandarin	hml	0092	běi	north	np:obl	np		obl	1116	unused
+mandarin	hml	0092	ér	to	adp	adp				
+mandarin	hml	0092	nán	south	np:g	np		g	1117	unused
+mandarin	hml	0093	#	#	##	##				
+mandarin	hml	0093	ZERO	0_she	0.h:a	0	h	a	1001	
+mandarin	hml	0093	huáiyí	guess	v:pred	v		pred		
+mandarin	hml	0093	#	#	#cc:p	#cc		p		
+mandarin	hml	0093	nà	that	ln	ln				
+mandarin	hml	0093	gè	CL	ln	ln				
+mandarin	hml	0093	dí	enemy	np.h:s	np	h	s	1006	
+mandarin	hml	0093	hòu	after	other	other				
+mandarin	hml	0093	yèxí	night_attack	other:pred	other		pred		
+mandarin	hml	0094	#	#	##	##				
+mandarin	hml	0094	ZERO	0_she	0.h:s	0	h	s	1001	
+mandarin	hml	0094	biàn	then	other	other				
+mandarin	hml	0094	qu	go	v:pred	v		pred		
+mandarin	hml	0094	#	#	##	##				
+mandarin	hml	0094	ZERO	0_she	svc_0.h:a	svc_0	h	a	1001	
+mandarin	hml	0094	jiàn	meet	lv	lv				
+mandarin	hml	0094	jiàn	meet	v:pred	v		pred		
+mandarin	hml	0094	yuánshuài	marshal	np.h:p	np	h	p	1065	
+mandarin	hml	0095	#	#	##	##				
+mandarin	hml	0095	tā	3SG	pro.h:dt_a	pro	h	dt_a	1065	
+mandarin	hml	0095	zuìhòu	in_the_end	other	other				
+mandarin	hml	0095	tā	3SG	pro.h:a	pro	h	a	1065	
+mandarin	hml	0095	zhè	this	ln	ln				
+mandarin	hml	0095	gè	CL	ln	ln				
+mandarin	hml	0095	shíhòu	moment	np:other	np		other	1118	new
+mandarin	hml	0095	fāxiàn	discover	v:pred	v		pred		
+mandarin	hml	0095	zhè	this	ln	ln				
+mandarin	hml	0095	xiē	some	ln	ln				
+mandarin	hml	0095	duānní	indication	np:p	np		p	1119	new
+mandarin	hml	0095	zhīhòu	after	other	other				
+mandarin	hml	0096	#	#	##	##				
+mandarin	hml	0096	ZERO	0_she	0.h:a	0	h	a	1001	
+mandarin	hml	0096	jiù	ADV	other	other				
+mandarin	hml	0096	shèjì	plan	v:pred	v		pred		
+mandarin	hml	0096	le	ASP	rv	rv				
+mandarin	hml	0096	yī	one	ln	ln				
+mandarin	hml	0096	tiáo	CL	ln	ln				
+mandarin	hml	0096	jì	plan	np:p	np		p	1120	new
+mandarin	hml	0097	#	#	##	##				
+mandarin	hml	0097	ZERO	0_she	0.h:a	0	h	a	1001	
+mandarin	hml	0097	bǎ	BA	nc	nc				
+mandarin	hml	0097	suǒyǒu	all	nc	nc				
+mandarin	hml	0097	bǎ	BA	adp	adp				
+mandarin	hml	0097	suǒyǒu	all	ln	ln				
+mandarin	hml	0097	de	MOD	ln	ln				
+mandarin	hml	0097	shìbīng	soldier	np.h:obl_dom	np	h	obl_dom	1066	
+mandarin	hml	0097	doū	all	rn	rn				
+mandarin	hml	0097	chèchū	retreat	v:pred	v		pred		
+mandarin	hml	0097	le	ASP	rv	rv				
+mandarin	hml	0097	dà	big	ln	ln				
+mandarin	hml	0097	ying	camp	np:p	np		p	1114	
+mandarin	hml	0097	zhīhòu	after	other	other				
+mandarin	hml	0098	#	#	##	##				
+mandarin	hml	0098	ā	MP	other	other				
+mandarin	hml	0098	dírén	enemy	np.h:dt	np	h	dt	1006	
+mandarin	hml	0098	ne	MP	other	other				
+mandarin	hml	0098	g	yes	other	other				
+mandarin	hml	0098	zé	oh	other	other				
+mandarin	hml	0098	ZERO	0_they	0.h:a	0	h	a	1066	
+mandarin	hml	0098	doū	all	lv	lv				
+mandarin	hml	0098	chèchū	retreat	v:pred	v		pred		
+mandarin	hml	0098	dà	big	ln	ln				
+mandarin	hml	0098	ying	camp	np:p	np		p	1114	
+mandarin	hml	0098	#	#	##	##				
+mandarin	hml	0098	ZERO	0_they	0.h:s	0	h	s	1066	
+mandarin	hml	0098	máifú	ambush/lie_in_wait_for	v:pred	v		pred		
+mandarin	hml	0098	hǎo	good	rv	rv				
+mandarin	hml	0099	#	#	##	##				
+mandarin	hml	0099	zhīhòu	after	other	other				
+mandarin	hml	0099	ránhòu	then	other	other				
+mandarin	hml	0099	ZERO	0_they	0.h:s	0	h	s	1066	
+mandarin	hml	0099	qù	go	v:pred	v		pred		
+mandarin	hml	0099	#	#	##	##				
+mandarin	hml	0099	ZERO	0_they	svc_0.h:a	svc_0	h	a	1066	
+mandarin	hml	0099	duoqu	seize	v:pred	v		pred		
+mandarin	hml	0099	tūjué	Turk	ln_pn_np.h:poss	ln_pn_np	h	poss	1006	
+mandarin	hml	0099	bīng	soldier	ln_np.h:poss	ln_np	h	poss	1121	bridging
+mandarin	hml	0099	de	MOD	ln	ln				
+mandarin	hml	0099	yíngzhài	barrack	np:p	np		p	1122	new
+mandarin	hml	0100	#	#	##	##				
+mandarin	hml	0100	dào	arrive	nc	nc				
+mandarin	hml	0100	shí	time	nc	nc				
+mandarin	hml	0100	dào	arrive	adp	adp				
+mandarin	hml	0100	shíhòu	moment	np:other	np		other	1123	new
+mandarin	hml	0100	yuánshuài	marshal	np.h:a	np	h	a	1065	
+mandarin	hml	0100	suíhòu	soon_after	other	other				
+mandarin	hml	0100	cèyīng	support	v:pred	v		pred		
+mandarin	hml	0100	zhe	ASP	rv	rv				
+mandarin	hml	0100	ZERO	0_she	0.h:p	0	h	p	1001	
+mandarin	hml	0101	#	#	##	##				
+mandarin	hml	0101	tūjué	Turk	ln_pn_np.h:poss	ln_pn_np	h	poss	1006	
+mandarin	hml	0101	wáng	king	np.h:dt_a	np	h	dt_a	1104	
+mandarin	hml	0101	dehua	if	other	other				
+mandarin	hml	0101	ZERO	0_he	dt_0.h:a	dt_0	h	a	1104	
+mandarin	hml	0101	yě	also	other	other				
+mandarin	hml	0101	shì	COP	other	other				
+mandarin	hml	0102	lǚ	repeatedly	ln	ln				
+mandarin	hml	0102	cì	time	np:other	np		other	1124	new
+mandarin	hml	0102	lái	come	lv_svc	lv_svc				
+mandarin	hml	0102	fàn	invade	v:pred	v		pred		
+mandarin	hml	0102	ZERO	0_borders	0:p	0		p	1007	
+mandarin	hml	0102	#	#	##neg	##neg				
+mandarin	hml	0102	ZERO	0_he	0.h:s	0	h	s	1104	
+mandarin	hml	0102	yīzhí	always	other	other				
+mandarin	hml	0102	méi	NEG	other	other				
+mandarin	hml	0102	yǒu	have	other	other				
+mandarin	hml	0102	déshǒu	succeed	v:pred	v		pred		
+mandarin	hml	0103	#	#	##	##				
+mandarin	hml	0103	ZERO	0_he	0.h:s	0	h	s	1104	
+mandarin	hml	0103	yě	also	other	other				
+mandarin	hml	0103	fēicháng	really	other	other				
+mandarin	hml	0103	de	MOD	other	other				
+mandarin	hml	0103	zhaojí	urgent	other:pred	other		pred		
+mandarin	hml	0104	#	#	##	##				
+mandarin	hml	0104	suǒyǐ	so	other	other				
+mandarin	hml	0104	shuō	say	other	other				
+mandarin	hml	0104	tā	3SG	pro.h:dt_a	pro	h	dt_a	1104	
+mandarin	hml	0104	tā	3SG	pro.h:a	pro	h	a	1104	
+mandarin	hml	0104	fādòng	start	v:pred	v		pred		
+mandarin	hml	0104	quán	complete	ln	ln				
+mandarin	hml	0104	jūn	army	np:p	np		p	1006	
+mandarin	hml	0104	#	#	##	##				
+mandarin	hml	0104	ZERO	0_they	svc_0.h:s	svc_0	h	s	1006	
+mandarin	hml	0104	lái	come	v:pred	v		pred		
+mandarin	hml	0104	#	#	##	##				
+mandarin	hml	0104	ZERO	0_they	svc_0.h:s	svc_0	h	s	1006	
+mandarin	hml	0104	zhè	this	ln	ln				
+mandarin	hml	0104	cì	time	np:other	np		other	1125	new
+mandarin	hml	0104	è	oh	other	other				
+mandarin	hml	0104	lái	come	v:pred	v		pred		
+mandarin	hml	0104	#	#	##	##				
+mandarin	hml	0104	ZERO	0_they	svc_0.h:a	svc_0	h	a	1006	
+mandarin	hml	0104	tōu	steal	v:pred	v		pred		
+mandarin	hml	0104	ying	camp	np:p	np		p	1114	
+mandarin	hml	0105	#	#	##	##				
+mandarin	hml	0105	xīn	heart	np:s_ds	np		s_ds	1126	bridging
+mandarin	hml	0105	xiǎng	want	v:pred	v		pred		
+mandarin	hml	0105	#	#	##ds	##ds				
+mandarin	hml	0105	ZERO	0_we	0.1:s	0	1	s	1006	
+mandarin	hml	0105	kěndìng	surely	other	other				
+mandarin	hml	0105	huì	will	other	other				
+mandarin	hml	0105	mǎdào	immediately	other	other				
+mandarin	hml	0105	chénggōng	success	v:pred	v		pred		
+mandarin	hml	0106	#	#	##	##				
+mandarin	hml	0106	jiéguǒ	result	np:other	np		other	1127	bridging
+mandarin	hml	0106	mō	secretly	nc	nc				
+mandarin	hml	0106	jin	go_in	nc	nc				
+mandarin	hml	0106	dà	big	nc	nc				
+mandarin	hml	0106	ZERO	0_they	0.h:a	0	h	a	1006	
+mandarin	hml	0106	mo	secretly	lv	lv				
+mandarin	hml	0106	jìn	go_in	v:pred	v		pred		
+mandarin	hml	0106	dà	big	ln	ln				
+mandarin	hml	0106	ying	camp	np:p	np		p	1114	
+mandarin	hml	0106	#	#	##	##				
+mandarin	hml	0106	ZERO	0_they	0.h:s	0	h	s	1006	
+mandarin	hml	0106	lái	come	v:pred	v		pred		
+mandarin	hml	0106	ne	MP	other	other				
+mandarin	hml	0106	#	#	##	##				
+mandarin	hml	0106	ZERO	0_they	0.h:a	0	h	a	1006	
+mandarin	hml	0106	què	yet	other	other				
+mandarin	hml	0106	fāxiàn	discover	v:pred	v		pred		
+mandarin	hml	0106	#	#	#cc:p	#cc		p		
+mandarin	hml	0106	è	oh	other	other				
+mandarin	hml	0106	ZERO	0_camp	0:s	0		s	1114	
+mandarin	hml	0106	shì	COP	cop	cop				
+mandarin	hml	0106	kōngzhài	empty	other:pred	other		pred		
+mandarin	hml	0106	yī	one	other	other				
+mandarin	hml	0106	zuò	CL	other	other			1114	
+mandarin	hml	0107	#	#	##	##				
+mandarin	hml	0107	zì	REFL	refl.h:a	refl	h	a	1104	
+mandarin	hml	0107	zhī	know	v:pred	v		pred		
+mandarin	hml	0107	#	#	#cc:p	#cc		p		
+mandarin	hml	0107	ZERO	0_they	0.h:s	0	h	s	1006	
+mandarin	hml	0107	zhōngji	fall_into_trap	v:pred	v		pred		
+mandarin	hml	0108	#	#	##	##				
+mandarin	hml	0108	jiéguǒ	result	np:other	np		other	1128	bridging
+mandarin	hml	0108	sì	four	ln	ln				
+mandarin	hml	0108	sìxià	all_sides	np:obl	np		obl	1129	new
+mandarin	hml	0108	ZERO	0_they	0.h:s	0	h	s	1006	
+mandarin	hml	0108	fúbīng	ambush	v:pred	v		pred		
+mandarin	hml	0108	#	#	##	##				
+mandarin	hml	0108	ZERO	0_they	0.h:s	0	h	s	1006	
+mandarin	hml	0108	yǐ	already	other	other				
+mandarin	hml	0108	shā	kill	v:pred	v		pred		
+mandarin	hml	0108	lai	come	rv_svc	rv_svc				
+mandarin	hml	0109	#	#	##	##				
+mandarin	hml	0109	ZERO	0_it	0:s	0		s	1130	new
+mandarin	hml	0109	wán	finish	v:pred	v		pred		
+mandarin	hml	0109	le	ASP	rv	rv				
+mandarin	hml	0109	#	#	##	##				
+mandarin	hml	0109	sǐ	die	np.h:s	np	h	s	1131	new
+mandarin	hml	0109	shāng	injury	rn_np.h	rn_np	h		1132	new
+mandarin	hml	0109	wú	without	adp	adp				
+mandarin	hml	0109	shù	number	np:pred	np		pred	1133	new
+mandarin	hml	0109	jiù	ADV	other	other				
+mandarin	hml	0109	shì	COP	other	other				
+mandarin	hml	0110	#	#	##	##				
+mandarin	hml	0110	ZERO	0_Turks	0.h:a	0	h	a	1006	
+mandarin	hml	0110	jīngguò	experience	v:pred	v		pred		
+mandarin	hml	0110	zhè	this	ln	ln				
+mandarin	hml	0110	yī	one	ln	ln				
+mandarin	hml	0110	zhàn	war	np:p	np		p	1079	
+mandarin	hml	0110	dehua	if	other	other				
+mandarin	hml	0110	#	#	##	##				
+mandarin	hml	0110	nà	that	ln	ln				
+mandarin	hml	0110	gè	CL	ln	ln				
+mandarin	hml	0110	tūjué	Turk	ln_pn_np.h:poss	ln_pn_np	h	poss	1006	
+mandarin	hml	0110	shìlì	force	np:s	np		s	1006	
+mandarin	hml	0110	shì	COP	cop	cop				
+mandarin	hml	0110	dà	big	lv	lv				
+mandarin	hml	0110	dà	big	lv	lv				
+mandarin	hml	0110	de	MOD	lv	lv				
+mandarin	hml	0110	bèi	by	lv	lv				
+mandarin	hml	0110	xiāoruò	weaken	v:pred	v		pred		
+mandarin	hml	0110	le	ASP	rv	rv				
+mandarin	hml	0111	#	#	#nc	#nc				
+mandarin	hml	0111	yě	also	nc	nc				
+mandarin	hml	0111	méi	NEG	nc	nc				
+mandarin	hml	0111	yǒu	have	nc	nc				
+mandarin	hml	0111	yě	also	nc	nc				
+mandarin	hml	0111	#	#	##neg	##neg				
+mandarin	hml	0111	ZERO	0_they	0.h:a	0	h	a	1006	
+mandarin	hml	0111	zài	again	other	other				
+mandarin	hml	0111	yě	also	other	other				
+mandarin	hml	0111	méi	NEG	lv	lv				
+mandarin	hml	0111	yǒu	have	v:pred	v		pred		
+mandarin	hml	0111	nénglì	capability	np:p	np		p	1134	new
+mandarin	hml	0111	#	#	##	##				
+mandarin	hml	0111	ZERO	0_they	0.h:s	0	h	s	1006	
+mandarin	hml	0111	lái	come	v:pred	v		pred		
+mandarin	hml	0111	gòu	enough	rv	rv				
+mandarin	hml	0111	#	#	##	##				
+mandarin	hml	0111	ZERO	0_they	0.h:s	0	h	s	1006	
+mandarin	hml	0111	lái	come	v:pred	v		pred		
+mandarin	hml	0111	#	#	##	##				
+mandarin	hml	0111	ZERO	0_they	svc_0.h:a	svc_0	h	a	1006	
+mandarin	hml	0111	fàn	invade	nc	nc				
+mandarin	hml	0111	fàn	invade	v:pred	v		pred		
+mandarin	hml	0111	zhōngguó	China	ln_pn_np:poss	ln_pn_np		poss	1022	
+mandarin	hml	0111	de	MOD	ln	ln				
+mandarin	hml	0111	biānjìng	border	np:p	np		p	1007	
+mandarin	hml	0112	#	#	##	##				
+mandarin	hml	0112	suǒyǐ	so	other	other				
+mandarin	hml	0112	shuō	say	other	other				
+mandarin	hml	0112	zuìhòu	in_the_end	other	other				
+mandarin	hml	0112	tāmén	3PL	ln_pro.h:poss	ln_pro	h	poss	1006	
+mandarin	hml	0112	de	MOD	ln	ln				
+mandarin	hml	0112	guānbīng	soldier	np.h:s	np	h	s	1121	
+mandarin	hml	0112	fēnfēn	one_by_one	rn	rn				
+mandarin	hml	0112	tóujiàng	surrender	v:pred	v		pred		
+mandarin	hml	0113	#	#	##	##				
+mandarin	hml	0113	mùlán	Mulan	pn_np.h:a	pn_np	h	a	1001	
+mandarin	hml	0113	yī	one	ln	ln				
+mandarin	hml	0113	miàn	side	np:other	np		other		
+mandarin	hml	0113	pài	send	v:pred	v		pred		
+mandarin	hml	0113	ren	person	np.h:p	np	h	p	1135	new
+mandarin	hml	0113	#	#	##	##				
+mandarin	hml	0113	ZERO	0_she	svc_0.h:a	svc_0	h	a	1001	
+mandarin	hml	0113	bǐngbào	report	v:pred	v		pred		
+mandarin	hml	0113	yuánshuài	marshal	np.h:p	np	h	p	1065	
+mandarin	hml	0114	#	#	##	##				
+mandarin	hml	0114	ZERO	0_she	0.h:a	0	h	a	1001	
+mandarin	hml	0114	yī	one	ln	ln				
+mandarin	hml	0114	mian	side	np:other	np		other		
+mandarin	hml	0114	jìn	go_in	v:pred	v		pred		
+mandarin	hml	0114	cheng	city	np:p	np		p	1136	new
+mandarin	hml	0114	#	#	##	##				
+mandarin	hml	0114	ZERO	0_she	0.h:a	0	h	a	1001	
+mandarin	hml	0114	ān	calm	v:pred	v		pred		
+mandarin	hml	0114	min	people	np.h:p	np	h	p	1137	new
+mandarin	hml	0115	#	#	##	##				
+mandarin	hml	0115	bìng	and	other	other				
+mandarin	hml	0115	fēng	NC	nc	nc				
+mandarin	hml	0115	bìng	and	other	other				
+mandarin	hml	0115	ZERO	0_she	0.h:s	0	h	s	1001	
+mandarin	hml	0115	fēnfù	tell	v:pred	v		pred		
+mandarin	hml	0115	shìbīng	soldier	np.h:p	np	h	p	1066	
+mandarin	hml	0115	#	#	##	##				
+mandarin	hml	0115	ZERO	0_they	0.h:a	0	h	a		
+mandarin	hml	0115	yánshǒu	closely_observe	v:pred	v		pred		
+mandarin	hml	0115	jūnjì	discipline	np:p	np		p	1138	new
+mandarin	hml	0116	#	#	##	##				
+mandarin	hml	0116	zé	oh	other	other				
+mandarin	hml	0116	è	oh	other	other				
+mandarin	hml	0116	zuìhòu	in_the_end	other	other				
+mandarin	hml	0116	ne	MP	other	other				
+mandarin	hml	0116	jiù	ADV	other	other				
+mandarin	hml	0116	shì	COP	other	other				
+mandarin	hml	0116	è	oh	other	other				
+mandarin	hml	0116	jiāyùguān	Jiayuguan	ln_pn_np.h:poss	ln_pn_np	h	poss	1136	
+mandarin	hml	0116	de	MOD	ln	ln				
+mandarin	hml	0116	bǎixìng	civilian	np.h:s	np	h	s	1137	
+mandarin	hml	0116	è	oh	other	other				
+mandarin	hml	0116	huānxǐ	happy	other:pred	other		pred		
+mandarin	hml	0116	#	#	##	##				
+mandarin	hml	0116	ZERO	0_they	0.h:a	0	h	a	1137	
+mandarin	hml	0116	yíngjiē	welcome	v:pred	v		pred		
+mandarin	hml	0116	hàn	Han	ln_pn_np.h:poss	ln_pn_np	h	poss	1004	
+mandarin	hml	0116	jun	military	np:p	np		p	1004	
+mandarin	hml	0116	#	#	##	##				
+mandarin	hml	0116	ZERO	0_they	svc_0.h:a	svc_0	h	a	1004	
+mandarin	hml	0116	jìn	go_in	v:pred	v		pred		
+mandarin	hml	0116	cheng	city	np:p	np		p	1136	
+mandarin	hml	0117	#	#	##	##				
+mandarin	hml	0117	zài	in	adp	adp				
+mandarin	hml	0117	zhè	this	ln	ln				
+mandarin	hml	0117	cì	time	np:other	np		other	1139	new
+mandarin	hml	0117	ne	MP	other	other				
+mandarin	hml	0117	mùlán	Mulan	pn_np.h:a	pn_np	h	a	1001	
+mandarin	hml	0117	tā	3SG	ln_pro.h:poss	ln_pro	h	poss	1001	
+mandarin	hml	0117	de	MOD	ln	ln				
+mandarin	hml	0117	shǒubì	shoulder	np:l	np		l	1140	bridging
+mandarin	hml	0117	shàng	on	adp	adp				
+mandarin	hml	0117	yě	also	other	other				
+mandarin	hml	0117	shì	COP	other	other				
+mandarin	hml	0117	zhōng	inside	v:pred	v		pred		
+mandarin	hml	0117	le	ASP	rv	rv				
+mandarin	hml	0117	jiànshāng	injury	np:p	np		p	1141	new
+mandarin	hml	0118	#	#	##	##				
+mandarin	hml	0118	g	yes	other	other				
+mandarin	hml	0118	suǒyǐ	so	other	other				
+mandarin	hml	0118	shuō	say	other	other				
+mandarin	hml	0118	ZERO	0_she	0.h:a	0	h	a	1001	
+mandarin	hml	0118	zài	in	adp	adp				
+mandarin	hml	0118	yíng	camp	np:l	np		l	1114	
+mandarin	hml	0118	zhōng	inside	adp	adp				
+mandarin	hml	0118	xiūrǎng	NC	nc	nc				
+mandarin	hml	0118	xiūyǎng	cure	v:pred	v		pred		
+mandarin	hml	0118	ZERO	0_shoulder	0:p	0		p	1140	
+mandarin	hml	0119	#	#	##	##				
+mandarin	hml	0119	zài	in	other	other				
+mandarin	hml	0119	yuánshuài	marshal	np.h:s	np	h	s	1065	
+mandarin	hml	0119	lái	come	v:pred	v		pred		
+mandarin	hml	0119	#	#	##	##				
+mandarin	hml	0119	ZERO	0_he	svc_0.h:a	svc_0	h	a	1065	
+mandarin	hml	0119	tànwàng	visit	v:pred	v		pred		
+mandarin	hml	0119	tā	3SG	pro.h:p	pro	h	p	1001	
+mandarin	hml	0119	de	MOD	other	other				
+mandarin	hml	0119	shíhòu	moment	other	other				
+mandarin	hml	0119	ne	MP	other	other				
+mandarin	hml	0120	#	#	##	##				
+mandarin	hml	0120	tā	3SG	pro.h:s	pro	h	s	1065	
+mandarin	hml	0120	(xiǎng)	NC	nc	nc				
+mandarin	hml	0120	běn	original	other	other				
+mandarin	hml	0120	xiǎng	want	other	other				
+mandarin	hml	0120	bǎ	BA	nc	nc				
+mandarin	hml	0120	yuánshuài	marshal	nc	nc			1065	
+mandarin	hml	0120	bǎ	BA	adp	adp				
+mandarin	hml	0120	zìjǐ	REFL	ln_refl.h:poss	ln_refl	h	poss	1065	
+mandarin	hml	0120	de	MOD	ln	ln				
+mandarin	hml	0120	nǚér	daughter	np.h:obl_dom	np	h	obl_dom	1142	new
+mandarin	hml	0120	xǔpèi	betroth	v:pred	v		pred		
+mandarin	hml	0120	gěi	give/ADP	adp	adp				
+mandarin	hml	0120	huāmùlán	HuaMulan	pn_np.h:g	pn_np	h	g	1001	
+mandarin	hml	0121	#	#	##	##				
+mandarin	hml	0121	dànshì	but	other	other				
+mandarin	hml	0121	mù	Mu	nc	nc				
+mandarin	hml	0121	mùlán	Mulan	pn_np.h:dt_s	pn_np	h	dt_s	1001	
+mandarin	hml	0121	#	#	#	#				
+mandarin	hml	0121	dàjiā	everybody	np.h:s	np	h	s	1143	new
+mandarin	hml	0121	doū	all	rn	rn				
+mandarin	hml	0121	zhīdào	know	v:pred	v		pred		
+mandarin	hml	0121	%	%	%	%				
+mandarin	hml	0121	yīnwéi	because	other	other				
+mandarin	hml	0121	ZERO	0_she	dt_0.h:s	dt_0	h	s	1001	
+mandarin	hml	0121	shì	COP	cop	cop				
+mandarin	hml	0121	gè	CL	ln	ln				
+mandarin	hml	0121	nǚháizǐ	girl	np.h:pred	np	h	pred	1001	
+mandarin	hml	0122	#	#	##neg	##neg				
+mandarin	hml	0122	tā	3SG	pro.h:a	pro	h	a	1001	
+mandarin	hml	0122	shì	COP	other	other				
+mandarin	hml	0122	méi	NEG	lv	lv				
+mandarin	hml	0122	yǒu	have	v:pred	v		pred		
+mandarin	hml	0122	bànfǎ	possibility	np:p	np		p	1144	new
+mandarin	hml	0122	ā	MP	other	other				
+mandarin	hml	0122	#	#	##	##				
+mandarin	hml	0122	ZERO	0_she	0.h:a	0	h	a	1001	
+mandarin	hml	0122	qǔ	marry	v:pred	v		pred		
+mandarin	hml	0122	qīn	wife	np.h:p	np	h	p	1145	new
+mandarin	hml	0122	de	MOD	other	other				
+mandarin	hml	0123	#	#	##	##				
+mandarin	hml	0123	suǒyǐ	so	other	other				
+mandarin	hml	0123	shuō	say	other	other				
+mandarin	hml	0123	tā	3SG	pro.h:s	pro	h	s	1001	
+mandarin	hml	0123	jiù	ADV	other	other				
+mandarin	hml	0123	tuīcí	decline	v:pred	v		pred		
+mandarin	hml	0123	#	#	##	##				
+mandarin	hml	0123	ZERO	0_she	0.h:s_ds	0	h	s_ds	1001	
+mandarin	hml	0123	shuō	say	v:pred	v		pred		
+mandarin	hml	0123	#	#	##ds	##ds				
+mandarin	hml	0123	zìjǐ	REFL	ln_refl.h:poss	ln_refl	h	poss	1001	
+mandarin	hml	0123	de	MOD	ln	ln				
+mandarin	hml	0123	jiànshāng	injury	np:s	np		s	1141	
+mandarin	hml	0123	fāzuò	break_out	v:pred	v		pred		
+mandarin	hml	0124	#	#	##	##				
+mandarin	hml	0124	ZERO	0_she	0.h:a	0	h	a	1001	
+mandarin	hml	0124	qǐngqiú	request	v:pred	v		pred		
+mandarin	hml	0124	#	#	#cc:p	#cc		p		
+mandarin	hml	0124	ZERO	0_she	0.h:a	0	h	a	1001	
+mandarin	hml	0124	fǎn	return	v:pred	v		pred		
+mandarin	hml	0124	xiāng	village	np:p	np		p	1146	new
+mandarin	hml	0124	shěng	province	rn_np	rn_np			1147	new
+mandarin	hml	0124	qīn	relatives	rn_np.h	rn_np	h		1061	
+mandarin	hml	0125	#	#	##	##				
+mandarin	hml	0125	zhè	this	ln	ln				
+mandarin	hml	0125	shíhòu	moment	np:other	np		other	1148	new
+mandarin	hml	0125	jī	some	ln	ln				
+mandarin	hml	0125	gè	CL	ln	ln				
+mandarin	hml	0125	jiānglǐng	high_ranking_military_officer	np.h:s	np	h	s	1149	new
+mandarin	hml	0125	lái	come	v:pred	v		pred		
+mandarin	hml	0125	#	#	##	##				
+mandarin	hml	0125	ZERO	0_they	svc_0.h:a	svc_0	h	a	1149	
+mandarin	hml	0125	kàn	see	v:pred	v		pred		
+mandarin	hml	0125	ZERO	0_she	0.h:p	0	h	p	1001	
+mandarin	hml	0125	#	#	##	##				
+mandarin	hml	0125	ZERO	0_they	0.h:s	0	h	s	1149	
+mandarin	hml	0125	lái	come	v:pred	v		pred		
+mandarin	hml	0125	#	#	##	##				
+mandarin	hml	0125	ZERO	0_they	svc_0.h:a	svc_0	h	a	1149	
+mandarin	hml	0125	tànwàng	visit	v:pred	v		pred		
+mandarin	hml	0125	ZERO	0_she	0.h:p	0	h	p	1001	
+mandarin	hml	0126	#	#	##	##				
+mandarin	hml	0126	ZERO	0_they	0.h:a	0	h	a	1149	
+mandarin	hml	0126	doū	all	lv	lv				
+mandarin	hml	0126	xiànmù	envy	v:pred	v		pred		
+mandarin	hml	0126	#	#	#cc:p	#cc		p		
+mandarin	hml	0126	tā	3SG	pro.h:a	pro	h	a	1001	
+mandarin	hml	0126	jiāng	will	lv	lv				
+mandarin	hml	0126	yào	will	lv	lv				
+mandarin	hml	0126	chéng	become	v:pred	v		pred		
+mandarin	hml	0126	qīn	relative	np.h:p	np	h	p	1150	new
+mandarin	hml	0127	#	#	##	##				
+mandarin	hml	0127	dàn	but	other	other				
+mandarin	hml	0127	tā	3SG	pro.h:s	pro	h	s	1001	
+mandarin	hml	0127	jiǎzhuāng	pretend	v:pred	v		pred		
+mandarin	hml	0127	#	#	##	##				
+mandarin	hml	0127	zìjǐ	REFL	ln_refl.h:poss	ln_refl	h	poss	1001	
+mandarin	hml	0127	jiā	home	np:l	np		l	1151	new
+mandarin	hml	0127	zhōng	inside	adp	adp				
+mandarin	hml	0127	yǐjīng	already	other	other				
+mandarin	hml	0127	yǒu	have	v:pred	v		pred		
+mandarin	hml	0127	qīzǐ	wife	np.h:s	np	h	s	1152	new
+mandarin	hml	0127	le	ASP	other	other				
+mandarin	hml	0128	#	#	##	##				
+mandarin	hml	0128	ā	MP	other	other				
+mandarin	hml	0128	dàn	but	other	other				
+mandarin	hml	0128	zhè	this	ln	ln				
+mandarin	hml	0128	gè	CL	ln	ln				
+mandarin	hml	0128	shíhòu	moment	np:other	np		other	1153	new
+mandarin	hml	0128	zhāotíng	dinasty	np.h:s	np	h	s	1005	
+mandarin	hml	0128	xuānzhào	grant_audience_to_subjects	v:pred	v		pred		
+mandarin	hml	0128	#	#	##	##				
+mandarin	hml	0128	ZERO	0_they	0.h:s	0	h	s	1005	
+mandarin	hml	0128	láojūn	reward_soldiers_of_army	v:pred	v		pred		
+mandarin	hml	0129	#	#	##	##				
+mandarin	hml	0129	g	yes	other	other				
+mandarin	hml	0129	ZERO	0_they	0.h:a	0	h	a	1005	
+mandarin	hml	0129	bāngei	confer	v:pred	v		pred		
+mandarin	hml	0129	ZERO	0_she	0.h:g	0	h	g	1001	
+mandarin	hml	0129	huángjīn	gold	np:p	np		p	1154	new
+mandarin	hml	0129	haiyǒu	and_also	rn_np	rn_np				
+mandarin	hml	0129	yùbó	jade	rn_np	rn_np			1155	new
+mandarin	hml	0129	ā	MP	other	other				
+mandarin	hml	0130	#	#	##	##				
+mandarin	hml	0130	dàjiā	everybody	np.h:s	np	h	s	1156	new
+mandarin	hml	0130	doū	all	rn	rn				
+mandarin	hml	0130	xiàng	towards	adp	adp				
+mandarin	hml	0130	mùlán	Mulan	pn_np.h:g	pn_np	h	g	1001	
+mandarin	hml	0130	qìnghè	congratulate	v:pred	v		pred		
+mandarin	hml	0131	#	#	##neg	##neg				
+mandarin	hml	0131	dànshì	but	other	other				
+mandarin	hml	0131	huāmùlán	HuaMulan	pn_np.h:dt_a	pn_np	h	dt_a	1001	
+mandarin	hml	0131	tā	3SG	pro.h:a	pro	h	a	1001	
+mandarin	hml	0131	bù	NEG	lv	lv				
+mandarin	hml	0131	bù	NEG	lv	lv				
+mandarin	hml	0131	xiǎngyào	want	v:pred	v		pred		
+mandarin	hml	0131	nà	that	ln	ln				
+mandarin	hml	0131	gè	CL	ln	ln				
+mandarin	hml	0131	shēngguān	promotion	np:p	np		p	1157	new
+mandarin	hml	0131	shòushǎng	receiving_of_price	rn_np	rn_np			1158	new
+mandarin	hml	0132	#	#	##	##				
+mandarin	hml	0132	tā	3SG	pro.h:s	pro	h	s	1001	
+mandarin	hml	0132	juéxīn	decide	v:pred	v		pred		
+mandarin	hml	0132	ne	MP	other	other				
+mandarin	hml	0132	#	#	##	##				
+mandarin	hml	0132	ZERO	0_she	0.h:a	0	h	a	1001	
+mandarin	hml	0132	huídào	go_back	v:pred	v		pred		
+mandarin	hml	0132	zìjǐ	REFL	ln_refl.h:poss	ln_refl	h	poss	1001	
+mandarin	hml	0132	de	MOD	ln	ln				
+mandarin	hml	0132	jiāxiāng	home_village	np:p	np		p	1146	
+mandarin	hml	0132	hé	and	rn	rn				
+mandarin	hml	0132	zìjǐ	REFL	rn_refl.h:poss	rn_refl	h	poss	1001	
+mandarin	hml	0132	de	MOD	rn	rn				
+mandarin	hml	0132	jiārén	family	rn_np.h	rn_np	h		1159	new
+mandarin	hml	0133	#	#	##	##				
+mandarin	hml	0133	ZERO	0_she	0.h:a	0	h	a	1001	
+mandarin	hml	0133	nénggòu	can	lv	lv				
+mandarin	hml	0133	gòng	together	nc	nc				
+mandarin	hml	0133	du	spend_time	nc	nc				
+mandarin	hml	0133	zìjǐ	REFL	nc	nc			1001	
+mandarin	hml	0133	de	MOD	nc	nc				
+mandarin	hml	0133	gòng	together	lv	lv				
+mandarin	hml	0133	du	spend_time	v:pred	v		pred		
+mandarin	hml	0133	zìjǐ	REFL	ln_refl.h:poss	ln_refl	h	poss	1001	
+mandarin	hml	0133	de	MOD	ln	ln				
+mandarin	hml	0133	yú	remaining	ln	ln				
+mandarin	hml	0133	sheng	life	np:p	np		p	1160	new
+mandarin	hml	0134	#	#	##	##				
+mandarin	hml	0134	è	oh	other	other				
+mandarin	hml	0134	tā	3SG	pro.h:s_ds	pro	h	s_ds	1001	
+mandarin	hml	0134	zài	in	nc	nc				
+mandarin	hml	0134	gěi	give/ADP	nc	nc				
+mandarin	hml	0134	bǎ	BA	adp	adp				
+mandarin	hml	0134	zhè	this	ln	ln				
+mandarin	hml	0134	xiē	some	ln	ln				
+mandarin	hml	0134	xiǎngfǎ	thought	np:obl_dom	np		obl_dom	1161	new
+mandarin	hml	0134	shuō	say	v:pred	v		pred		
+mandarin	hml	0134	shuō	say	nc	nc				
+mandarin	hml	0134	gěi	give/ADP	adp	adp				
+mandarin	hml	0134	yuánshuài	marshal	np.h:g	np	h	g	1065	
+mandarin	hml	0134	zhīhòu	after	other	other				
+mandarin	hml	0135	#	#	##	##				
+mandarin	hml	0135	yuánshuài	marshal	np.h:a	np	h	a	1065	
+mandarin	hml	0135	jiù	ADV	other	other				
+mandarin	hml	0135	zhī	only	other	other				
+mandarin	hml	0135	nénggòu	can	lv	lv				
+mandarin	hml	0135	miǎnqiáng	reluctantly	lv	lv				
+mandarin	hml	0135	yǔnxǔ	allow	v:pred	v		pred		
+mandarin	hml	0135	ZERO	0_it	0:p	0		p	1161	
+mandarin	hml	0136	#	#	##	##				
+mandarin	hml	0136	zài	in	other	other				
+mandarin	hml	0136	mùlán	Mulan	pn_np.h:dt_a	pn_np	h	dt_a	1001	
+mandarin	hml	0136	mùlán	Mulan	pn_np.h:a	pn_np	h	a	1001	
+mandarin	hml	0136	huí	return	v:pred	v		pred		
+mandarin	hml	0136	xiāng	village	np:p	np		p	1146	
+mandarin	hml	0136	zhīhòu	after	other	other				
+mandarin	hml	0136	ne	MP	other	other				
+mandarin	hml	0137	#	#	##	##				
+mandarin	hml	0137	bǎixìng	civilian	np.h:a	np	h	a	1162	new
+mandarin	hml	0137	yántú	along_sides_of_road	np:other	np		other		
+mandarin	hml	0137	zhāodài	welcome	v:pred	v		pred		
+mandarin	hml	0137	ZERO	0_she	0.h:p	0	h	p	1001	
+mandarin	hml	0138	#	#	##	##				
+mandarin	hml	0138	jiā	home	np:l	np		l	1151	
+mandarin	hml	0138	zhōng	inside	adp	adp				
+mandarin	hml	0138	fùmǔ	parents	np.h:s	np	h	s	1163	bridging
+mandarin	hml	0138	jiě	sisters	rn_np.h	rn_np	h		1164	bridging
+mandarin	hml	0138	dì	brothers	rn_np.h	rn_np	h		1165	bridging
+mandarin	hml	0138	doū	all	rn	rn				
+mandarin	hml	0138	fēnfen	one_by_one	rn	rn				
+mandarin	hml	0138	chūlái	come_out	v:pred	v		pred		
+mandarin	hml	0138	#	#	##	##				
+mandarin	hml	0138	ZERO	0_they	svc_0.h:a	svc_0	h	a	1159	
+mandarin	hml	0138	xiāng	one_another	lv	lv				
+mandarin	hml	0138	ying	welcome	v:pred	v		pred		
+mandarin	hml	0138	ZERO	0_she	0.h:p	0	h	p	1001	
+mandarin	hml	0139	#	#	##	##				
+mandarin	hml	0139	yīnwéi	because	other	other				
+mandarin	hml	0139	bìjìng	after_all	other	other				
+mandarin	hml	0139	ZERO	0_it	0:s	0		s	1166	new
+mandarin	hml	0139	shì	COP	cop	cop				
+mandarin	hml	0139	yī	one	ln	ln				
+mandarin	hml	0139	gè	CL	ln	ln				
+mandarin	hml	0139	#	#	#rc	#rc				
+mandarin	hml	0139	ZERO	0_it	0:s	0		s	1166	
+mandarin	hml	0139	zài	in	adp	adp				
+mandarin	hml	0139	zhōngguó	China	pn_np:l	pn_np		l	1022	
+mandarin	hml	0139	hěn	very	other	other				
+mandarin	hml	0139	zhòngyào	important	other:pred	other		pred		
+mandarin	hml	0139	de	MOD	other	other				
+mandarin	hml	0139	#	#	#rc	#rc				
+mandarin	hml	0139	zhè	this	other	other				
+mandarin	hml	0139	zhǒng	type	other	other				
+mandarin	hml	0139	ZERO	0_they	0.h:s	0	h	s	1159	
+mandarin	hml	0139	tuányuán	have_reunion	v:pred	v		pred		
+mandarin	hml	0139	%	%	%	%				
+mandarin	hml	0139	de	MOD	ln	ln				
+mandarin	hml	0139	shíkè	moment	np:pred	np		pred	1166	
+mandarin	hml	0140	#	#	##	##				
+mandarin	hml	0140	ā	MP	other	other				
+mandarin	hml	0140	dàjiā	everybody	np.h:s	np	h	s	1159	
+mandarin	hml	0140	doū	all	rn	rn				
+mandarin	hml	0140	fēicháng	really	other	other				
+mandarin	hml	0140	de	MOD	other	other				
+mandarin	hml	0140	gāoxīng	happy	other:pred	other		pred		
+mandarin	hml	0140	g	yes	other	other				
+mandarin	hml	0141	#	#	##	##				
+mandarin	hml	0141	yī	one	ln	ln				
+mandarin	hml	0141	tiān	day	np:other	np		other		
+mandarin	hml	0141	ne	MP	other	other				
+mandarin	hml	0141	yuánshuài	marshal	np.h:a	np	h	a	1065	
+mandarin	hml	0141	è	oh	other	other				
+mandarin	hml	0141	dào	arrive	v:pred	v		pred		
+mandarin	hml	0141	huāmùlán	HuaMulan	ln_pn_np.h:poss	ln_pn_np	h	poss	1001	
+mandarin	hml	0141	de	MOD	ln	ln				
+mandarin	hml	0141	jiā	home	np:p	np		p	1151	
+mandarin	hml	0142	#	#	##	##				
+mandarin	hml	0142	ZERO	0_he	0.h:s	0	h	s	1065	
+mandarin	hml	0142	(zhǔnbèi)	prepare	nc	nc				
+mandarin	hml	0142	wéi	for	adp	adp				
+mandarin	hml	0142	nǚér	daughter	np.h:obl	np	h	obl	1142	
+mandarin	hml	0142	tíqīn	propose_marriage	v:pred	v		pred		
+mandarin	hml	0143	#	#	##	##				
+mandarin	hml	0143	zé	oh	other	other				
+mandarin	hml	0143	ā	MP	other	other				
+mandarin	hml	0143	huā	Hua	ln_pn_np.h:poss	ln_pn_np	h	poss	1001	
+mandarin	hml	0143	fù	father	np.h:dt_s	np	h	dt_s	1003	
+mandarin	hml	0143	ne	MP	other	other				
+mandarin	hml	0143	ZERO	0_he	dt_0.h:s	dt_0	h	s	1003	
+mandarin	hml	0143	kěnéng	maybe	other	other				
+mandarin	hml	0143	jiù	ADV	other	other				
+mandarin	hml	0143	shì	COP	other	other				
+mandarin	hml	0143	tuī	push	v:pred	v		pred		
+mandarin	hml	0143	#	#	##	##				
+mandarin	hml	0143	ZERO	0_he	svc_0.h:s_ds	svc_0	h	s_ds	1003	
+mandarin	hml	0143	shuō	say	v:pred	v		pred		
+mandarin	hml	0143	#	#	##ds	##ds				
+mandarin	hml	0143	érzǐ	son	np.h:a	np	h	a	1001	
+mandarin	hml	0143	shòu	suffer	v:pred	v		pred		
+mandarin	hml	0143	fēnghán	winterwind	ln_np	ln_np			1168	new
+mandarin	hml	0143	rǎnbìng	infectious_disease	np:p	np		p	1169	new
+mandarin	hml	0143	#	#	##ds	##ds				
+mandarin	hml	0143	ZERO	0_she	0.h:s	0	h	s	1001	
+mandarin	hml	0143	zài	in	adp	adp				
+mandarin	hml	0143	chuáng	bed	np:pred	np		pred	1170	new
+mandarin	hml	0144	#	#	##	##				
+mandarin	hml	0144	yuánshuài	marshal	np.h:s	np	h	s	1065	
+mandarin	hml	0144	qù	go	v:pred	v		pred		
+mandarin	hml	0144	chuáng	bed	np:g	np		g	1170	
+mandarin	hml	0144	qián	front	adp	adp				
+mandarin	hml	0144	#	#	##	##				
+mandarin	hml	0144	ZERO	0_he	svc_0.h:s	svc_0	h	s	1065	
+mandarin	hml	0144	tànbìng	visit_sick_person	v:pred	v		pred		
+mandarin	hml	0145	#	#	##neg	##neg				
+mandarin	hml	0145	è	oh	other	other				
+mandarin	hml	0145	huā	Hua	ln_pn_np.h	ln_pn_np	h		1003	
+mandarin	hml	0145	lǎo	old	np.h:a	np	h	a	1003	
+mandarin	hml	0145	shi	COP	other	other				
+mandarin	hml	0145	méi	NEG	lv	lv				
+mandarin	hml	0145	méi	NEG	lv	lv				
+mandarin	hml	0145	yǒu	have	v:pred	v		pred		
+mandarin	hml	0145	bànfǎ	possibility	np:p	np		p		
+mandarin	hml	0145	#	#	##	##				
+mandarin	hml	0145	ZERO	0_he	0.h:a	0	h	a	1003	
+mandarin	hml	0145	zài	again	other	other				
+mandarin	hml	0145	tuīcí	decline	v:pred	v		pred		
+mandarin	hml	0145	le	ASP	rv	rv				
+mandarin	hml	0145	ZERO	0_he	0.h:p	0	h	p	1003	
+mandarin	hml	0146	#	#	##	##				
+mandarin	hml	0146	zhī	only	other	other				
+mandarin	hml	0146	dé	NC	nc	nc				
+mandarin	hml	0146	ZERO	0_he	0.h:s	0	h	s	1003	
+mandarin	hml	0146	bǎ	BA	adp	adp				
+mandarin	hml	0146	mùlán	Mulan	pn_np.h:obl_dom	pn_np	h	obl_dom	1001	
+mandarin	hml	0146	jiào	call	nc	nc				
+mandarin	hml	0146	jiào	call	v:pred	v		pred		
+mandarin	hml	0146	#	#	##	##				
+mandarin	hml	0146	ZERO	0_she	svc_0.h:s	svc_0	h	s	1001	
+mandarin	hml	0146	lái	come	v:pred	v		pred		
+mandarin	hml	0147	#	#	##	##				
+mandarin	hml	0147	zhīhòu	after	other	other				
+mandarin	hml	0147	ZERO	0_she	0.h:s	0	h	s	1001	
+mandarin	hml	0147	zǒu	walk	v:pred	v		pred		
+mandarin	hml	0147	shàng	on	adp	adp				
+mandarin	hml	0147	táng	room	np:l	np		l	1171	new
+mandarin	hml	0147	#	#	##	##				
+mandarin	hml	0147	ZERO	0_she	0.h:s	0	h	s	1001	
+mandarin	hml	0147	lái	come	v:pred	v		pred		
+mandarin	hml	0148	#	#	##	##				
+mandarin	hml	0148	hè	He	ln_pn_np.h	ln_pn_np	h			
+mandarin	hml	0148	yuánshuài	marshal	np.h:s_ds	np	h	s_ds	1065	
+mandarin	hml	0148	réng	yet	other	other				
+mandarin	hml	0148	réng	yet	other	other				
+mandarin	hml	0148	shuō	say	v:pred	v		pred		
+mandarin	hml	0148	#	#	##ds	##ds				
+mandarin	hml	0148	ZERO	0_he	0.h:a	0	h	a	1065	
+mandarin	hml	0148	xiǎngyào	want	lv	lv				
+mandarin	hml	0148	qù	go	lv_svc	lv_svc				
+mandarin	hml	0148	jiàn	meet	v:pred	v		pred		
+mandarin	hml	0148	nà	that	ln	ln				
+mandarin	hml	0148	gè	CL	ln	ln				
+mandarin	hml	0148	huā	Hua	ln_pn_np.h	ln_pn_np	h		1001	
+mandarin	hml	0148	jiāngjūn	military_officer	np.h:p	np	h	p	1001	
+mandarin	hml	0149	#	#	##	##				
+mandarin	hml	0149	danshi	but	other	other				
+mandarin	hml	0149	a	oh	nc	nc				
+mandarin	hml	0149	hua	Hua	nc	nc				
+mandarin	hml	0149	hua	Hua	nc	nc				
+mandarin	hml	0149	laoye	grandfather	nc	nc				
+mandarin	hml	0149	hua	Hua	ln_pn_np.h	ln_pn_np	h		1003	
+mandarin	hml	0149	lǎorén	old_man	np.h:dt_s_ds	np	h	dt_s_ds	1003	
+mandarin	hml	0149	ne	MP	other	other				
+mandarin	hml	0149	ZERO	0_he	dt_0.h:s_ds	dt_0	h	s_ds	1003	
+mandarin	hml	0149	yě	also	other	other				
+mandarin	hml	0149	jiù	ADV	other	other				
+mandarin	hml	0149	shì	COP	other	other				
+mandarin	hml	0149	shuō	say	v:pred	v		pred		
+mandarin	hml	0149	#	#	##	##				
+mandarin	hml	0149	ZERO	0_he	0.h:a_ds	0	h	a_ds	1003	
+mandarin	hml	0149	gàosù	tell	v:pred	v		pred		
+mandarin	hml	0149	tā	3SG	pro.h:p	pro	h	p	1065	
+mandarin	hml	0149	#	#	##ds	##ds				
+mandarin	hml	0149	zhège	this	pro:s	pro		s	1001	
+mandarin	hml	0149	jiù	ADV	other	other				
+mandarin	hml	0149	shì	COP	cop	cop				
+mandarin	hml	0149	huāmùlán	HuaMulan	pn_np.h:pred	pn_np	h	pred	1001	
+mandarin	hml	0150	#	#	##	##				
+mandarin	hml	0150	zhè	this	ln	ln				
+mandarin	hml	0150	gè	CL	ln	ln				
+mandarin	hml	0150	shíhòu	moment	np:other	np		other	1173	new
+mandarin	hml	0150	g	yes	other	other				
+mandarin	hml	0150	hè	He	ln_pn_np.h	ln_pn_np	h		1172	
+mandarin	hml	0150	yuánshuài	marshal	np.h:s	np	h	s	1065	
+mandarin	hml	0150	cái	only	other	other				
+mandarin	hml	0150	huǎngrán	suddenly	other	other				
+mandarin	hml	0150	dà	big	ln	ln				
+mandarin	hml	0150	wu	comprehend	np:pred	np		pred	1174	new
+mandarin	hml	0151	#	#	##	##				
+mandarin	hml	0151	yuánlái	originally	other	other				
+mandarin	hml	0151	mùlán	Mulan	pn_np.h:s	pn_np	h	s	1001	
+mandarin	hml	0151	shì	COP	cop	cop				
+mandarin	hml	0151	nà	that	ln	ln				
+mandarin	hml	0151	gè	CL	ln	ln				
+mandarin	hml	0151	#	#	#rc	#rc				
+mandarin	hml	0151	nán	man	np.h:p	np	h	p	1056	
+mandarin	hml	0151	bàn	dress_as	v:pred	v		pred		
+mandarin	hml	0151	nǚ	woman	np.h:a	np	h	a	1038	
+mandarin	hml	0151	%	%	%	%				
+mandarin	hml	0151	zhuāng	pretend	np:pred	np		pred	1175	new
+mandarin	hml	0152	#	#	##	##				
+mandarin	hml	0152	huā	Hua	ln_pn_np.h	ln_pn_np	h			
+mandarin	hml	0152	lǎo	old	np.h:dt_a	np	h	dt_a	1003	
+mandarin	hml	0152	ne	MP	other	other				
+mandarin	hml	0152	ZERO	0_he	dt_0.h:a	dt_0	h	a	1003	
+mandarin	hml	0152	ānpái	arrange	v:pred	v		pred		
+mandarin	hml	0152	le	ASP	rv	rv				
+mandarin	hml	0152	jiǔyàn	feast	np:p	np		p	1176	new
+mandarin	hml	0153	#	#	##	##				
+mandarin	hml	0153	ZERO	0_he	0.h:a	0	h	a	1003	
+mandarin	hml	0153	xiàng	towards	adp	adp				
+mandarin	hml	0153	he	He	ln_pn_np.h	ln_pn_np	h			
+mandarin	hml	0153	yuánshuài	marshal	np.h:g	np	h	g	1065	
+mandarin	hml	0153	qǐngzuì	beg_forgiveness	v:pred	v		pred		
+mandarin	hml	0153	#	#	#rc	#rc				
+mandarin	hml	0153	mùlán	Mulan	pn_np.h:dt	pn_np	h	dt	1001	
+mandarin	hml	0153	è	oh	other	other				
+mandarin	hml	0153	nǚ	woman	np.h:a	np	h	a	1038	
+mandarin	hml	0153	bàn	dress_as	v:pred	v		pred		
+mandarin	hml	0153	nán	man	np.h:p	np	h	p	1056	
+mandarin	hml	0153	#	#	#rc	#rc				
+mandarin	hml	0153	ZERO	0_she	0.h:s	0	h	s	1001	
+mandarin	hml	0153	zhuāng	pretend	v:pred	v		pred		
+mandarin	hml	0153	%	%	%	%				
+mandarin	hml	0153	zhī	MOD	ln	ln				
+mandarin	hml	0153	shì	thing	np:p	np		p	1177	new
+mandarin	hml	0153	ne	MP	other	other				
+mandarin	hml	0154	#	#	##	##				
+mandarin	hml	0154	jiǔyàn	feast	np:s	np		s	1176	
+mandarin	hml	0154	guò	pass	v:pred	v		pred		
+mandarin	hml	0154	hòu	after	other	other				
+mandarin	hml	0154	#	#	##	##				
+mandarin	hml	0154	mùlán	Mulan	pn_np.h:s	pn_np	h	s	1001	
+mandarin	hml	0154	jiāng	towards	adp	adp				
+mandarin	hml	0154	he	He	pn_np.h	pn_np	h		1172	
+mandarin	hml	0154	yuánshuài	marshal	np.h:g	np	h	g	1065	
+mandarin	hml	0154	qǐng	invite	v:pred	v		pred		
+mandarin	hml	0154	dào	arrive	adp	adp				
+mandarin	hml	0154	jīfáng	equipment room	np:g	np		g	1178	new
+mandarin	hml	0154	#	#	##	##				
+mandarin	hml	0154	ZERO	0_she	0.h:s_ds	0	h	s_ds	1001	
+mandarin	hml	0154	shuō	say	v:pred	v		pred		
+mandarin	hml	0155	#	#	##ds	##ds				
+mandarin	hml	0155	yǐqián	before	other	other				
+mandarin	hml	0155	guójiā	country	np:a	np		a	1022	
+mandarin	hml	0155	yǒu	have	v:pred	v		pred		
+mandarin	hml	0155	nán	hardship	np:p	np		p	1179	new
+mandarin	hml	0156	#	#	##ds	##ds				
+mandarin	hml	0156	wǒ	1SG	pro.1:a	pro	1	a	1001	
+mandarin	hml	0156	cái	only	other	other				
+mandarin	hml	0156	dài	replace	v:pred	v		pred		
+mandarin	hml	0156	fù	father	np.h:p	np	h	p	1003	
+mandarin	hml	0156	#	#	##ds	##ds				
+mandarin	hml	0156	ZERO	0_I	svc_0.1:a	svc_0	1	a	1001	
+mandarin	hml	0156	cóng	enlist	v:pred	v		pred		
+mandarin	hml	0156	jūn	army	np:p	np		p	1004	
+mandarin	hml	0156	wéi	for	adp	adp				
+mandarin	hml	0156	guó	country	ln_np:poss	ln_np		poss	1022	
+mandarin	hml	0156	xiàolì	effect	np:obl	np		obl	1180	new
+mandarin	hml	0156	#	#	##ds.neg	##ds.neg				
+mandarin	hml	0156	ZERO	0_I	0.1:a	0	1	a	1001	
+mandarin	hml	0156	bù	NEG	lv	lv				
+mandarin	hml	0156	qiú	request	v:pred	v		pred		
+mandarin	hml	0156	mínglì	fame	np:p	np		p	1181	new
+mandarin	hml	0157	#	#	##ds	##ds				
+mandarin	hml	0157	rújin	today	other	other				
+mandarin	hml	0157	guó	country	np:s	np		s	1022	
+mandarin	hml	0157	nèi	inside	adp	adp				
+mandarin	hml	0157	ānjìng	peaceful	other:pred	other		pred		
+mandarin	hml	0158	#	#	##ds	##ds				
+mandarin	hml	0158	wǒ	1SG	pro.1:a	pro	1	a	1001	
+mandarin	hml	0158	yuàn	agree_to	v:pred	v		pred		
+mandarin	hml	0158	réngjiu	still	other	other				
+mandarin	hml	0158	qín	diligent	other:p	other		p		
+mandarin	hml	0158	yú	and	other	other				
+mandarin	hml	0158	fǎngzhī	spinning_and_weaving	other	other				
+mandarin	hml	0159	#	#	##ds	##ds				
+mandarin	hml	0159	ZERO	0_she	0.h:a	0	h	a	1001	
+mandarin	hml	0159	jìn	give_priority_to	v:pred	v		pred		
+mandarin	hml	0159	wǒ	1SG	ln_pro.1:poss	ln_pro	1	poss	1001	
+mandarin	hml	0159	fùnǚ	woman	ln_np.h:poss	ln_np	h	poss	1038	
+mandarin	hml	0159	běnfēn	duty	np:p	np		p	1182	new
+mandarin	hml	0160	#	#	##	##				
+mandarin	hml	0160	hè	He	ln_pn_np.h	ln_pn_np	h			
+mandarin	hml	0160	yuánshuài	marshal	np.h:a	np	h	a	1065	
+mandarin	hml	0160	tīng	hear	v:pred	v		pred		
+mandarin	hml	0160	le	ASP	rv	rv				
+mandarin	hml	0160	ZERO	0_she	0.h:p	0	h	p	1001	
+mandarin	hml	0160	ne	MP	other	other				
+mandarin	hml	0160	#	#	##	##				
+mandarin	hml	0160	ZERO	0_he	0.h:a	0	h	a	1065	
+mandarin	hml	0160	yě	also	other	other				
+mandarin	hml	0160	shífēn	very	other	other				
+mandarin	hml	0160	qīnpèi	admire	v:pred	v		pred		
+mandarin	hml	0160	ZERO	0_her	0.h:p	0	h	p	1001	
+mandarin	hml	0161	#	#	##	##				
+mandarin	hml	0161	ZERO	0_he	0.h:a	0	h	a	1065	
+mandarin	hml	0161	biàn	thus	other	other				
+mandarin	hml	0161	huí	return	v:pred	v		pred		
+mandarin	hml	0161	zhāo	dynasty	np:p	np		p	1005	
+mandarin	hml	0161	#	#	##	##				
+mandarin	hml	0161	ZERO	0_he	svc_0.h:s	svc_0	h	s	1065	
+mandarin	hml	0161	jiāozhǐ	hand_over_imperial_decree	v:pred	v		pred		
+mandarin	hml	0161	#	#	##	##				
+mandarin	hml	0161	ZERO	0_he	svc_0.h:s	svc_0	h	s	1065	
+mandarin	hml	0161	qù	go	v:pred	v		pred		
+mandarin	hml	0161	le	ASP	rv	rv				
+mandarin	hml	0162	#	#	##	##				
+mandarin	hml	0162	nà	that	other	other				
+mandarin	hml	0162	cóng	from	adp	adp				
+mandarin	hml	0162	zhè	this	ln	ln				
+mandarin	hml	0162	gè	CL	ln	ln				
+mandarin	hml	0162	gùshì	story	np:obl	np		obl	1002	
+mandarin	hml	0162	ne	MP	other	other				
+mandarin	hml	0162	wǒmén	1PL	pro.1:s	pro	1	s	1039	
+mandarin	hml	0162	jiù	ADV	other	other				
+mandarin	hml	0162	nénggòu	can	lv	lv				
+mandarin	hml	0162	kàndào	see	v:pred	v		pred		
+mandarin	hml	0163	#	#	##	##				
+mandarin	hml	0163	ké	oh	other	other				
+mandarin	hml	0163	ā	MP	other	other				
+mandarin	hml	0163	qíshí	actually	other	other				
+mandarin	hml	0163	duìyú	concerning	adp	adp				
+mandarin	hml	0163	mùlán	Mulan	pn_np.h:obl	pn_np	h	obl	1001	
+mandarin	hml	0163	lái	come	adp	adp				
+mandarin	hml	0163	shuō	say	adp	adp				
+mandarin	hml	0164	tā	3SG	nc	nc			1001	
+mandarin	hml	0164	tā	3SG	pro.h:s	pro	h	s	1001	
+mandarin	hml	0164	jiù	ADV	other	other				
+mandarin	hml	0164	shì	COP	cop	cop				
+mandarin	hml	0164	zé	oh	other	other				
+mandarin	hml	0164	yī	one	ln	ln				
+mandarin	hml	0164	gè	CL	ln	ln				
+mandarin	hml	0164	zhōngguó	China	ln_pn_np	ln_pn_np			1022	
+mandarin	hml	0164	gǔdài	ancient_time	ln_np	ln_np			1008	
+mandarin	hml	0164	nǚzǐ	woman	np.h:pred	np	h	pred	1001	
+mandarin	hml	0165	#	#	##	##				
+mandarin	hml	0165	ZERO	0_she	0.h:s	0	h	s	1001	
+mandarin	hml	0165	zhēngqiáng	competitive	other:pred	other		pred		
+mandarin	hml	0165	#	#	##	##				
+mandarin	hml	0165	ZERO	0_she	0.h:s	0	h	s	1001	
+mandarin	hml	0165	hǎo	good	other	other				
+mandarin	hml	0165	shèng	win	other:pred	other		pred		
+mandarin	hml	0166	#	#	##	##				
+mandarin	hml	0166	tāmén	3PL	nc	nc			1054	
+mandarin	hml	0166	tāmén	3PL	pro.h:s	pro	h	s	1054	
+mandarin	hml	0166	běnshēn	themselves	other	other				
+mandarin	hml	0166	xiǎngyào	want	other	other				
+mandarin	hml	0166	hé	as	adp	adp				
+mandarin	hml	0166	nánháizǐ	boy	np.h:obl	np	h	obl	1183	
+mandarin	hml	0166	yīyàng	the_same	other:pred	other		pred		
+mandarin	hml	0167	de	MOD	other	other				
+mandarin	hml	0167	#	#	##	##				
+mandarin	hml	0167	zé	oh	other	other				
+mandarin	hml	0167	tāmén	3PL	pro.h:s	pro	h	s	1054	
+mandarin	hml	0167	běnshēn	themselves	other	other				
+mandarin	hml	0167	jiù	ADV	other	other				
+mandarin	hml	0167	tèbié	very	other	other				
+mandarin	hml	0167	xiǎng	want	other	other				
+mandarin	hml	0167	hé	as	adp	adp				
+mandarin	hml	0167	nánháizǐ	boy	np.h:obl	np	h	obl	1183	
+mandarin	hml	0167	yīyàng	the_same	other:pred	other		pred		
+mandarin	hml	0168	#	#	##	##				
+mandarin	hml	0168	ZERO	0_they	0.h:a	0	h	a	1054	
+mandarin	hml	0168	nénggòu	can	lv	lv				
+mandarin	hml	0168	yǒu	have	v:pred	v		pred		
+mandarin	hml	0168	(tū)	NC	nc	nc				
+mandarin	hml	0168	#	#	#rc	#rc				
+mandarin	hml	0168	dàjiā	everybody	np.h:s	np	h	s	1184	new
+mandarin	hml	0168	píngděng	equality	np:pred	np		pred	1185	new
+mandarin	hml	0168	%	%	%	%				
+mandarin	hml	0168	de	MOD	ln	ln				
+mandarin	hml	0168	quánlì	right	np:p	np		p	1186	new

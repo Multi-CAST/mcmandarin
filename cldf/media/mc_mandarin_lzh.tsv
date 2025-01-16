@@ -1,0 +1,1652 @@
+corpus	text	uid	gword	gloss	graid	gform	ganim	gfunc	refind	isnref
+mandarin	lzh	0001	#	#	##	##				
+mandarin	lzh	0001	hǎo	good	other	other				
+mandarin	lzh	0001	ZERO	0_I	0.1:s	0	1	s		
+mandarin	lzh	0001	kāishǐ	begin	v:pred	v		pred		
+mandarin	lzh	0001	le	ASP	rv_asp	rv_asp				
+mandarin	lzh	0001	#	#	##	##				
+mandarin	lzh	0001	nǐ	2SG	pro.2:s	pro	2	s		
+mandarin	lzh	0001	yǐjīng	already	other	other				
+mandarin	lzh	0001	gěi	ADP	adp	adp				
+mandarin	lzh	0001	wǒ	1SG	pro.1:obl	pro	1	obl		
+mandarin	lzh	0001	àn	push	v:pred	v		pred		
+mandarin	lzh	0001	kāishǐ	begin	rv	rv				
+mandarin	lzh	0001	le	ASP	rv_asp	rv_asp				
+mandarin	lzh	0001	#	#	##	##				
+mandarin	lzh	0001	ZERO	0_I	0.1:s	0	1	s		
+mandarin	lzh	0001	kāishǐ	begin	v:pred	v		pred		
+mandarin	lzh	0001	le	ASP	rv_asp	rv_asp				
+mandarin	lzh	0001	èn	yes	other	other				
+mandarin	lzh	0001	ò	MP	other	other				
+mandarin	lzh	0001	(dua)	NC	nc	nc				
+mandarin	lzh	0001	wǒqù	fuck	other	other				
+mandarin	lzh	0001	āyā	MP	other	other				
+mandarin	lzh	0002	#	#	##	##				
+mandarin	lzh	0002	a	MP	other	other				
+mandarin	lzh	0002	nà	then	other	other				
+mandarin	lzh	0002	wǒ	1SG	pro.1:a	pro	1	a		
+mandarin	lzh	0002	jīntiān	today	np:other	np		other		
+mandarin	lzh	0002	jiù	ADV	other	other				
+mandarin	lzh	0002	gěi	ADP	adp	adp				
+mandarin	lzh	0002	nǐmen	2PL	pro.2:obl	pro	2	obl		
+mandarin	lzh	0002	jiǎng	talk	v:pred	v		pred		
+mandarin	lzh	0002	yí	one	ln_deti	ln_deti				
+mandarin	lzh	0002	gè	CL	ln_cl	ln_cl				
+mandarin	lzh	0002	liángshānbó	Liangshanbo	ln_pn_np.h:poss	ln_pn_np	h	poss	3013	new
+mandarin	lzh	0002	yǔ	and	ln	ln				
+mandarin	lzh	0002	zhùyīngtái	Zhuyingtai	ln_pn_np.h:poss	ln_pn_np	h	poss	3005	new
+mandarin	lzh	0002	=de	=MOD	=ln	=ln				
+mandarin	lzh	0002	gùshi	story	np:p	np		p		
+mandarin	lzh	0003	#	#	#	#				
+mandarin	lzh	0003	(nà)	NC	nc	nc				
+mandarin	lzh	0003	liángzhù	Liangzhu	np:dt_a	np		dt_a	3015	bridging
+mandarin	lzh	0003	dehuà	if	other	other				
+mandarin	lzh	0003	ZERO	0_it	dt_0.h:a	dt_0	h	a	3015	
+mandarin	lzh	0003	qíshí	actually	other	other				
+mandarin	lzh	0003	jiù	ADV	other	other				
+mandarin	lzh	0003	shǔyú	belong_to	v:pred	v		pred		
+mandarin	lzh	0003	zánmen	1PL.INCL	ln_pro.1:poss	ln_pro	1	poss		
+mandarin	lzh	0003	zhōngguó	China	ln_np	ln_np				
+mandarin	lzh	0003	=de	=MOD	=ln	=ln				
+mandarin	lzh	0003	luómìōu	Romeo	np:p	np		p		
+mandarin	lzh	0003	yǔ	and	ln	ln				
+mandarin	lzh	0003	zhūlìyè	Juliet	np:appos	np		appos		
+mandarin	lzh	0004	#	#	##	##				
+mandarin	lzh	0004	ránhòu	then	other	other				
+mandarin	lzh	0004	zhè	DEM	ln_dem	ln_dem				
+mandarin	lzh	0004	ge	CL	ln_cl	ln_cl				
+mandarin	lzh	0004	gùshi	story	np:dt	np		dt		
+mandarin	lzh	0004	ne	MP	other	other				
+mandarin	lzh	0004	qíshí	actually	other	other				
+mandarin	lzh	0004	yī	one	other	other				
+mandarin	lzh	0004	kāishǐ	begin	other	other				
+mandarin	lzh	0004	(jiù)	NC	nc	nc				
+mandarin	lzh	0004	gǎnjué	feel(ing)	nc	nc				
+mandarin	lzh	0004	qíshí	actually	nc	nc				
+mandarin	lzh	0004	tǐng	very	nc	nc				
+mandarin	lzh	0004	yī	one	other	other				
+mandarin	lzh	0004	kāishǐ	begin	other	other				
+mandarin	lzh	0004	gěi	give/ADP	adp	adp				
+mandarin	lzh	0004	rén	people	np.h:obl	np	h	obl		
+mandarin	lzh	0004	gǎnjué	feel(ing)	nc	nc				
+mandarin	lzh	0004	jiǎng	talk	nc	nc				
+mandarin	lzh	0004	qǐlái	begin	nc	nc				
+mandarin	lzh	0004	dehuà	if	nc	nc				
+mandarin	lzh	0004	gǎnjué	feel(ing)	np:s	np		s		
+mandarin	lzh	0004	tǐng	very	other	other				
+mandarin	lzh	0004	xìngfú	happy	other:pred	other		pred		
+mandarin	lzh	0004	tǐng	very	other	other				
+mandarin	lzh	0004	kāixīn	happy	other	other				
+mandarin	lzh	0004	=de	=MOD	=other	=other				
+mandarin	lzh	0004	nà	DEM	other	other				
+mandarin	lzh	0004	zhǒng	type	other	other				
+mandarin	lzh	0004	dàn	but	other	other				
+mandarin	lzh	0005	#	#	##	##				
+mandarin	lzh	0005	dànshì	but	other	other				
+mandarin	lzh	0005	ZERO	0_I	0.1:a	0	1	a		
+mandarin	lzh	0005	jiǎng	talk	v:pred	v		pred		
+mandarin	lzh	0005	ZERO	0_it	0:p	0		p		
+mandarin	lzh	0005	dào	until	other	other				
+mandarin	lzh	0005	hòulái	later	other	other				
+mandarin	lzh	0005	#	#	##	##				
+mandarin	lzh	0005	jiéjú	outcome	np:dt_s	np		dt_s		
+mandarin	lzh	0005	dehuà	if	other	other				
+mandarin	lzh	0005	ZERO	0_it	dt_0:s	dt_0		s		
+mandarin	lzh	0005	shì	COP	cop	cop				
+mandarin	lzh	0005	bǐjiào	comparatively	other	other				
+mandarin	lzh	0005	bēicǎn	tragic	other:pred	other		pred		
+mandarin	lzh	0005	=de	=MOD	=other	=other				
+mandarin	lzh	0006	#	#	##	##				
+mandarin	lzh	0006	ránhòu	then	other	other				
+mandarin	lzh	0006	yī	one	other	other				
+mandarin	lzh	0006	kāishǐ	begin	other	other				
+mandarin	lzh	0006	dehuà	if	other	other				
+mandarin	lzh	0006	cóngqián	a_long_time_ago	other	other				
+mandarin	lzh	0006	jiù	ADV	other	other				
+mandarin	lzh	0006	shì	COP	other	other				
+mandarin	lzh	0006	yǒu	have	other:predex	other		predex		
+mandarin	lzh	0006	yí	one	ln_deti	ln_deti				
+mandarin	lzh	0006	gè	CL	ln_cl	ln_cl				
+mandarin	lzh	0006	#	#	#rc	#rc				
+mandarin	lzh	0006	ZERO	0_he	f0.h:a	f0	h	a	3001	new
+mandarin	lzh	0006	xìng	call_by_last_name	v:pred	v		pred		
+mandarin	lzh	0006	zhù	Zhu	pn_np.h:p	pn_np	h	p	3050	new
+mandarin	lzh	0006	=de	=MOD	=other	=other				
+mandarin	lzh	0006	%	%	%	%				
+mandarin	lzh	0006	dìzhǔ	landlord	np.h:s	np	h	s	3001	
+mandarin	lzh	0007	#	#	##	##				
+mandarin	lzh	0007	ránhòu	then	other	other				
+mandarin	lzh	0007	ZERO	0_he	0.h:s	0	h	s	3001	
+mandarin	lzh	0007	yě	also	other	other				
+mandarin	lzh	0007	jiù	ADV	other	other				
+mandarin	lzh	0007	shì	COP	cop	cop				
+mandarin	lzh	0007	súchēng	popular_name	ln_np:poss	ln_np		poss		
+mandarin	lzh	0007	=de	=MOD	=ln	=ln				
+mandarin	lzh	0007	zhù	Zhu	pn_np.h:pred	pn_np	h	pred	3050	
+mandarin	lzh	0007	yuánwài	landlord	rn_np	rn_np				
+mandarin	lzh	0008	#	#	##	##				
+mandarin	lzh	0008	nà	that	ln_dem	ln_dem				
+mandarin	lzh	0008	ge	CL	ln_cl	ln_cl				
+mandarin	lzh	0008	shíhòu	moment	np:other	np		other		
+mandarin	lzh	0008	=de	=MOD	=other	=other				
+mandarin	lzh	0008	yuánwài	landlord	np.h:a	np	h	a	3002	new
+mandarin	lzh	0008	yě	also	other	other				
+mandarin	lzh	0008	jiù	ADV	other	other				
+mandarin	lzh	0008	xiāngdāngyú	like	v:pred	v		pred		
+mandarin	lzh	0008	zánmen	1PL.INCL	pro.1:p	pro	1	p		
+mandarin	lzh	0008	zhè	this	ln_dem	ln_dem				
+mandarin	lzh	0008	ge	CL	ln_cl	ln_cl				
+mandarin	lzh	0008	shíhòu	moment	np:other	np		other		
+mandarin	lzh	0008	jiù	ADV	other	other				
+mandarin	lzh	0008	shi	COP	other	other				
+mandarin	lzh	0008	mǒu	one_particular	ln	ln				
+mandarin	lzh	0008	yí	one	ln_deti	ln_deti				
+mandarin	lzh	0008	gè	CL	ln_cl	ln_cl				
+mandarin	lzh	0008	dìfāng	place	np:l	np		l		
+mandarin	lzh	0008	#	#	##	##				
+mandarin	lzh	0008	ránhòu	then	other	other				
+mandarin	lzh	0008	ZERO	0_he	0.h:s	0	h	s	3001	
+mandarin	lzh	0008	shì	COP	cop	cop				
+mandarin	lzh	0008	bǐjiào	comparatively	other	other				
+mandarin	lzh	0008	yǒu	have	other:pred	other		pred		
+mandarin	lzh	0008	qián	money	other	other			3003	new
+mandarin	lzh	0008	=de	=MOD	=other	=other				
+mandarin	lzh	0009	#	#	##	##				
+mandarin	lzh	0009	ZERO	0_he	0.h:s	0	h	s	3001	
+mandarin	lzh	0009	yí	one	ln_deti	ln_deti				
+mandarin	lzh	0009	gè	CL	ln_cl	ln_cl				
+mandarin	lzh	0009	fù	rich	ln_adj	ln_adj				
+mandarin	lzh	0009	jiā	family	ln_np	ln_np			3004	new
+mandarin	lzh	0009	dà	big	ln_adj	ln_adj				
+mandarin	lzh	0009	shāng	merchant	np.h:pred	np	h	pred	3001	
+mandarin	lzh	0010	#	#	##	##				
+mandarin	lzh	0010	dànshì	but	other	other				
+mandarin	lzh	0010	zhù	Zhu	pn_np.h:dt_a	pn_np	h	dt_a	3001	
+mandarin	lzh	0010	yuánwài	landlord	rn_np	rn_np				
+mandarin	lzh	0010	tā	3SG	pro.h:a	pro	h	a	3001	
+mandarin	lzh	0010	yǒu	have	v:pred	v		pred		
+mandarin	lzh	0010	yí	one	ln_deti	ln_deti				
+mandarin	lzh	0010	gè	CL	ln_cl	ln_cl				
+mandarin	lzh	0010	nǚér	daughter	np.h:p	np	h	p	3005	
+mandarin	lzh	0011	#	#	##	##				
+mandarin	lzh	0011	ZERO	0_she	0.h:a	0	h	a	3005	
+mandarin	lzh	0011	jiào	call	v:pred	v		pred		
+mandarin	lzh	0011	zhùyīngtái	Zhuyingtai	pn_np.h:p	pn_np	h	p	3090	bridging
+mandarin	lzh	0011	jiù	ADV	other	other				
+mandarin	lzh	0012	#	#	##	##				
+mandarin	lzh	0012	zhùyīngtái	Zhuyingtai	pn_np.h:s	pn_np	h	s	3005	
+mandarin	lzh	0012	zhè	this	ln_dem	ln_dem				
+mandarin	lzh	0012	ge	CL	ln_cl	ln_cl				
+mandarin	lzh	0012	gūniang	girl	np.h:appos	np	h	appos	3005	
+mandarin	lzh	0012	hái	still	other	other				
+mandarin	lzh	0012	zhǎngde	grow_up	v:pred	v		pred		
+mandarin	lzh	0012	ze	MP	other	other				
+mandarin	lzh	0012	fēicháng	really	other	other				
+mandarin	lzh	0012	=de	=MOD	=other	=other				
+mandarin	lzh	0012	měilì	beautiful	other	other				
+mandarin	lzh	0012	dàfāng	generous	other	other				
+mandarin	lzh	0013	#	#	##	##				
+mandarin	lzh	0013	érqiě	also	other	other				
+mandarin	lzh	0013	ZERO	0_she	0.h:s	0	h	s	3005	
+mandarin	lzh	0013	tèbié	especially	other	other				
+mandarin	lzh	0013	cōngmíng	smart	other:pred	other		pred		
+mandarin	lzh	0013	#	#	##	##				
+mandarin	lzh	0013	ZERO	0_she	0.h:s	0	h	s	3005	
+mandarin	lzh	0013	hàoxué	well_studied	other:pred	other		pred		
+mandarin	lzh	0014	#	#	##	##				
+mandarin	lzh	0014	ránhòu	then	other	other				
+mandarin	lzh	0014	èn	yes	other	other				
+mandarin	lzh	0014	tāmen	3PL	pro.h:dt_a	pro	h	dt_a	3004	
+mandarin	lzh	0014	zhù	Zhu	pn_np.h:appos	pn_np	h	appos	3004	
+mandarin	lzh	0014	jiā	home	rn_np	rn_np				
+mandarin	lzh	0014	dehuà	if	other	other				
+mandarin	lzh	0014	ránhòu	then	other	other				
+mandarin	lzh	0014	ZERO	0_they	dt_0.h:a	dt_0	h	a	3004	
+mandarin	lzh	0014	yǒu	have	v:pred	v		pred		
+mandarin	lzh	0014	yí	one	ln_deti	ln_deti				
+mandarin	lzh	0014	ge	CL	ln_cl	ln_cl				
+mandarin	lzh	0014	zúguī	ethnic_rule	np:p	np		p	3006	new
+mandarin	lzh	0015	#	#	##	##				
+mandarin	lzh	0015	tāmen	3PL	ln_pro.h:poss	ln_pro	h	poss	3004	
+mandarin	lzh	0015	=de	=MOD	=ln	=ln				
+mandarin	lzh	0015	zúguī	ethnic_rule	np:s	np		s	3006	
+mandarin	lzh	0015	qíshí	actually	other	other				
+mandarin	lzh	0015	shì	COP	cop	cop				
+mandarin	lzh	0015	duì	ADP	adp	adp				
+mandarin	lzh	0015	nǚxìng	women	np.h:obl	np	h	obl	3007	new
+mandarin	lzh	0015	lái	come	rn_adp	rn_adp				
+mandarin	lzh	0015	shuō	say	rn_adp	rn_adp				
+mandarin	lzh	0015	shì	COP	other	other				
+mandarin	lzh	0015	bǐjiào	comparatively	other	other				
+mandarin	lzh	0015	qíshì	discriminating	other:pred	other		pred		
+mandarin	lzh	0015	=de	=MOD	=other	=other				
+mandarin	lzh	0016	#	#	##	##				
+mandarin	lzh	0016	ZERO	0_it	0:s	0		s	3006	
+mandarin	lzh	0016	jiù	ADV	other	other				
+mandarin	lzh	0016	xiàng	ADP	adp	adp				
+mandarin	lzh	0016	#	#	#rc	#rc				
+mandarin	lzh	0016	nǐ	2SG	pro.2:a	pro	2	a		
+mandarin	lzh	0016	gāngcái	just	other	other				
+mandarin	lzh	0016	jiǎng	talk	v:pred	v		pred		
+mandarin	lzh	0016	ZERO	0_it	f0:p	f0		p		
+mandarin	lzh	0016	%	%	%	%				
+mandarin	lzh	0016	=de	=MOD	=other	=other				
+mandarin	lzh	0016	nà	that	ln_dem	ln_dem				
+mandarin	lzh	0016	ge	CL	ln_cl	ln_cl				
+mandarin	lzh	0017	(ze)	NC	nc	nc				
+mandarin	lzh	0017	huāmùlán	Huamulan	np:obl	np		obl		
+mandarin	lzh	0017	nà	that	other	other				
+mandarin	lzh	0017	ge	CL	other	other				
+mandarin	lzh	0017	yíyàng	similar	other:pred	other		pred		
+mandarin	lzh	0018	#	#	#nc	#nc				
+mandarin	lzh	0018	ránhòu	then	nc	nc				
+mandarin	lzh	0018	shì	COP	nc	nc				
+mandarin	lzh	0018	bǐjiào	comparatively	nc	nc				
+mandarin	lzh	0018	qíshì	actually	nc	nc				
+mandarin	lzh	0018	nǚxìng	women	nc	nc			3007	
+mandarin	lzh	0018	=de	=MOD	nc	nc				
+mandarin	lzh	0018	tā	3SG	nc	nc			3006	
+mandarin	lzh	0019	#	#	##	##				
+mandarin	lzh	0019	tāmen	3PL	ln_pro.h:poss	ln_pro	h	poss	3005	
+mandarin	lzh	0019	=de	=MOD	=ln	=ln				
+mandarin	lzh	0019	zúguī	ethnic_rule	np:s	np		s	3006	
+mandarin	lzh	0019	shì	COP	cop	cop				
+mandarin	lzh	0019	#	#	#cc:p	#cc		p		
+mandarin	lzh	0019	zhù	Zhu	ln_pn_np.h:poss	ln_pn_np	h	poss	3001	
+mandarin	lzh	0019	yuánwài	landlord	ln_np	ln_np				
+mandarin	lzh	0019	=de	=MOD	=ln	=ln				
+mandarin	lzh	0019	cáichǎn	property	np:a	np		a	3008	new
+mandarin	lzh	0019	zhǐ	only	other	other				
+mandarin	lzh	0019	shì	COP	other	other				
+mandarin	lzh	0019	chuán	inherit	v:pred	v		pred		
+mandarin	lzh	0019	nán	man	np.h:p	np	h	p	3009	new
+mandarin	lzh	0019	#	#	##neg	##neg				
+mandarin	lzh	0019	ZERO	0_it	0:a	0		a	3008	
+mandarin	lzh	0019	bù	NEG	other	other				
+mandarin	lzh	0019	néng	can	other	other				
+mandarin	lzh	0019	chuán	inherit	v:pred	v		pred		
+mandarin	lzh	0019	nǚ	woman	np.h:p	np	h	p	3007	
+mandarin	lzh	0020	#	#	##neg	##neg				
+mandarin	lzh	0020	ér	but	other	other				
+mandarin	lzh	0020	tāmen	3PL	ln_pro.h:poss	ln_pro	h	poss	3004	
+mandarin	lzh	0020	zhù	Zhu	pn_np.h:dt_a	pn_np	h	dt_a	3004	
+mandarin	lzh	0020	jiā	family	ln_np	ln_np				
+mandarin	lzh	0020	dehuà	if	other	other				
+mandarin	lzh	0020	ZERO	0_they	dt_0.h:a	dt_0	h	a	3004	
+mandarin	lzh	0020	méi	NEG	lv_neg	lv_neg				
+mandarin	lzh	0020	yǒu	have	v:pred	v		pred		
+mandarin	lzh	0020	érzi	son	np.h:p	np	h	p	3010	new
+mandarin	lzh	0021	#	#	##	##				
+mandarin	lzh	0021	ZERO	0_they	0.h:a	0	h	a	3004	
+mandarin	lzh	0021	zhǐ	only	other	other				
+mandarin	lzh	0021	yǒu	have	v:pred	v		pred		
+mandarin	lzh	0021	yí	one	ln_deti	ln_deti				
+mandarin	lzh	0021	ge	CL	ln_cl	ln_cl				
+mandarin	lzh	0021	nǚháiér	daughter	np.h:p	np	h	p	3005	
+mandarin	lzh	0022	#	#	##	##				
+mandarin	lzh	0022	ránhòu	then	other	other				
+mandarin	lzh	0022	suǒyǐ	so	other	other				
+mandarin	lzh	0022	jiù	ADV	other	other				
+mandarin	lzh	0022	shì	COP	other	other				
+mandarin	lzh	0022	zhù	Zhu	pn_np.h:a	pn_np	h	a	3001	
+mandarin	lzh	0022	yuánwài	landlord	ln_np	ln_np				
+mandarin	lzh	0022	jīngcháng	often	other	other				
+mandarin	lzh	0022	bǎ	BA	adp	adp				
+mandarin	lzh	0022	nà	that	ln_dem	ln_dem				
+mandarin	lzh	0022	ge	CL	ln_cl	ln_cl				
+mandarin	lzh	0022	zhùyīngtái	Zhuyingtai	np.h:obl	np	h	obl	3005	
+mandarin	lzh	0022	cóng	from	other	other				
+mandarin	lzh	0022	xiǎo	little	other	other				
+mandarin	lzh	0022	jiùshì	ADV	other	other				
+mandarin	lzh	0022	xǐhuān	like	other	other				
+mandarin	lzh	0022	nánzhuāng	man_costume	np:p	np		p	3012	new
+mandarin	lzh	0022	dǎbàn	dress_up	v:pred	v		pred		
+mandarin	lzh	0023	#	#	##	##				
+mandarin	lzh	0023	dànshì	but	other	other				
+mandarin	lzh	0023	nà	that	ln_dem	ln_dem				
+mandarin	lzh	0023	ge	CL	ln_cl	ln_cl				
+mandarin	lzh	0023	yīngtái	Yingtai	pn_np.h:dt_s	pn_np	h	dt_s	3005	
+mandarin	lzh	0023	dehuà	if	other	other				
+mandarin	lzh	0023	tā	3SG	pro.h:s	pro	h	s	3005	
+mandarin	lzh	0023	jiù	ADV	other	other				
+mandarin	lzh	0023	shì	COP	cop	cop				
+mandarin	lzh	0023	cáimàoshuāngjué	both_talented_and_beautiful	other:pred	other		pred		
+mandarin	lzh	0024	#	#	##	##				
+mandarin	lzh	0024	érqiě	also	other	other				
+mandarin	lzh	0024	ZERO	0_she	0.h:s	0	h	s	3005	
+mandarin	lzh	0024	hái	still	other	other				
+mandarin	lzh	0024	bǐjiào	comparatively	other	other				
+mandarin	lzh	0024	hàoxué	well_studied	other:pred	other		pred		
+mandarin	lzh	0024	ma	MP	other	other				
+mandarin	lzh	0025	#	#	##	##				
+mandarin	lzh	0025	ZERO	0_she	0.h:a	0	h	a	3005	
+mandarin	lzh	0025	dào	arrive	v:pred	v		pred		
+mandarin	lzh	0025	le	ASP	rv_asp	rv_asp				
+mandarin	lzh	0025	dúshū	study	ln	ln				
+mandarin	lzh	0025	=de	=MOD	=ln	=ln				
+mandarin	lzh	0025	niánlíng	age	np:p	np		p	3051	new
+mandarin	lzh	0025	le	ASP	other	other				
+mandarin	lzh	0025	#	#	##	##				
+mandarin	lzh	0025	zhù	Zhu	pn_np.h:s	pn_np	h	s	3001	
+mandarin	lzh	0025	yuánwài	landlord	rn_np	rn_np				
+mandarin	lzh	0025	juédìng	decide	other	other				
+mandarin	lzh	0025	bǎ	BA	adp	adp				
+mandarin	lzh	0025	ta	3SG	pro.h:obl_dom	pro	h	obl_dom	3005	
+mandarin	lzh	0025	sòng	send	v:pred	v		pred		
+mandarin	lzh	0025	dào	ASP	adp	adp				
+mandarin	lzh	0025	yí	one	ln_deti	ln_deti				
+mandarin	lzh	0025	gè	CL	ln_cl	ln_cl				
+mandarin	lzh	0025	jiùshì	COP	other	other				
+mandarin	lzh	0025	(bìxiān)ān	(Bixian)_convent	np:g	np		g	3011	new
+mandarin	lzh	0025	#	#	##	##				
+mandarin	lzh	0025	ZERO	0_she	svc_0.h:s	svc_0	h	s	3005	
+mandarin	lzh	0025	dúshū	study	v:pred	v		pred		
+mandarin	lzh	0025	yīnwéi	because	other	other				
+mandarin	lzh	0026	#	#	##neg	##neg				
+mandarin	lzh	0026	yīnwéi	because	nc	nc				
+mandarin	lzh	0026	xiāngdāngyú	similar_to	nc	nc				
+mandarin	lzh	0026	nà	that	nc	nc				
+mandarin	lzh	0026	ge	CL	nc	nc				
+mandarin	lzh	0026	bìxiānān	Bixian_convent	nc	nc			3011	
+mandarin	lzh	0026	dehuà	if	nc	nc				
+mandarin	lzh	0026	xiāngdāngyú	similar_to	nc	nc				
+mandarin	lzh	0026	èn	yes	nc	nc				
+mandarin	lzh	0026	gǔdài	ancient_time	np:dt	np		dt	3041	new
+mandarin	lzh	0026	dehuà	if	other	other				
+mandarin	lzh	0026	nǚzǐ	girl	np.h:s	np	h	s	3042	new
+mandarin	lzh	0026	gēn	with	adp	adp				
+mandarin	lzh	0026	nánzǐ	boy	np.h:obl	np	h	obl	3043	new
+mandarin	lzh	0026	shì	COP	cop	cop				
+mandarin	lzh	0026	bu	NEG	other	other				
+mandarin	lzh	0026	neng	can	other	other				
+mandarin	lzh	0026	zài	be_at/ADP	other	other				
+mandarin	lzh	0026	yìqǐ	together	other	other				
+mandarin	lzh	0026	dúshū	study	v:pred	v		pred		
+mandarin	lzh	0026	=de	=MOD	=other	=other				
+mandarin	lzh	0027	#	#	##neg	##neg				
+mandarin	lzh	0027	érqiě	also	other	other				
+mandarin	lzh	0027	nǚzǐ	girl	np.h:dt	np	h	dt	3042	
+mandarin	lzh	0027	dehuà	if	other	other				
+mandarin	lzh	0027	#	#	#rc	#rc				
+mandarin	lzh	0027	tā	3SG	pro.h:a	pro	h	a	3042	
+mandarin	lzh	0027	jìnliàng	as_best_one_can_do	other	other				
+mandarin	lzh	0027	dǒng	understand	v:pred	v		pred		
+mandarin	lzh	0027	ZERO	0_it	f0:p	f0		p	3053	new
+mandarin	lzh	0027	=de	=MOD	=other	=other				
+mandarin	lzh	0027	%	%	%	%				
+mandarin	lzh	0027	dōngxi	thing	np:s	np		s	3053	
+mandarin	lzh	0027	bú	NEG	other	other				
+mandarin	lzh	0027	yào	want	other	other				
+mandarin	lzh	0027	tài	too	other	other				
+mandarin	lzh	0027	duo	much	other:pred	other		pred		
+mandarin	lzh	0028	#	#	##	##				
+mandarin	lzh	0028	ránhòu	then	other	other				
+mandarin	lzh	0028	ZERO	0_he	0.h:s	0	h	s	3001	
+mandarin	lzh	0028	jiù	ADV	other	other				
+mandarin	lzh	0028	bǎ	BA	adp	adp				
+mandarin	lzh	0028	tā	3SG	pro.h:obl_dom	pro	h	obl_dom	3005	
+mandarin	lzh	0028	fàng	put	v:pred	v		pred		
+mandarin	lzh	0028	dao	ASP	adp	adp				
+mandarin	lzh	0028	yí	one	ln_deti	ln_deti				
+mandarin	lzh	0028	ge	CL	ln_cl	ln_cl				
+mandarin	lzh	0028	#	#	#rc	#rc				
+mandarin	lzh	0028	ZERO	0_it	f0:a	f0		a	3011	
+mandarin	lzh	0028	jiào	call	v:pred	v		pred		
+mandarin	lzh	0028	bìxiānān	Bixian_convent	np:p	np		p	3054	bridging
+mandarin	lzh	0028	=de	=MOD	=other	=other				
+mandarin	lzh	0028	%	%	%	%				
+mandarin	lzh	0028	dìfang	place	np:g	np		g	3011	
+mandarin	lzh	0028	#	#	##	##				
+mandarin	lzh	0028	ZERO	0_she	svc_0.h:s	svc_0	h	s	3005	
+mandarin	lzh	0028	dúshū	study	v:pred	v		pred		
+mandarin	lzh	0029	#	#	##	##				
+mandarin	lzh	0029	ZERO	0_she	0.h:s	0	h	s	3005	
+mandarin	lzh	0029	zài	be_at/ADP	adp	adp				
+mandarin	lzh	0029	bìxiānān	Bixian_convent	np:l	np		l	3011	
+mandarin	lzh	0029	dúshū	study	v:pred	v		pred		
+mandarin	lzh	0029	shí	when	other	other				
+mandarin	lzh	0029	#	#	##	##				
+mandarin	lzh	0029	ránhòu	then	other	other				
+mandarin	lzh	0029	ZERO	0_she	0.h:a	0	h	a	3005	
+mandarin	lzh	0029	jiù	ADV	other	other				
+mandarin	lzh	0029	yùdào	meet	v:pred	v		pred		
+mandarin	lzh	0029	le	ASP	rv_asp	rv_asp				
+mandarin	lzh	0029	yí	one	ln_deti	ln_deti				
+mandarin	lzh	0029	wei	person	ln_cl	ln_cl				
+mandarin	lzh	0029	tóngxué	classmate	np.h:p	np	h	p	3013	
+mandarin	lzh	0030	#	#	##	##				
+mandarin	lzh	0030	zhè	this	ln_dem	ln_dem				
+mandarin	lzh	0030	wei	CL	ln_cl	ln_cl				
+mandarin	lzh	0030	tóngxué	classmate	np.h:a	np	h	a	3013	
+mandarin	lzh	0030	jiàozuo	call	v:pred	v		pred		
+mandarin	lzh	0030	liángshānbó	Liangshanbo	pn_np.h:p	pn_np	h	p	3055	bridging
+mandarin	lzh	0031	#	#	#nc	#nc				
+mandarin	lzh	0031	hāhā	haha	nc	nc				
+mandarin	lzh	0031	hēnghēng	haha	nc	nc				
+mandarin	lzh	0031	ZERO	0_you	nc_0.2	nc_0	2			
+mandarin	lzh	0031	jìxù	continue	nc	nc				
+mandarin	lzh	0031	jìxù	continue	nc	nc				
+mandarin	lzh	0031	go	go	nc	nc				
+mandarin	lzh	0031	#	#	#nc	#nc				
+mandarin	lzh	0031	ZERO	0_you	nc_0.2	nc_0	2			
+mandarin	lzh	0031	xiān	first	nc	nc				
+mandarin	lzh	0031	àn	push	nc	nc				
+mandarin	lzh	0031	zàn	stop	nc	nc				
+mandarin	lzh	0031	èn	yes	nc	nc				
+mandarin	lzh	0031	hǎo	good	nc	nc				
+mandarin	lzh	0031	le	ASP	nc	nc				
+mandarin	lzh	0031	#	#	##	##				
+mandarin	lzh	0031	ránhòu	then	other	other				
+mandarin	lzh	0031	tā	3SG	pro.h:a	pro	h	a	3005	
+mandarin	lzh	0031	yùjiàn	meet	v:pred	v		pred		
+mandarin	lzh	0031	le	ASP	rv_asp	rv_asp				
+mandarin	lzh	0031	yi	one	nc	nc				
+mandarin	lzh	0031	ge	CL	nc	nc				
+mandarin	lzh	0031	nánzhuāng	dressed_up_as_boy	nc	nc				
+mandarin	lzh	0031	dǎ	hit	nc	nc				
+mandarin	lzh	0031	jiùshì	ADV	other	other				
+mandarin	lzh	0031	yí	one	ln_deti	ln_deti				
+mandarin	lzh	0031	ge	CL	ln_cl	ln_cl				
+mandarin	lzh	0031	jiùshì	ADV	other	other				
+mandarin	lzh	0031	zìjǐ	REFL	ln_refl	ln_refl				
+mandarin	lzh	0031	dìyīgè	first	ln	ln				
+mandarin	lzh	0031	péngyǒu	friend	np.h:p	np	h	p	3013	
+mandarin	lzh	0031	#	#	##	##				
+mandarin	lzh	0031	ZERO	0_he	0.h:a	0	h	a	3013	
+mandarin	lzh	0031	jiào	call	v:pred	v		pred		
+mandarin	lzh	0031	liángshānbó	Liangshanbo	pn_np.h:p	pn_np	h	p	3055	
+mandarin	lzh	0032	#	#	##	##				
+mandarin	lzh	0032	liángshānbó	Liangshanbo	ln_pn_np.h:poss	ln_pn_np	h	poss	3013	
+mandarin	lzh	0032	=de	=MOD	=ln	=ln				
+mandarin	lzh	0032	jiā	home	np:l	np		l	3014	new
+mandarin	lzh	0032	lǐ	in	rn_adp	rn_adp				
+mandarin	lzh	0032	ránhòujiù	then	other	other				
+mandarin	lzh	0032	bǐqǐ	compared_with	adp	adp				
+mandarin	lzh	0032	zhùyīngtái	Zhuyingtai	pn_np.h:obl	pn_np	h	obl	3005	
+mandarin	lzh	0032	láishuō	perspective	rn_adp	rn_adp				
+mandarin	lzh	0032	dehuà	if	other	other				
+mandarin	lzh	0032	ránhòujiù	then	other	other				
+mandarin	lzh	0032	ze	oh	other	other				
+mandarin	lzh	0032	jiù	ADV	other	other				
+mandarin	lzh	0032	ZERO	0_it	0:s	0		s	3014	
+mandarin	lzh	0032	chàhěnduō	worse	other:pred	other		pred		
+mandarin	lzh	0033	#	#	##	##				
+mandarin	lzh	0033	ránhòu	then	other	other				
+mandarin	lzh	0033	zài	be_at	adp	adp				
+mandarin	lzh	0033	xuétáng	school	ln_np	ln_np			3011	
+mandarin	lzh	0033	=de	=MOD	=ln	=ln				
+mandarin	lzh	0033	dìyī	first	ln	ln				
+mandarin	lzh	0033	tiān	day	np:other	np		other	3056	bridging
+mandarin	lzh	0034	ránhòu	then	other	other				
+mandarin	lzh	0034	zhùyīngtái	Zhuyingtai	pn_np.h:s	pn_np	h	s	3005	
+mandarin	lzh	0034	bèi	PASS	adp	adp				
+mandarin	lzh	0034	liángshānbó	Liangshanbo	pn_np.h:obl	pn_np	h	obl	3013	
+mandarin	lzh	0034	zhè	this	ln_dem	ln_dem				
+mandarin	lzh	0034	ge	CL	ln_cl	ln_cl				
+mandarin	lzh	0034	xuéwènchūzhòng	have_outstanding_knowledge	ln	ln				
+mandarin	lzh	0034	rénpǐn	character	np.h:appos	np	h	appos	3044	new
+mandarin	lzh	0034	yě	also	ln	ln				
+mandarin	lzh	0034	shífēn	extremely	ln	ln				
+mandarin	lzh	0034	yōuxiù	excel	ln_adj	ln_adj				
+mandarin	lzh	0034	=de	=MOD	=ln	=ln				
+mandarin	lzh	0034	ren	person	np.h:appos	np	h	appos	3013	
+mandarin	lzh	0034	gěi	give/ADP	lv_svc	lv_svc				
+mandarin	lzh	0034	xīyǐn	attract	v:pred	v		pred		
+mandarin	lzh	0034	le	ASP	rv_asp	rv_asp				
+mandarin	lzh	0035	#	#	##	##				
+mandarin	lzh	0035	tā	3SG	pro.h:s_ds	pro	h	s_ds	3005	
+mandarin	lzh	0035	zìjǐ	REFL	refl.h:g	refl	h	g		
+mandarin	lzh	0035	jiù	ADV	other	other				
+mandarin	lzh	0035	xīn	heart	np:l	np		l		
+mandarin	lzh	0035	xiǎng	think	v:pred	v		pred		
+mandarin	lzh	0036	#	#	##ds	##ds				
+mandarin	lzh	0036	ya	MP	other	other				
+mandarin	lzh	0036	zhème	this	ln_dem	ln_dem				
+mandarin	lzh	0036	hǎo	good	ln_adj	ln_adj				
+mandarin	lzh	0036	=de	=MOD	=ln	=ln				
+mandarin	lzh	0036	ren	person	np.h:dt	np	h	dt	3013	
+mandarin	lzh	0036	ZERO	0_we	0.1:s	0	1	s	3015	
+mandarin	lzh	0036	yàoshì	if	other	other				
+mandarin	lzh	0036	néng	can	other	other				
+mandarin	lzh	0036	tiāntiān	every_day	np:other	np		other		
+mandarin	lzh	0036	zài	be_at	v:pred	v		pred		
+mandarin	lzh	0036	yìqǐ	together	rv	rv				
+mandarin	lzh	0037	#	#	##ds	##ds				
+mandarin	lzh	0037	ZERO	0_I	0.1:a	0	1	a	3005	
+mandarin	lzh	0037	yídìng	surely	other	other				
+mandarin	lzh	0037	néng	can	lv_aux	lv_aux				
+mandarin	lzh	0037	xuédào	learn	v:pred	v		pred		
+mandarin	lzh	0037	hěn	very	ln	ln				
+mandarin	lzh	0037	duō	much	ln	ln				
+mandarin	lzh	0037	dōngxi	thing	np:p	np		p	3057	new
+mandarin	lzh	0038	#	#	##ds	##ds				
+mandarin	lzh	0038	ránhòu	then	other	other				
+mandarin	lzh	0038	ZERO	0_I	0.1:s	0	1	s	3005	
+mandarin	lzh	0038	yě	also	other	other				
+mandarin	lzh	0038	yídìng	surely	other	other				
+mandarin	lzh	0038	huì	will	other	other				
+mandarin	lzh	0038	fēicháng	really	other	other				
+mandarin	lzh	0038	kāixīn	happy	other:pred	other		pred		
+mandarin	lzh	0039	#	#	##	##				
+mandarin	lzh	0039	ér	and	other	other				
+mandarin	lzh	0039	liángshānbó	Liangshanbo	pn_np.h:dt_s_ds	pn_np	h	dt_s_ds	3013	
+mandarin	lzh	0039	ne	MP	other	other				
+mandarin	lzh	0039	tā	3SG	pro.h:s_ds	pro	h	s_ds	3013	
+mandarin	lzh	0039	zìjǐ	REFL	other	other				
+mandarin	lzh	0039	yě	also	other	other				
+mandarin	lzh	0039	juéde	think	v:pred	v		pred		
+mandarin	lzh	0039	#	#	##ds	##ds				
+mandarin	lzh	0039	ZERO	0_I	0.1:s	0	1	s	3013	
+mandarin	lzh	0039	gēn	with	adp	adp				
+mandarin	lzh	0039	zhùyīngtái	Zhuyingtai	pn_np.h:obl	pn_np	h	obl	3005	
+mandarin	lzh	0039	fēicháng	really	other	other				
+mandarin	lzh	0039	tóuyuán	be_kindred_spirits	other:pred	other		pred		
+mandarin	lzh	0039	#	#	##ds	##ds				
+mandarin	lzh	0039	ZERO	0_we	0.1:s	0	1	s	3015	
+mandarin	lzh	0039	fēicháng	really	other	other				
+mandarin	lzh	0039	yǒuyuán	same_karma	other:pred	other		pred		
+mandarin	lzh	0040	#	#	##	##				
+mandarin	lzh	0040	ránhòujiù	then	other	other				
+mandarin	lzh	0040	ZERO	0_they	0.h:s	0	h	s	3015	
+mandarin	lzh	0040	zhèyang	this_way	np:other	np		other		
+mandarin	lzh	0040	yíjiànrúgù	familiarity_at_first	other:pred	other		pred		
+mandarin	lzh	0040	ránhòu	then	other	other				
+mandarin	lzh	0041	#	#	##	##				
+mandarin	lzh	0041	liǎng	two	ln_num	ln_num				
+mandarin	lzh	0041	ge	CL	ln_cl	ln_cl				
+mandarin	lzh	0041	ren	person	np.h:s	np	h	s	3015	
+mandarin	lzh	0041	jiùjīngcháng	often	other	other				
+mandarin	lzh	0041	zài	be_at	v:pred	v		pred		
+mandarin	lzh	0041	yiqi	together	rv	rv				
+mandarin	lzh	0042	#	#	##	##				
+mandarin	lzh	0042	ZERO	0_they	0.h:a	0	h	a	3015	
+mandarin	lzh	0042	dúdu	study	v:pred	v		pred		
+mandarin	lzh	0042	shī	poem	np:p	np		p	3058	new
+mandarin	lzh	0042	ya	MP	other	other				
+mandarin	lzh	0042	wén	scripture	np:appos	np		appos	3059	bridging
+mandarin	lzh	0042	ya	MP	other	other				
+mandarin	lzh	0043	#	#	##	##				
+mandarin	lzh	0043	ránhòujiù	then	other	other				
+mandarin	lzh	0043	ZERO	0_they	0.h:s	0	h	s	3015	
+mandarin	lzh	0043	tèbié	very	other	other				
+mandarin	lzh	0043	qíngtóuyìhé	share_much_in_common	other:pred	other		pred		
+mandarin	lzh	0044	#	#	##	##				
+mandarin	lzh	0044	èn	yes	other	other				
+mandarin	lzh	0044	ránhòu	then	other	other				
+mandarin	lzh	0044	tāmén	3PL	pro.h:s	pro	h	s	3015	
+mandarin	lzh	0044	jiu	ADV	other	other				
+mandarin	lzh	0044	hòulái	later	other	other				
+mandarin	lzh	0044	xiānghù	mutual	other	other				
+mandarin	lzh	0044	guānxīn	care	v:pred	v		pred		
+mandarin	lzh	0044	#	#	##	##				
+mandarin	lzh	0044	ZERO	0_they	0.h:s	0	h	s	3015	
+mandarin	lzh	0044	tǐtiē	considerate	other:pred	other		pred		
+mandarin	lzh	0044	#	#	##	##				
+mandarin	lzh	0044	ZERO	0_they	0.h:s	0	h	s	3015	
+mandarin	lzh	0044	cùxī	intimate	other:pred	other		pred		
+mandarin	lzh	0044	bìngjiān	side_by_side	other	other				
+mandarin	lzh	0045	#	#	##	##				
+mandarin	lzh	0045	dào	arrive	adp	adp				
+mandarin	lzh	0045	hòulái	later	np:other	np		other		
+mandarin	lzh	0045	liǎng	two	ln_num	ln_num				
+mandarin	lzh	0045	ge	CL	ln_cl	ln_cl				
+mandarin	lzh	0045	rén	person	np.h:a	np	h	a	3015	
+mandarin	lzh	0045	jiébàiwéi	become_sworn_brothers	v:pred	v		pred		
+mandarin	lzh	0045	xiōngdì	brothers	np.h:p	np	h	p	3015	
+mandarin	lzh	0046	#	#	##	##				
+mandarin	lzh	0046	nà	that	ln_dem	ln_dem				
+mandarin	lzh	0046	ge	CL	ln_cl	ln_cl				
+mandarin	lzh	0046	shíhòu	moment	np:other	np		other		
+mandarin	lzh	0046	tāmen	3PL	ln_pro.h:poss	ln_pro	h	poss	3015	
+mandarin	lzh	0046	=de	=MOD	=other	=other				
+mandarin	lzh	0046	guānxì	relationship	np:s	np		s	3060	bridging
+mandarin	lzh	0046	qíshí	actually	other	other				
+mandarin	lzh	0046	jiù	ADV	other	other				
+mandarin	lzh	0046	yǐjīng	already	other	other				
+mandarin	lzh	0046	fāzhǎn	develop	v:pred	v		pred		
+mandarin	lzh	0046	dào	until	rv_svc	rv_svc				
+mandarin	lzh	0046	yí	one	nc	nc				
+mandarin	lzh	0046	ge	CL	nc	nc				
+mandarin	lzh	0046	tèbié	especially	other	other				
+mandarin	lzh	0046	tèbié	especially	other	other				
+mandarin	lzh	0046	jiùshì	ADV	other	other				
+mandarin	lzh	0046	tèbié	especially	other	other				
+mandarin	lzh	0046	tèbié	especially	other	other				
+mandarin	lzh	0046	hǎo	good	other:pred	other		pred		
+mandarin	lzh	0046	#	#	##	##				
+mandarin	lzh	0046	ZERO	0_they	0.h:a	0	h	a	3015	
+mandarin	lzh	0046	jiù	ADV	other	other				
+mandarin	lzh	0046	xiāngdāngyú	similar_to	v:pred	v		pred		
+mandarin	lzh	0046	#	#	#rc	#rc				
+mandarin	lzh	0046	zánmen	1PL.INCL	pro.1:a	pro	1	a		
+mandarin	lzh	0046	xiànzài	now	other	other				
+mandarin	lzh	0046	suǒshuō	say	v:pred	v		pred		
+mandarin	lzh	0046	ZERO	0_it	f0:p	f0		p	3061	bridging
+mandarin	lzh	0046	=de	=MOD	=other	=other				
+mandarin	lzh	0046	%	%	%	%				
+mandarin	lzh	0046	guīmì	best_girlfriend	np.h:p	np	h	p	3061	
+mandarin	lzh	0047	#	#	##	##				
+mandarin	lzh	0047	ZERO	0_they	0.h:s	0	h	s	3015	
+mandarin	lzh	0047	gēn(xiàng)	with	adp	adp				
+mandarin	lzh	0047	gēn	with	adp	adp				
+mandarin	lzh	0047	jiùshì	ADV	other	other				
+mandarin	lzh	0047	nǚshēng	girl	ln_np.h	ln_np	h		3062	bridging
+mandarin	lzh	0047	zhījiān	between	rn_adp	rn_adp				
+mandarin	lzh	0047	=de	=MOD	=ln	=ln				
+mandarin	lzh	0047	guīmì	best_girlfriend	np.h:obl	np	h	obl	3061	
+mandarin	lzh	0047	nánshēng	boy	ln_np.h	ln_np	h		3063	bridging
+mandarin	lzh	0047	zhījiān	between	rn_adp	rn_adp				
+mandarin	lzh	0047	=de	=MOD	=ln	=ln				
+mandarin	lzh	0048	jīyǒu	best_boyfriend	np.h:obl	np	h	obl	3064	bridging
+mandarin	lzh	0048	duì	right	other	other				
+mandarin	lzh	0048	duìduì	right	other	other				
+mandarin	lzh	0048	hǎojīyǒu	best_boyfriend	np.h:obl	np	h	obl	3064	
+mandarin	lzh	0048	yíyàng	same_as	other:pred	other		pred		
+mandarin	lzh	0049	#	#	##	##				
+mandarin	lzh	0049	ránhòu	then	other	other				
+mandarin	lzh	0049	zhè	this	ln_dem	ln_dem				
+mandarin	lzh	0049	ge	CL	ln_cl	ln_cl				
+mandarin	lzh	0049	shíhòu	moment	np:other	np		other		
+mandarin	lzh	0049	ránhòu	then	other	other				
+mandarin	lzh	0049	jiù	ADV	other	other				
+mandarin	lzh	0049	liǎng	two	ln_num	ln_num				
+mandarin	lzh	0049	gè	CL	ln_cl	ln_cl				
+mandarin	lzh	0049	rén	person	np.h:dt_s	np	h	dt_s	3015	
+mandarin	lzh	0049	ma	MP	other	other				
+mandarin	lzh	0049	ZERO	0_they	dt_0.h:s	dt_0	h	s	3015	
+mandarin	lzh	0049	gèng	more	other	other				
+mandarin	lzh	0049	shì	COP	cop	cop				
+mandarin	lzh	0049	shíshíkèkè	every_moment	other	other				
+mandarin	lzh	0049	xíngyǐngbùlí	follow_each_other_wherever_they_go	other:pred	other		pred		
+mandarin	lzh	0050	#	#	##	##				
+mandarin	lzh	0050	zhè	this	other	other				
+mandarin	lzh	0050	chūn	spring	np:s	np		s	3016	new
+mandarin	lzh	0050	qù	go	v:pred	v		pred		
+mandarin	lzh	0050	#	#	##	##				
+mandarin	lzh	0050	qiū	autumn	np:s	np		s	3017	bridging
+mandarin	lzh	0050	lái	come	v:pred	v		pred		
+mandarin	lzh	0050	#	#	##	##				
+mandarin	lzh	0050	jiù	ADV	other	other				
+mandarin	lzh	0050	zhè	this	ln_dem	ln_dem				
+mandarin	lzh	0050	yangzi	way	np:other	np		other		
+mandarin	lzh	0050	sān	three	ln_num	ln_num				
+mandarin	lzh	0050	nián	year	np:s	np		s	3020	new
+mandarin	lzh	0050	ránhòu	then	other	other				
+mandarin	lzh	0050	guòqùle	over	v:pred	v		pred		
+mandarin	lzh	0051	#	#	##	##				
+mandarin	lzh	0051	jiù	ADV	other	other				
+mandarin	lzh	0051	xuéniánqī	school_year	np:s	np		s	3065	bridging
+mandarin	lzh	0051	mǎn	full	other:pred	other		pred		
+mandarin	lzh	0051	le	ASP	other	other				
+mandarin	lzh	0051	ma	MP	other	other				
+mandarin	lzh	0051	jiù	ADV	other	other				
+mandarin	lzh	0052	#	#	##	##				
+mandarin	lzh	0052	ZERO	0_they	0.h:s	0	h	s	3015	
+mandarin	lzh	0052	zhè	this	ln_dem	ln_dem				
+mandarin	lzh	0052	ge	CL	ln_cl	ln_cl				
+mandarin	lzh	0052	shihou	moment	np:other	np		other	3066	bridging
+mandarin	lzh	0052	jiù	ADV	other	other				
+mandarin	lzh	0052	yào	must	other	other				
+mandarin	lzh	0052	dǎ	NC	other	other				
+mandarin	lzh	0052	dǎdiǎnxíngzhuāng	dress_for_traveling	v:pred	v		pred		
+mandarin	lzh	0052	#	#	##	##				
+mandarin	lzh	0052	ZERO	0_they	0.h:a	0	h	a	3015	
+mandarin	lzh	0052	jiù	ADV	other	other				
+mandarin	lzh	0052	bàibié	say_goodbye	v:pred	v		pred		
+mandarin	lzh	0052	lǎoshī	teacher	np.h:p	np	h	p	3018	bridging
+mandarin	lzh	0052	#	#	##	##				
+mandarin	lzh	0052	ZERO	0_they	0.h:a	0	h	a	3015	
+mandarin	lzh	0052	jiù	ADV	other	other				
+mandarin	lzh	0052	fǎnhuí	return	v:pred	v		pred		
+mandarin	lzh	0052	jiāxiāng	hometown	np:p	np		p	3019	bridging
+mandarin	lzh	0052	le	ASP	other	other				
+mandarin	lzh	0053	#	#	##	##				
+mandarin	lzh	0053	nà	that	other	other				
+mandarin	lzh	0053	zhè	this	ln_dem	ln_dem				
+mandarin	lzh	0053	ge	CL	ln_cl	ln_cl				
+mandarin	lzh	0053	shíhòu	moment	np:other	np		other	3066	
+mandarin	lzh	0053	liǎng	two	ln_num	ln_num				
+mandarin	lzh	0053	gè	CL	ln_cl	ln_cl				
+mandarin	lzh	0053	rén	person	np.h:s	np	h	s	3015	
+mandarin	lzh	0053	jiù	ADV	other	other				
+mandarin	lzh	0053	yào	must	other	other				
+mandarin	lzh	0053	fēnkāi	separate	v:pred	v		pred		
+mandarin	lzh	0053	le	ASP	rv_asp	rv_asp				
+mandarin	lzh	0054	#	#	##	##				
+mandarin	lzh	0054	tāmen	3PL	pro.h:a	pro	h	a	3015	
+mandarin	lzh	0054	liǎng	two	ln_num	ln_num				
+mandarin	lzh	0054	gè	CL	ln_cl	ln_cl				
+mandarin	lzh	0054	rén	person	np.h:appos	np	h	appos	3015	
+mandarin	lzh	0054	kěndìng	surely	other	other				
+mandarin	lzh	0054	zhè	this	ln_dem	ln_dem				
+mandarin	lzh	0054	sān	three	ln_num	ln_num				
+mandarin	lzh	0054	nián	year	np:other	np		other	3020	
+mandarin	lzh	0054	zhōng	in	rn_adp	rn_adp				
+mandarin	lzh	0054	chǎnshēng	produce	v:pred	v		pred		
+mandarin	lzh	0054	le	ASP	rv_asp	rv_asp				
+mandarin	lzh	0054	tèbié	especially	ln_adj	ln_adj				
+mandarin	lzh	0054	shēnhòu	deep	ln_adj	ln_adj				
+mandarin	lzh	0054	=de	=MOD	=ln	=ln				
+mandarin	lzh	0054	gǎnqíng	feeling	np:p	np		p	3067	bridging
+mandarin	lzh	0054	#	#	##	##				
+mandarin	lzh	0054	ZERO	0_they	0.h:s	0	h	s	3015	
+mandarin	lzh	0054	jiù	ADV	other	other				
+mandarin	lzh	0054	yīyībùshě	broken_hearted_at_having_to_leave	other:pred	other		pred		
+mandarin	lzh	0055	#	#	#nc	#nc				
+mandarin	lzh	0055	tóngchuāng	schoolmate	nc	nc			3015	
+mandarin	lzh	0055	gòng	together	nc	nc				
+mandarin	lzh	0055	zhú	candle	nc	nc				
+mandarin	lzh	0055	zhěng	whole	nc	nc				
+mandarin	lzh	0055	sān	three	nc	nc				
+mandarin	lzh	0055	zǎi	year	nc	nc			3020	
+mandarin	lzh	0056	#	#	##	##				
+mandarin	lzh	0056	zhùyīngtái	Zhuyingtai	pn_np.h:a	pn_np	h	a	3005	
+mandarin	lzh	0056	yǐjīng	already	other	other				
+mandarin	lzh	0056	shēnshēnde	deeply	lv	lv				
+mandarin	lzh	0056	àishàng	fall_in_love	v:pred	v		pred		
+mandarin	lzh	0056	le	ASP	rv_asp	rv_asp				
+mandarin	lzh	0056	tā	3SG	ln_pro.h:poss	ln_pro	h	poss	3005	
+mandarin	lzh	0056	=de	=MOD	=ln	=ln				
+mandarin	lzh	0056	liáng	Liang	pn_np.h:p	pn_np	h	p	3013	
+mandarin	lzh	0056	xiōng	brother	rn	rn				
+mandarin	lzh	0057	#	#	##neg	##neg				
+mandarin	lzh	0057	èn	yes	other	other				
+mandarin	lzh	0057	ránhòu	then	other	other				
+mandarin	lzh	0057	ér	and	other	other				
+mandarin	lzh	0057	liángshānbó	Liangshanbo	pn_np.h:dt_a	pn_np	h	dt_a	3013	
+mandarin	lzh	0057	ne	MP	other	other				
+mandarin	lzh	0057	tā	3SG	pro.h:a	pro	h	a	3013	
+mandarin	lzh	0057	suīrán	although	other	other				
+mandarin	lzh	0057	bù	NEG	other	other				
+mandarin	lzh	0057	zhīdào	know	v:pred	v		pred		
+mandarin	lzh	0057	#	#	#cc:p	#cc		p		
+mandarin	lzh	0057	zhùyīngtái	Zhuyingtai	pn_np.h:s	pn_np	h	s	3005	
+mandarin	lzh	0057	shì	COP	cop	cop				
+mandarin	lzh	0057	gè	CL	ln_cl	ln_cl				
+mandarin	lzh	0057	nǚshēng	girl	np.h:pred	np	h	pred		
+mandarin	lzh	0057	#	#	##	##				
+mandarin	lzh	0057	dàn	but	other	other				
+mandarin	lzh	0057	ZERO	0_he	0.h:s	0	h	s	3013	
+mandarin	lzh	0057	yě	also	other	other				
+mandarin	lzh	0057	duì	towards	adp	adp				
+mandarin	lzh	0057	tā	3SG	pro.h:obl	pro	h	obl	3005	
+mandarin	lzh	0057	shífēn	extremely	other	other				
+mandarin	lzh	0057	qīngmù	admire	other:pred	other		pred		
+mandarin	lzh	0058	#	#	##	##				
+mandarin	lzh	0058	tā	3SG	pro.h:s	pro	h	s	3015	
+mandarin	lzh	0058	liǎ	two	rn_num	rn_num				
+mandarin	lzh	0058	jiù	ADV	other	other				
+mandarin	lzh	0058	tiāntiān	every_day	np:other	np		other		
+mandarin	lzh	0058	jiù	ADV	other	other				
+mandarin	lzh	0058	shì	COP	cop	cop				
+mandarin	lzh	0058	nà	that	ln_dem	ln_dem				
+mandarin	lzh	0058	zhǒng	kind	ln_adj	ln_adj				
+mandarin	lzh	0058	liànliàn	love	np:pred	np		pred		
+mandarin	lzh	0058	#	#	##	##				
+mandarin	lzh	0058	tāmen	3PL	pro.h:s	pro	h	s	3015	
+mandarin	lzh	0058	jiù	ADV	other	other				
+mandarin	lzh	0058	tiāntiān	every_day	np:other	np		other		
+mandarin	lzh	0058	jiù	ADV	other	other				
+mandarin	lzh	0058	shì	COP	cop	cop				
+mandarin	lzh	0058	zhāosīmùxiǎng	yearn_day_and_night	other:pred	other		pred		
+mandarin	lzh	0058	ma	MP	other	other				
+mandarin	lzh	0059	#	#	##	##				
+mandarin	lzh	0059	ránhòu	then	other	other				
+mandarin	lzh	0059	ZERO	0_they	0.h:a	0	h	a	3015	
+mandarin	lzh	0059	huí	return	v:pred	v		pred		
+mandarin	lzh	0059	dào	arrive	rv_svc	rv_svc				
+mandarin	lzh	0059	jiā	home	np:p	np		p	3019	
+mandarin	lzh	0059	le	ASP	other	other				
+mandarin	lzh	0059	jǐ	some	ln	ln				
+mandarin	lzh	0059	gè	CL	ln_cl	ln_cl				
+mandarin	lzh	0059	yuè	month	np:other	np		other	3068	new
+mandarin	lzh	0059	zhīhòu	after	other	other				
+mandarin	lzh	0059	rán	NC	nc	nc				
+mandarin	lzh	0060	#	#	##	##				
+mandarin	lzh	0060	ránhòu	then	other	other				
+mandarin	lzh	0060	liángshānbó	Liangshanbo	pn_np.h:s_ds	pn_np	h	s_ds	3013	
+mandarin	lzh	0060	juédìng	decide	v:pred	v		pred		
+mandarin	lzh	0060	#	#	##ds	##ds				
+mandarin	lzh	0060	ránhòu	then	other	other				
+mandarin	lzh	0060	jiù	ADV	other	other				
+mandarin	lzh	0060	ZERO	0_he	0.h:a	0	h	a	3013	
+mandarin	lzh	0060	ànnài	control	v:pred	v		pred		
+mandarin	lzh	0060	(nà	NC	nc	nc				
+mandarin	lzh	0060	nà)	NC	nc	nc				
+mandarin	lzh	0060	búzhù	cannot	rv	rv				
+mandarin	lzh	0060	zìjǐ	REFL	ln_refl:poss	ln_refl		poss	3013	
+mandarin	lzh	0060	xīn	heart	np:l	np		l	3021	new
+mandarin	lzh	0060	zhōng	in	rn_adp	rn_adp				
+mandarin	lzh	0060	=de	=MOD	=ln	=ln				
+mandarin	lzh	0060	nà	that	ln_dem	ln_dem				
+mandarin	lzh	0060	fèner	CL	ln_cl	ln_cl				
+mandarin	lzh	0060	xiǎngniàn	missing	np:p	np		p	3046	new
+mandarin	lzh	0060	le	ASP	other	other				
+mandarin	lzh	0061	#	#	##	##				
+mandarin	lzh	0061	tā	3SG	pro.h:a	pro	h	a	3013	
+mandarin	lzh	0061	jiù	ADV	other	other				
+mandarin	lzh	0061	yào	must	other	other				
+mandarin	lzh	0061	qù	go	v:pred	v		pred		
+mandarin	lzh	0061	zhùyīngtái	Zhuyingtai	ln_pn_np.h:poss	ln_pn_np	h	poss	3005	
+mandarin	lzh	0061	tāmen	3PL	ln_pro.h:poss	ln_pro	h	poss	3004	
+mandarin	lzh	0061	jiā	home	np:p	np		p	3069	bridging
+mandarin	lzh	0061	#	#	##	##				
+mandarin	lzh	0061	ZERO	0_he	svc_0.h:s	svc_0	h	s	3013	
+mandarin	lzh	0061	bàifǎng	visit	v:pred	v		pred		
+mandarin	lzh	0062	#	#	##	##				
+mandarin	lzh	0062	jiéguǒ	result	np:other	np		other	3070	bridging
+mandarin	lzh	0062	zhè	this	ln_dem	ln_dem				
+mandarin	lzh	0062	ge	CL	ln_cl	ln_cl				
+mandarin	lzh	0062	bàifǎng	visit	np:s	np		s	3047	bridging
+mandarin	lzh	0062	ràng	make	adp	adp				
+mandarin	lzh	0062	tā	3SG	pro.h:obl	pro	h	obl	3013	
+mandarin	lzh	0062	yòulìng	NC	nc	nc				
+mandarin	lzh	0062	(yòu)	NC	nc	nc				
+mandarin	lzh	0062	jiùshìyòu	NC	nc	nc				
+mandarin	lzh	0062	lìng	make	adp	adp				
+mandarin	lzh	0062	tā	3SG	pro.h:obl	pro	h	obl	3013	
+mandarin	lzh	0062	yòu	also	other	other				
+mandarin	lzh	0062	jīng	surprised	other:pred	other		pred		
+mandarin	lzh	0062	yòu	also	other	other				
+mandarin	lzh	0062	xǐ	happy	other	other				
+mandarin	lzh	0063	#	#	##	##				
+mandarin	lzh	0063	yuánlái	originally	other	other				
+mandarin	lzh	0063	zhè	this	ln_dem	ln_dem				
+mandarin	lzh	0063	ge	CL	ln_cl	ln_cl				
+mandarin	lzh	0063	qīngxiù	amiable	ln_adj	ln_adj				
+mandarin	lzh	0063	=de	=MOD	=ln	=ln				
+mandarin	lzh	0063	xiǎo	little	ln_adj	ln_adj				
+mandarin	lzh	0063	shūshēng	scholar	np.h:s	np	h	s	3005	
+mandarin	lzh	0063	qíshí	actually	other	other				
+mandarin	lzh	0063	shì	COP	cop	cop				
+mandarin	lzh	0063	yí	one	ln_deti	ln_deti				
+mandarin	lzh	0063	gè	CL	ln_cl	ln_cl				
+mandarin	lzh	0063	niánqīng	young	ln_adj	ln_adj				
+mandarin	lzh	0063	màoměi	beautiful	ln_adj	ln_adj				
+mandarin	lzh	0063	=de	=MOD	=ln	=ln				
+mandarin	lzh	0063	dàgūniang	woman	np.h:pred	np	h	pred		
+mandarin	lzh	0064	#	#	##	##				
+mandarin	lzh	0064	hēhēhē	haha	other	other				
+mandarin	lzh	0064	ya	MP	other	other				
+mandarin	lzh	0064	ZERO	0_he	0.h:a	0	h	a	3013	
+mandarin	lzh	0064	kànjiàn	see	v:pred	v		pred		
+mandarin	lzh	0064	ZERO	0_her	0.h:p	0	h	p	3005	
+mandarin	lzh	0064	zhè	this	ln_dem	ln_dem				
+mandarin	lzh	0064	ge	CL	ln_cl	ln_cl				
+mandarin	lzh	0064	shíhòu	moment	np:other	np		other	3071	bridging
+mandarin	lzh	0064	ya	MP	other	other				
+mandarin	lzh	0064	#	#	##	##				
+mandarin	lzh	0064	nǐ	2SG	pro.2:s	pro	2	s		
+mandarin	lzh	0064	xiǎng	think	v:pred	v		pred		
+mandarin	lzh	0064	yí	one	ln_deti	ln_deti				
+mandarin	lzh	0064	xià	moment	np:other	np		other		
+mandarin	lzh	0064	ze	MP	other	other				
+mandarin	lzh	0065	#	#	##	##				
+mandarin	lzh	0065	liángshānbó	Liangshanbo	pn_np.h:dt_s	pn_np	h	dt_s	3013	
+mandarin	lzh	0065	nà	that	ln_dem	ln_dem				
+mandarin	lzh	0065	ge	CL	ln_cl	ln_cl				
+mandarin	lzh	0065	xīn	heart	np:l	np		l	3021	
+mandarin	lzh	0065	lǐ	in	rn_adp	rn_adp				
+mandarin	lzh	0065	tā	3SG	pro.h:s	pro	h	s	3013	
+mandarin	lzh	0065	kěndìng	surely	other	other				
+mandarin	lzh	0065	jiù	ADV	other	other				
+mandarin	lzh	0065	lè	happy	other:pred	other		pred		
+mandarin	lzh	0065	kāihuā	bloom	other	other				
+mandarin	lzh	0065	le	ASP	other	other				
+mandarin	lzh	0066	#	#	##	##				
+mandarin	lzh	0066	tā	3SG	pro.h:s	pro	h	s	3013	
+mandarin	lzh	0066	xiǎng	think	v:pred	v		pred		
+mandarin	lzh	0066	#	#	##	##				
+mandarin	lzh	0066	āiya	oh	other	other				
+mandarin	lzh	0066	tā	3SG	pro.h:a	pro	h	a	3013	
+mandarin	lzh	0066	zìjǐ	REFL	refl:other	refl		other	3013	
+mandarin	lzh	0066	yìzhí	always	other	other				
+mandarin	lzh	0066	fēicháng	really	other	other				
+mandarin	lzh	0066	xǐhuān	like	v:pred	v		pred		
+mandarin	lzh	0066	zhè	this	ln_dem	ln_dem				
+mandarin	lzh	0066	ge	CL	ln_cl	ln_cl				
+mandarin	lzh	0066	xiǎo	little	ln_adj	ln_adj				
+mandarin	lzh	0066	xiōngdì	brother	np.h:p	np	h	p	3005	
+mandarin	lzh	0067	#	#	##	##				
+mandarin	lzh	0067	ér	and	other	other				
+mandarin	lzh	0067	qiàqià	exactly	other	other				
+mandarin	lzh	0067	tā	3SG	pro.h:a	pro	h	a	3013	
+mandarin	lzh	0067	yòu	again	other	other				
+mandarin	lzh	0067	dézhī	discover	v:pred	v		pred		
+mandarin	lzh	0067	#	#	#cc:p	#cc		p		
+mandarin	lzh	0067	zhè	this	ln_dem	ln_dem				
+mandarin	lzh	0067	ge	CL	ln_cl	ln_cl				
+mandarin	lzh	0067	xiǎo	little	ln_adj	ln_adj				
+mandarin	lzh	0067	xiōngdì	brother	np.h:s	np	h	s	3005	
+mandarin	lzh	0067	ránhòu	then	other	other				
+mandarin	lzh	0067	shì	COP	cop	cop				
+mandarin	lzh	0067	tā	3SG	nc	nc			3005	
+mandarin	lzh	0067	shì	COP	nc	nc				
+mandarin	lzh	0067	yí	one	ln_deti	ln_deti				
+mandarin	lzh	0067	gè	CL	ln_cl	ln_cl				
+mandarin	lzh	0067	nǚháier	girl	np.h:pred	np	h	pred		
+mandarin	lzh	0068	#	#	##	##				
+mandarin	lzh	0068	èn	yes	other	other				
+mandarin	lzh	0068	nà	that	other	other				
+mandarin	lzh	0068	tā	3SG	nc	nc			3013	
+mandarin	lzh	0068	kěndìng	surely	other	other				
+mandarin	lzh	0068	jiù	ADV	other	other				
+mandarin	lzh	0068	àn	according_to	adp	adp				
+mandarin	lzh	0068	zánmen	1PL.INCL	ln_pro.1:poss	ln_pro	1	poss		
+mandarin	lzh	0068	zhè	this	ln_dem	ln_dem				
+mandarin	lzh	0068	zhǒng	kind_of	ln	ln				
+mandarin	lzh	0068	xiǎngfǎ	thinking	np:other	np		other		
+mandarin	lzh	0068	lái	come	rn_adp	rn_adp				
+mandarin	lzh	0068	shuō	say	rn_adp	rn_adp				
+mandarin	lzh	0068	liǎng	two	ln_num	ln_num				
+mandarin	lzh	0068	gè	CL	ln_cl	ln_cl				
+mandarin	lzh	0068	rén	person	np.h:s	np	h	s	3015	
+mandarin	lzh	0068	kěndìng	surely	other	other				
+mandarin	lzh	0068	zìránérrán	naturally	other	other				
+mandarin	lzh	0068	jiù	ADV	other	other				
+mandarin	lzh	0068	yào	must	other	other				
+mandarin	lzh	0068	tánliànài	court	v:pred	v		pred		
+mandarin	lzh	0068	la	ASP	rv_asp	rv_asp				
+mandarin	lzh	0069	#	#	##	##				
+mandarin	lzh	0069	ZERO	0_they	0.h:s	0	h	s	3015	
+mandarin	lzh	0069	kěndìng	surely	other	other				
+mandarin	lzh	0069	jiù	ADV	other	other				
+mandarin	lzh	0069	yào	must	other	other				
+mandarin	lzh	0069	zài	be_at	v:pred	v		pred		
+mandarin	lzh	0069	yìqǐ	together	rv	rv				
+mandarin	lzh	0069	la	ASP	rv_asp	rv_asp				
+mandarin	lzh	0069	èn	yes	other	other				
+mandarin	lzh	0070	#	#	##	##				
+mandarin	lzh	0070	ránhòu	then	other	other				
+mandarin	lzh	0070	tāmen	3PL	pro.h:s	pro	h	s	3015	
+mandarin	lzh	0070	jiù	ADV	other	other				
+mandarin	lzh	0070	zhèyang	this_way	other	other				
+mandarin	lzh	0070	xīnxīnxiāngyìn	two_hearts_beat_as_one	other:pred	other		pred		
+mandarin	lzh	0070	le	ASP	other	other				
+mandarin	lzh	0071	#	#	##	##				
+mandarin	lzh	0071	ránhòu	then	other	other				
+mandarin	lzh	0071	liángshānbó	Liangshanbo	pn_np.h:s	pn_np	h	s	3013	
+mandarin	lzh	0071	jiù	ADV	other	other				
+mandarin	lzh	0071	juédìng	decide	v:pred	v		pred		
+mandarin	lzh	0071	le	ASP	rv_asp	rv_asp				
+mandarin	lzh	0072	#	#	##	##				
+mandarin	lzh	0072	tā	3SG	pro.h:a	pro	h	a	3013	
+mandarin	lzh	0072	jiù	ADV	other	other				
+mandarin	lzh	0072	yào	must	other	other				
+mandarin	lzh	0072	qǐng	ask	v:pred	v		pred		
+mandarin	lzh	0072	rén	person	np.h:p	np	h	p	3022	new
+mandarin	lzh	0072	#	#	##	##				
+mandarin	lzh	0072	ZERO	0_person	0.h:a	0	h	a	3022	
+mandarin	lzh	0072	qù	go	v:pred	v		pred		
+mandarin	lzh	0072	zhù	Zhu	ln_pn_np.h:poss	ln_pn_np	h	poss	3004	
+mandarin	lzh	0072	jiā	home	np:p	np		p	3069	
+mandarin	lzh	0072	#	#	##	##				
+mandarin	lzh	0072	ZERO	0_person	0.h:s	0	h	s	3022	
+mandarin	lzh	0072	qù	go	v:pred	v		pred		
+mandarin	lzh	0072	#	#	##	##				
+mandarin	lzh	0072	ZERO	0_person	svc_0.h:a	svc_0	h	a	3022	
+mandarin	lzh	0072	qiú	ask	v:pred	v		pred		
+mandarin	lzh	0072	qīn	relative	np.h:p	np	h	p	3048	new
+mandarin	lzh	0072	#	#	##	##				
+mandarin	lzh	0072	ZERO	0_person	svc_0.h:s	svc_0	h	s	3022	
+mandarin	lzh	0072	qù	ask	v:pred	v		pred		
+mandarin	lzh	0073	#	#	##	##				
+mandarin	lzh	0073	ér	and	other	other				
+mandarin	lzh	0073	nà	that	ln_dem	ln_dem				
+mandarin	lzh	0073	ge	CL	ln_cl	ln_cl				
+mandarin	lzh	0073	zhù	Zhu	pn_np.h:a	pn_np	h	a	3001	
+mandarin	lzh	0073	yuánwài	landlord	rn	rn				
+mandarin	lzh	0073	zěnme	how	other	other				
+mandarin	lzh	0073	néng	can	other	other				
+mandarin	lzh	0073	kànshang	fall_in_love	v:pred	v		pred		
+mandarin	lzh	0073	ZERO	0_him	0.h:p	0	h	p	3013	
+mandarin	lzh	0074	#	#	##	##				
+mandarin	lzh	0074	zhù	Zhu	ln_pn_np.h:poss	ln_pn_np	h	poss	3004	
+mandarin	lzh	0074	jiā	home	np:dt_s	np		dt_s	3069	
+mandarin	lzh	0074	ya	MP	other	other				
+mandarin	lzh	0074	jiā	home	np:s	np		s	3069	
+mandarin	lzh	0074	dà	big	other:pred	other		pred		
+mandarin	lzh	0074	#	#	##	##				
+mandarin	lzh	0074	yè	business	np:s	np		s	3072	bridging
+mandarin	lzh	0074	dà	big	other:pred	other		pred		
+mandarin	lzh	0074	#	#	##	##				
+mandarin	lzh	0074	tā	3SG	pro.h:a	pro	h	a	3001	
+mandarin	lzh	0074	zěnme	how	other	other				
+mandarin	lzh	0074	néng	can	other	other				
+mandarin	lzh	0074	kànshang	fall_in_love	v:pred	v		pred		
+mandarin	lzh	0074	yí	one	ln_deti	ln_deti				
+mandarin	lzh	0074	gè	CL	ln_cl	ln_cl				
+mandarin	lzh	0074	qióng	poor	ln_adj	ln_adj				
+mandarin	lzh	0074	shūshēng	scholar	np.h:p	np	h	p	3013	
+mandarin	lzh	0074	ne	MP	other	other				
+mandarin	lzh	0074	jiùshì	ADV	other	other				
+mandarin	lzh	0075	#	#	##	##				
+mandarin	lzh	0075	nà	that	ln_dem	ln_dem				
+mandarin	lzh	0075	ge	CL	ln_cl	ln_cl				
+mandarin	lzh	0075	(jiùshì)	NC	nc	nc				
+mandarin	lzh	0075	liángshānbó	Liangshanbo	pn_np.h:s	pn_np	h	s	3013	
+mandarin	lzh	0075	jiā	home	np:l	np		l	3014	
+mandarin	lzh	0075	lǐ	in	rn_adp	rn_adp				
+mandarin	lzh	0075	jiù	ADV	other	other				
+mandarin	lzh	0075	fēicháng	really	other	other				
+mandarin	lzh	0075	pínqióng	poor	other:pred	other		pred		
+mandarin	lzh	0075	ma	MP	other	other				
+mandarin	lzh	0076	#	#	##	##				
+mandarin	lzh	0076	tā	3SG	pro.h:a	pro	h	a	3001	
+mandarin	lzh	0076	zěnme	how	other	other				
+mandarin	lzh	0076	néng	can	other	other				
+mandarin	lzh	0076	kànshang	fall_in_love	v:pred	v		pred		
+mandarin	lzh	0076	yí	one	ln_deti	ln_deti				
+mandarin	lzh	0076	gè	CL	ln_cl	ln_cl				
+mandarin	lzh	0076	qióng	poor	ln_adj	ln_adj				
+mandarin	lzh	0076	tè	NC	ln	ln				
+mandarin	lzh	0076	tèbié	especially	ln	ln				
+mandarin	lzh	0076	pínqióng	poor	ln_adj	ln_adj				
+mandarin	lzh	0076	=de	=MOD	=ln	=ln				
+mandarin	lzh	0076	shūshēng	scholar	np.h:p	np	h	p	3013	
+mandarin	lzh	0076	ne	MP	other	other				
+mandarin	lzh	0077	#	#	##	##				
+mandarin	lzh	0077	érqiě	also	other	other				
+mandarin	lzh	0077	tā	3SG	pro.h:s	pro	h	s	3001	
+mandarin	lzh	0077	jiù	ADV	other	other				
+mandarin	lzh	0077	yǐjīng	already	other	other				
+mandarin	lzh	0077	juédìng	decide	v:pred	v		pred		
+mandarin	lzh	0077	le	ASP	other	other				
+mandarin	lzh	0078	#	#	##	##				
+mandarin	lzh	0078	tā	3SG	pro.h:s	pro	h	s	3001	
+mandarin	lzh	0078	yào	want	other	other				
+mandarin	lzh	0078	bǎ	BA	adp	adp				
+mandarin	lzh	0078	zìjǐ	REFL	ln_refl:poss	ln_refl		poss	3001	
+mandarin	lzh	0078	=de	=MOD	=ln	=ln				
+mandarin	lzh	0078	nǚér	daughter	np.h:obl_dom	np	h	obl_dom	3005	
+mandarin	lzh	0078	xǔpèi	betroth	v:pred	v		pred		
+mandarin	lzh	0078	gěi	give/ADP	adp	adp				
+mandarin	lzh	0078	yí	one	ln_deti	ln_deti				
+mandarin	lzh	0078	gè	CL	ln_cl	ln_cl				
+mandarin	lzh	0078	fùjiāgōngzǐ	son_of_wealthy_family	np.h:g	np	h	g	3023	new
+mandarin	lzh	0079	#	#	##	##				
+mandarin	lzh	0079	zhè	this	ln_dem	ln_dem				
+mandarin	lzh	0079	ge	CL	ln_cl	ln_cl				
+mandarin	lzh	0079	rén	person	np.h:s	np	h	s	3023	
+mandarin	lzh	0079	jiù	ADV	other	other				
+mandarin	lzh	0079	shì	COP	cop	cop				
+mandarin	lzh	0079	mǎwéncái	Mawencai	pn_np.h:pred	pn_np	h	pred	3023	
+mandarin	lzh	0080	#	#	##	##				
+mandarin	lzh	0080	mǎwéncái	Mawencai	pn_np.h:s	pn_np	h	s	3023	
+mandarin	lzh	0080	qíshí	actually	other	other				
+mandarin	lzh	0080	nà	that	ln_dem	ln_dem				
+mandarin	lzh	0080	ge	CL	ln_cl	ln_cl				
+mandarin	lzh	0080	shíhòu	moment	np:other	np		other	3073	new
+mandarin	lzh	0080	yě	also	other	other				
+mandarin	lzh	0080	yě	also	other	other				
+mandarin	lzh	0080	shì	COP	other	other				
+mandarin	lzh	0080	gēn	with	adp	adp				
+mandarin	lzh	0080	tāmen	3PL	pro.h:obl	pro	h	obl	3015	
+mandarin	lzh	0080	liǎng	two	rn_num	rn_num				
+mandarin	lzh	0080	gè	CL	rn_cl	rn_cl				
+mandarin	lzh	0080	yíkuàier	together	other	other				
+mandarin	lzh	0080	shàng	attend	nc	nc				
+mandarin	lzh	0080	shàng	attend	nc	nc				
+mandarin	lzh	0080	jiùshì	ADV	other	other				
+mandarin	lzh	0080	gēn	with	adp	adp				
+mandarin	lzh	0080	zhùyīngtái	Zhuyingtai	pn_np.h:obl	pn_np	h	obl	3005	
+mandarin	lzh	0080	liángshānbó	Liangshanbo	pn_np.h:obl	pn_np	h	obl	3013	
+mandarin	lzh	0080	shì	COP	other	other				
+mandarin	lzh	0080	zài	be_at	adp	adp				
+mandarin	lzh	0080	yí	one	ln_deti	ln_deti				
+mandarin	lzh	0080	gè	CL	ln_cl	ln_cl				
+mandarin	lzh	0080	dìfāng	place	np:l	np		l	3011	
+mandarin	lzh	0080	shàng	attend	v:pred	v		pred		
+mandarin	lzh	0080	xué	school	rv	rv				
+mandarin	lzh	0080	=de	=MOD	=rv	=rv				
+mandarin	lzh	0081	#	#	##	##				
+mandarin	lzh	0081	(zhèliǎng)	NC	nc	nc				
+mandarin	lzh	0081	tāmen	3PL	pro.h:s	pro	h	s	3024	new
+mandarin	lzh	0081	sān	three	rn_num	rn_num				
+mandarin	lzh	0081	gè	CL	rn_cl	rn_cl				
+mandarin	lzh	0081	shì	COP	other	other				
+mandarin	lzh	0081	yíkuàier	together	other	other				
+mandarin	lzh	0081	yíkuàier	together	other	other				
+mandarin	lzh	0081	shàng	attend	v:pred	v		pred		
+mandarin	lzh	0081	xué	school	rv	rv				
+mandarin	lzh	0081	=de	=MOD	=rv	=rv				
+mandarin	lzh	0082	#	#	##	##				
+mandarin	lzh	0082	ér	and	other	other				
+mandarin	lzh	0082	mǎwéncái	Mawencai	pn_np.h:s	pn_np	h	s	3023	
+mandarin	lzh	0082	shì	COP	other	other				
+mandarin	lzh	0082	(èn)	NC	nc	nc				
+mandarin	lzh	0082	shàng	attend	v:pred	v		pred		
+mandarin	lzh	0082	xué	school	rv	rv				
+mandarin	lzh	0082	nà	that	ln_dem	ln_dem				
+mandarin	lzh	0082	ge	CL	ln_cl	ln_cl				
+mandarin	lzh	0082	shíhòu	moment	np:other	np		other	3073	
+mandarin	lzh	0082	#	#	##	##				
+mandarin	lzh	0082	ZERO	0_he	0.h:a	0	h	a	3023	
+mandarin	lzh	0082	qíshí	actually	other	other				
+mandarin	lzh	0082	yǐjīng	already	other	other				
+mandarin	lzh	0082	zhīdào	know	v:pred	v		pred		
+mandarin	lzh	0082	#	#	#cc:p	#cc		p		
+mandarin	lzh	0082	zhùyīngtái	Zhuyingtai	pn_np.h:s	pn_np	h	s	3005	
+mandarin	lzh	0082	shì	COP	cop	cop				
+mandarin	lzh	0082	ge	CL	ln_cl	ln_cl				
+mandarin	lzh	0082	nǚháier	girl	np.h:pred	np	h	pred		
+mandarin	lzh	0083	#	#	##	##				
+mandarin	lzh	0083	jiùshì	v	other	other				
+mandarin	lzh	0083	tā	3SG	pro.h:s	pro	h	s	3023	
+mandarin	lzh	0083	tā	3SG	nc	nc			3023	
+mandarin	lzh	0083	nà	that	ln_dem	ln_dem				
+mandarin	lzh	0083	ge	CL	ln_cl	ln_cl				
+mandarin	lzh	0083	shíhòu	moment	np:other	np		other	3073	
+mandarin	lzh	0083	shì	COP	cop	cop				
+mandarin	lzh	0083	bǐjiào	comparatively	other	other				
+mandarin	lzh	0083	cōngmíng	smart	other:pred	other		pred		
+mandarin	lzh	0083	=de	=MOD	=other	=other				
+mandarin	lzh	0084	#	#	##	##				
+mandarin	lzh	0084	ZERO	0_he	0.h:a	0	h	a	3023	
+mandarin	lzh	0084	yǐjīng	already	other	other				
+mandarin	lzh	0084	néng(gòu)	can	other	other				
+mandarin	lzh	0084	fājué	discover	v:pred	v		pred		
+mandarin	lzh	0084	#	#	#cc:p	#cc		p		
+mandarin	lzh	0084	zhùyīngtái	Zhuyingtai	pn_np.h:s	pn_np	h	s	3005	
+mandarin	lzh	0084	shì	COP	cop	cop				
+mandarin	lzh	0084	yí	one	ln_deti	ln_deti				
+mandarin	lzh	0084	gè	CL	ln_cl	ln_cl				
+mandarin	lzh	0084	nǚháiér	girl	np.h:pred	np	h	pred		
+mandarin	lzh	0085	#	#	##	##				
+mandarin	lzh	0085	ránhòu	then	other	other				
+mandarin	lzh	0085	jiùshì	ADV	other	other				
+mandarin	lzh	0085	tā	3SG	pro.h:a	pro	h	a	3001	
+mandarin	lzh	0085	yǐjīng	already	other	other				
+mandarin	lzh	0085	juédìng	decide	v:pred	v		pred		
+mandarin	lzh	0085	#	#	#cc:p	#cc		p		
+mandarin	lzh	0085	ZERO	0_he	0.h:s	0	h	s	3001	
+mandarin	lzh	0085	bǎ	BA	adp	adp				
+mandarin	lzh	0085	zìjǐ	REFL	ln_refl:poss	ln_refl		poss	3001	
+mandarin	lzh	0085	=de	=MOD	=ln	=ln				
+mandarin	lzh	0085	jiùshì	ADV	other	other				
+mandarin	lzh	0085	nǚér	daughter	np.h:obl_dom	np	h	obl_dom	3005	
+mandarin	lzh	0085	xǔ	NC	nc	nc				
+mandarin	lzh	0085	xǔpèi	betroth	v:pred	v		pred		
+mandarin	lzh	0085	gěi	give/ADP	adp	adp				
+mandarin	lzh	0085	mǎwéncái	Mawencai	pn_np.h:g	pn_np	h	g	3023	
+mandarin	lzh	0086	#	#	##	##				
+mandarin	lzh	0086	nà	that	other	other				
+mandarin	lzh	0086	zhè	this	ln_dem	ln_dem				
+mandarin	lzh	0086	(ge)	NC	ln_cl	ln_cl				
+mandarin	lzh	0086	shíhòu	moment	np:other	np		other	3074	new
+mandarin	lzh	0086	liángshānbó	Liangshanbo	pn_np.h:a	pn_np	h	a	3013	
+mandarin	lzh	0086	kěndìng	surely	other	other				
+mandarin	lzh	0086	dùnshí	immediately	np:other	np		other		
+mandarin	lzh	0086	jiù	ADV	other	other				
+mandarin	lzh	0086	juéde	feel	v:pred	v		pred		
+mandarin	lzh	0086	wànniànjùmième	tenthousand_feelings_all_over	other:p	other		p		
+mandarin	lzh	0087	#	#	##	##				
+mandarin	lzh	0087	ránhòu	then	other	other				
+mandarin	lzh	0087	jiéguǒ	result	np:other	np		other	3075	bridging
+mandarin	lzh	0087	jiù	ADV	other	other				
+mandarin	lzh	0087	ZERO	0_he	0.h:a	0	h	a	3013	
+mandarin	lzh	0087	huídào	return	v:pred	v		pred		
+mandarin	lzh	0087	jiā	home	np:p	np		p	3014	
+mandarin	lzh	0087	zhīhòu	after	other	other				
+mandarin	lzh	0087	#	#	##	##				
+mandarin	lzh	0087	ZERO	0_he	0.h:s	0	h	s	3013	
+mandarin	lzh	0087	yùyùguǎhuān	feel_anguish	other:pred	other		pred		
+mandarin	lzh	0088	#	#	##neg	##neg				
+mandarin	lzh	0088	ránhòu	then	other	other				
+mandarin	lzh	0088	ZERO	0_he	0.h:s	0	h	s	3013	
+mandarin	lzh	0088	gēn	with	adp	adp				
+mandarin	lzh	0088	rén	person	np.h:obl_dom	np	h	obl_dom		
+mandarin	lzh	0088	yě	also	other	other				
+mandarin	lzh	0088	bù	NEG	other	other				
+mandarin	lzh	0088	zěnme	how	other	other				
+mandarin	lzh	0088	liánxì	contact	v:pred	v		pred		
+mandarin	lzh	0089	#	#	##	##				
+mandarin	lzh	0089	èn	yes	other	other				
+mandarin	lzh	0089	ránhòu	then	other	other				
+mandarin	lzh	0089	ZERO	0_he	0.h:s	0	h	s	3013	
+mandarin	lzh	0089	jiù	ADV	other	other				
+mandarin	lzh	0089	zhè	this	ln_dem	ln_dem				
+mandarin	lzh	0089	yàngzi	way	np:pred	np		pred		
+mandarin	lzh	0090	#	#	##	##				
+mandarin	lzh	0090	ZERO	0_he	0.h:s	0	h	s	3013	
+mandarin	lzh	0090	yíbìngbùqǐ	sick_until_death	other:pred	other		pred		
+mandarin	lzh	0090	#	#	##	##				
+mandarin	lzh	0090	ZERO	0_he	0.h:s	0	h	s	3013	
+mandarin	lzh	0090	yíbìngbùqǐ	sick_until_death	other:pred	other		pred		
+mandarin	lzh	0091	#	#	##neg	##neg				
+mandarin	lzh	0091	ránhòu	then	other	other				
+mandarin	lzh	0091	méi	NEG	other	other				
+mandarin	lzh	0091	guò	pass	v:pred	v		pred		
+mandarin	lzh	0091	duō	much	other	other				
+mandarin	lzh	0091	jiǔ	long	other:s	other		s		
+mandarin	lzh	0091	#	#	##	##				
+mandarin	lzh	0091	ZERO	0_he	0.h:s	0	h	s	3013	
+mandarin	lzh	0091	jiù	ADV	other	other				
+mandarin	lzh	0091	sǐ	die	v:pred	v		pred		
+mandarin	lzh	0091	le	ASP	rv_asp	rv_asp				
+mandarin	lzh	0092	#	#	##	##				
+mandarin	lzh	0092	ZERO	0_she	0.h:a	0	h	a	3005	
+mandarin	lzh	0092	tīngdào	hear	v:pred	v		pred		
+mandarin	lzh	0092	#	#	#rc	#rc				
+mandarin	lzh	0092	liángshānbó	Liangshanbo	pn_np.h:s	pn_np	h	s	3013	
+mandarin	lzh	0092	qùshì	pass_away	v:pred	v		pred		
+mandarin	lzh	0092	=de	=MOD	=other	=other				
+mandarin	lzh	0092	%	%	%	%				
+mandarin	lzh	0092	xiāoxi	news	np:p	np		p	3076	new
+mandarin	lzh	0093	#	#	##	##				
+mandarin	lzh	0093	ránhòu	then	other	other				
+mandarin	lzh	0093	zhèbiāner	here	np:l	np		l	3069	
+mandarin	lzh	0093	ránhòu	then	other	other				
+mandarin	lzh	0093	ZERO	0_she	0.h:s	0	h	s	3005	
+mandarin	lzh	0093	zài	again	other	other				
+mandarin	lzh	0093	qù	go	v:pred	v		pred		
+mandarin	lzh	0094	#	#	##	##				
+mandarin	lzh	0094	ZERO	0_she	0.h:a	0	h	a	3005	
+mandarin	lzh	0094	jiēshòu	accept	v:pred	v		pred		
+mandarin	lzh	0094	fùmǔ	parent	np.h:p	np	h	p	3025	new
+mandarin	lzh	0094	#	#	##	##				
+mandarin	lzh	0094	jiù	ADV	other	other				
+mandarin	lzh	0094	zhèbiāner	here	np:l	np		l	3069	
+mandarin	lzh	0094	ZERO	0_she	dt_0.h:s	dt_0	h	s	3005	
+mandarin	lzh	0094	zài	be_at	other	other				
+mandarin	lzh	0094	yǔ	with	adp	adp				
+mandarin	lzh	0094	fùmǔ	parent	np.h:obl_dom	np	h	obl_dom	3025	
+mandarin	lzh	0094	kàngzhēng	fight	v:pred	v		pred		
+mandarin	lzh	0094	zhè	this	ln_dem	ln_dem				
+mandarin	lzh	0094	ge	CL	ln_cl	ln_cl				
+mandarin	lzh	0094	bāobànhūnyīn	arranged_marriage	ln	ln			3077	bridging
+mandarin	lzh	0094	=de	=MOD	=ln	=ln				
+mandarin	lzh	0094	zhùyīngtái	Zhuyingtai	pn_np.h:dt_s	pn_np	h	dt_s	3005	
+mandarin	lzh	0095	#	#	##	##				
+mandarin	lzh	0095	nà	that	other	other				
+mandarin	lzh	0095	kěndìng	surely	other	other				
+mandarin	lzh	0095	tā	3SG	ln_pro.h:poss	ln_pro	h	poss	3005	
+mandarin	lzh	0095	zìjǐ	REFL	ln_refl:poss	ln_refl		poss	3005	
+mandarin	lzh	0095	dǎjī	hurt	np:s	np		s	3049	new
+mandarin	lzh	0095	jiù	ADV	other	other				
+mandarin	lzh	0095	tèbié	especially	other	other				
+mandarin	lzh	0095	=de	=MOD	=other	=other				
+mandarin	lzh	0095	zhòng	strong	other:pred	other		pred		
+mandarin	lzh	0096	#	#	##	##				
+mandarin	lzh	0096	ránhòu	then	other	other				
+mandarin	lzh	0096	tā	3SG	ln_pro.h:poss	ln_pro	h	poss	3005	
+mandarin	lzh	0096	xìnggé	character	np:s	np		s	3026	bridging
+mandarin	lzh	0096	jiù	ADV	other	other				
+mandarin	lzh	0096	tūrán	suddenly	other	other				
+mandarin	lzh	0096	zhuǎnbiàn	change	v:pred	v		pred		
+mandarin	lzh	0096	le	ASP	rv_asp	rv_asp				
+mandarin	lzh	0097	#	#	##	##				
+mandarin	lzh	0097	tā	3SG	pro.h:s	pro	h	s	3005	
+mandarin	lzh	0097	jiù	ADV	other	other				
+mandarin	lzh	0097	juédìng	decide	v:pred	v		pred		
+mandarin	lzh	0097	le	ASP	rv_asp	rv_asp				
+mandarin	lzh	0098	#	#	##	##				
+mandarin	lzh	0098	ZERO	0_she	0.h:a	0	h	a	3005	
+mandarin	lzh	0098	jiù	ADV	other	other				
+mandarin	lzh	0098	chuānshang	wear	v:pred	v		pred		
+mandarin	lzh	0098	le	ASP	rv_asp	rv_asp				
+mandarin	lzh	0098	zhè	this	ln_dem	ln_dem				
+mandarin	lzh	0098	hóng	red	ln_adj	ln_adj				
+mandarin	lzh	0098	yī	clothes	ln_deti	ln_deti			3032	new
+mandarin	lzh	0098	hóng	red	ln_adj	ln_adj				
+mandarin	lzh	0098	qún	dress	np:p	np		p	3033	new
+mandarin	lzh	0099	#	#	##	##				
+mandarin	lzh	0099	ZERO	0_she	0.h:s	0	h	s	3005	
+mandarin	lzh	0099	zǒu	walk	v:pred	v		pred		
+mandarin	lzh	0099	#	#	##	##				
+mandarin	lzh	0099	ZERO	0_she	svc_0.h:a	svc_0	h	a		
+mandarin	lzh	0099	jin	go_in	v:pred	v		pred		
+mandarin	lzh	0099	le	ASP	rv_asp	rv_asp				
+mandarin	lzh	0099	zhè	this	ln_dem	ln_dem				
+mandarin	lzh	0099	ge	CL	ln_cl	ln_cl				
+mandarin	lzh	0099	yíngqīn	procession_to_get_bride	ln	ln			3027	bridging
+mandarin	lzh	0099	=de	=MOD	=ln	=ln				
+mandarin	lzh	0099	huājiào	marriage_sedan	np:p	np		p	3030	bridging
+mandarin	lzh	0100	#	#	##	##				
+mandarin	lzh	0100	dànshì	but	other	other				
+mandarin	lzh	0100	tā	3SG	pro.h:a	pro	h	a	3005	
+mandarin	lzh	0100	yǒu	have	v:pred	v		pred		
+mandarin	lzh	0100	yí	one	ln_deti	ln_deti				
+mandarin	lzh	0100	gè	CL	ln_cl	ln_cl				
+mandarin	lzh	0100	yāoqiú	condition	np:p	np		p	3078	new
+mandarin	lzh	0101	#	#	##	##				
+mandarin	lzh	0101	zhè	this	ln_dem	ln_dem				
+mandarin	lzh	0101	yíngqīn	procession_to_get_bride	ln	ln			3027	
+mandarin	lzh	0101	duìwu	procession	np:dt_s	np		dt_s	3027	
+mandarin	lzh	0101	ya	MP	other	other				
+mandarin	lzh	0101	nǐ	2SG	pro.2:s	pro	2	s	3027	
+mandarin	lzh	0101	bìxū	must	other	other				
+mandarin	lzh	0101	děi	must	other	other				
+mandarin	lzh	0101	yào	must	other	other				
+mandarin	lzh	0101	jīngguò	pass	v:pred	v		pred		
+mandarin	lzh	0101	liángshānbó	Liangshanbo	ln_pn_np.h:poss	ln_pn_np	h	poss	3013	
+mandarin	lzh	0101	=de	=MOD	=ln	=ln				
+mandarin	lzh	0101	fén	grave	np:obl	np		obl	3028	new
+mandarin	lzh	0101	qián	before	adp	adp				
+mandarin	lzh	0102	#	#	#	#				
+mandarin	lzh	0102	yīnwéi	because	other	other				
+mandarin	lzh	0102	tā	3SG	pro.h:s	pro	h	s	3005	
+mandarin	lzh	0102	xiǎng	want	other	other				
+mandarin	lzh	0102	zài	in	adp	adp				
+mandarin	lzh	0102	zuìhòu	end	np:other	np		other		
+mandarin	lzh	0102	gěi	give/ADP	adp	adp				
+mandarin	lzh	0102	liángshānbó	Liangshanbo	pn_np.h:obl	pn_np	h	obl	3013	
+mandarin	lzh	0102	kē	Kow	v:pred	v		pred		
+mandarin	lzh	0102	yí	one	rv	rv				
+mandarin	lzh	0102	gè	CL	rv	rv				
+mandarin	lzh	0102	tóu	Tow	rv	rv				
+mandarin	lzh	0103	#	#	##	##				
+mandarin	lzh	0103	nà	that	other	other				
+mandarin	lzh	0103	zhè	this	ln_dem	ln_dem				
+mandarin	lzh	0103	yíngqīn	wedding_procession	ln	ln			3027	
+mandarin	lzh	0103	=de	=MOD	=ln	=ln				
+mandarin	lzh	0103	duìwu	procession	np:a	np		a	3027	
+mandarin	lzh	0103	jiù	ADV	other	other				
+mandarin	lzh	0103	yí	one	ln_deti	ln_deti				
+mandarin	lzh	0103	lù	road	np:l	np		l	3079	new
+mandarin	lzh	0103	qiāo	beat	v:pred	v		pred		
+mandarin	lzh	0103	luó	gong	np:p	np		p	3080	new
+mandarin	lzh	0103	#	#	##	##				
+mandarin	lzh	0103	ZERO	0_they	0.h:a	0	h	a	3029	new
+mandarin	lzh	0103	dǎ	beat	v:pred	v		pred		
+mandarin	lzh	0103	gǔ	drum	np:p	np		p	3081	bridging
+mandarin	lzh	0104	#	#	##	##				
+mandarin	lzh	0104	āi	oh	other	other				
+mandarin	lzh	0104	jiù	ADV	other	other				
+mandarin	lzh	0104	ZERO	0_they	0.h:s	0	h	s	3027	
+mandarin	lzh	0104	jiù	ADV	other	other				
+mandarin	lzh	0104	nàyang	that_way	other	other				
+mandarin	lzh	0104	guòqu	pass	v:pred	v		pred		
+mandarin	lzh	0104	le	ASP	rv_asp	rv_asp				
+mandarin	lzh	0105	#	#	##	##				
+mandarin	lzh	0105	ZERO	0_they	0.h:s	0	h	s	3027	
+mandarin	lzh	0105	guòqu	pass	v:pred	v		pred		
+mandarin	lzh	0105	zhīhòu	after	other	other				
+mandarin	lzh	0106	#	#	##	##				
+mandarin	lzh	0106	huājiào	marriage_sedan	np:s	np		s	3030	
+mandarin	lzh	0106	jiù	ADV	other	other				
+mandarin	lzh	0106	tínglexiàlái	stopped	v:pred	v		pred		
+mandarin	lzh	0107	#	#	##	##				
+mandarin	lzh	0107	jiù	ADV	other	other				
+mandarin	lzh	0107	zhùyīngtái	Zhuyingtai	pn_np.h:s	pn_np	h	s	3005	
+mandarin	lzh	0107	zǒu	walk	v:pred	v		pred		
+mandarin	lzh	0107	chu	go_out	rv_svc	rv_svc				
+mandarin	lzh	0107	huājiào	marriage_sedan	np:obl	np		obl	3030	
+mandarin	lzh	0108	#	#	##	##				
+mandarin	lzh	0108	zhèg	this	ln_dem	ln_dem				
+mandarin	lzh	0108	shíhòu	moment	np:other	np		other	3082	bridging
+mandarin	lzh	0108	ya	MP	other	other				
+mandarin	lzh	0109	tūrán	suddenly	other	other				
+mandarin	lzh	0109	fāxiàn	discover	other	other				
+mandarin	lzh	0109	tā	3SG	pro.h:s	pro	h	s	3005	
+mandarin	lzh	0109	yǐjīng	already	other	other				
+mandarin	lzh	0109	bǎ	BA	adp	adp				
+mandarin	lzh	0109	shēn	body	ln_np	ln_np			3031	new
+mandarin	lzh	0109	shang	on	ln_adp	ln_adp				
+mandarin	lzh	0109	zìjǐ	REFL	ln_refl:poss	ln_refl		poss	3005	
+mandarin	lzh	0109	=de	=MOD	=ln	=ln				
+mandarin	lzh	0109	hóng	red	ln_adj	ln_adj				
+mandarin	lzh	0109	yī	clothes	np:obl_dom	np		obl_dom	3032	
+mandarin	lzh	0109	hóng	red	ln_adj	ln_adj				
+mandarin	lzh	0109	qún	dress	np:appos	np		appos	3033	
+mandarin	lzh	0109	yǐjīng	already	other	other				
+mandarin	lzh	0109	tuōqù	take_off	v:pred	v		pred		
+mandarin	lzh	0109	le	ASP	rv_asp	rv_asp				
+mandarin	lzh	0110	#	#	##	##				
+mandarin	lzh	0110	ZERO	0_she	0.h:s	0	h	s	3005	
+mandarin	lzh	0110	shì	COP	cop	cop				
+mandarin	lzh	0110	yì	one	ln	ln				
+mandarin	lzh	0110	shēn	body	np:l	np		l	3031	
+mandarin	lzh	0110	sù	plain	ln	ln				
+mandarin	lzh	0110	fú	clothes	np:pred	np		pred	3034	new
+mandarin	lzh	0111	#	#	##	##				
+mandarin	lzh	0111	ránhòu	then	other	other				
+mandarin	lzh	0111	ZERO	0_she	0.h:s	0	h	s	3005	
+mandarin	lzh	0111	huǎnhuǎnde	slowly	other	other				
+mandarin	lzh	0111	zǒu	walk	v:pred	v		pred		
+mandarin	lzh	0111	dao	to	adp	adp				
+mandarin	lzh	0111	fén	grave	np:g	np		g	3028	
+mandarin	lzh	0111	qián	front	rn_adp	rn_adp				
+mandarin	lzh	0112	#	#	##	##				
+mandarin	lzh	0112	ZERO	0_she	0.h:s	0	h	s	3005	
+mandarin	lzh	0112	guìxiàlái	kneel_down	v:pred	v		pred		
+mandarin	lzh	0112	#	#	##	##				
+mandarin	lzh	0112	ZERO	0_she	0.h:s	0	h	s	3005	
+mandarin	lzh	0112	fàngshēngdàkū	sob_loudly	other:pred	other		pred		
+mandarin	lzh	0113	#	#	##	##				
+mandarin	lzh	0113	shùnshíjiān	instantaneous	np:other	np		other		
+mandarin	lzh	0113	ZERO	0_it	0:s	0		s	3083	bridging
+mandarin	lzh	0113	fēngyǔpiāoyáo	tossed_about_by_wind_and_rain	other:pred	other		pred		
+mandarin	lzh	0113	#	#	##	##				
+mandarin	lzh	0113	léishēng	thunder	np:s	np		s	3084	new
+mandarin	lzh	0113	dàzuò	erupt_abruptly	v:pred	v		pred		
+mandarin	lzh	0114	#	#	##	##				
+mandarin	lzh	0114	hōng	explosion	v:pred	v		pred		
+mandarin	lzh	0114	=de	=MOD	=other	=other				
+mandarin	lzh	0114	yì	one	ln_deti	ln_deti				
+mandarin	lzh	0114	shēng	voice	np:s	np		s	3085	new
+mandarin	lzh	0115	#	#	##	##				
+mandarin	lzh	0115	ze	oh	other	other				
+mandarin	lzh	0115	āi	oh	other	other				
+mandarin	lzh	0115	nǐ	2SG	pro.2:s_ds	pro	2	s_ds		
+mandarin	lzh	0115	shuō	say	v:pred	v		pred		
+mandarin	lzh	0115	#	#	##	##				
+mandarin	lzh	0115	fāshēng	happen	v:pred	v		pred		
+mandarin	lzh	0115	le	ASP	rv_asp	rv_asp				
+mandarin	lzh	0115	shénme	what	intrg_other:s	intrg_other		s		
+mandarin	lzh	0116	#	#	##	##				
+mandarin	lzh	0116	hē	oh	other	other				
+mandarin	lzh	0116	zhè	this	ln_dem	ln_dem				
+mandarin	lzh	0116	ge	CL	ln_cl	ln_cl				
+mandarin	lzh	0116	shíhòu	moment	np:other	np		other	3086	bridging
+mandarin	lzh	0116	ya	MP	other	other				
+mandarin	lzh	0117	jiù	ADV	other	other				
+mandarin	lzh	0117	ZERO	0_it	0:a	0		a		
+mandarin	lzh	0117	yǐjīng	already	other	other				
+mandarin	lzh	0117	dài	carry	v:pred	v		pred		
+mandarin	lzh	0117	diǎner	little	ln	ln				
+mandarin	lzh	0117	shénhuà	mythology	ln	ln				
+mandarin	lzh	0117	sècǎi	coloring	np:p	np		p		
+mandarin	lzh	0117	le	ASP	other	other				
+mandarin	lzh	0118	#	#	##	##				
+mandarin	lzh	0118	nà	that	ln_dem	ln_dem				
+mandarin	lzh	0118	ge	CL	ln_cl	ln_cl				
+mandarin	lzh	0118	fénmù	grave	np:s	np		s	3028	
+mandarin	lzh	0118	jiù	ADV	other	other				
+mandarin	lzh	0118	lièkāi	split_open	v:pred	v		pred		
+mandarin	lzh	0118	le	ASP	other	other				
+mandarin	lzh	0119	#	#	##	##				
+mandarin	lzh	0119	nà	that	ln_dem	ln_dem				
+mandarin	lzh	0119	zhùyīngtái	Zhuyingtai	pn_np.h:a	pn_np	h	a	3005	
+mandarin	lzh	0119	sìhū	seem	other	other				
+mandarin	lzh	0119	yòu	again	other	other				
+mandarin	lzh	0119	kànjiàn	see	v:pred	v		pred		
+mandarin	lzh	0119	le	ASP	rv_asp	rv_asp				
+mandarin	lzh	0119	tā	3SG	ln_pro.h:poss	ln_pro	h	poss	3005	
+mandarin	lzh	0119	=de	=MOD	=ln	=ln				
+mandarin	lzh	0119	liáng	Liang	pn_np.h:p	pn_np	h	p	3013	
+mandarin	lzh	0119	xiōng	brother	rn_np	rn_np				
+mandarin	lzh	0120	#	#	##	##				
+mandarin	lzh	0120	ZERO	0_she	0.h:s	0	h	s	3005	
+mandarin	lzh	0120	zài	be_at	nc	nc				
+mandarin	lzh	0120	jiùshì	ADV	other	other				
+mandarin	lzh	0120	fǎngfú	seem_like	other	other				
+mandarin	lzh	0120	huídào	go_back	v:pred	v		pred		
+mandarin	lzh	0120	gēn	with	adp	adp				
+mandarin	lzh	0120	tā	3SG	ln_pro.h:poss	ln_pro	h	poss	3005	
+mandarin	lzh	0120	=de	=MOD	=ln	=ln				
+mandarin	lzh	0120	liáng	Liang	pn_np.h:obl	pn_np	h	obl	3013	
+mandarin	lzh	0120	xiōng	brother	rn_np	rn_np				
+mandarin	lzh	0120	yìqǐ	together	other	other				
+mandarin	lzh	0120	#	#	#rc	#rc				
+mandarin	lzh	0120	ZERO	0_they	f0.h:s	f0	h	s	3015	
+mandarin	lzh	0120	shàng	attend	v:pred	v		pred		
+mandarin	lzh	0120	xué	school	rv	rv				
+mandarin	lzh	0120	=de	=MOD	=rv	=rv				
+mandarin	lzh	0120	%	%	%	%				
+mandarin	lzh	0120	nà	that	ln_dem	ln_dem				
+mandarin	lzh	0120	ge	CL	ln_cl	ln_cl				
+mandarin	lzh	0120	shíhòu	moment	np:p	np		p	3073	
+mandarin	lzh	0121	#	#	##	##				
+mandarin	lzh	0121	tā	3SG	pro.h:s	pro	h	s	3005	
+mandarin	lzh	0121	jiù	ADV	other	other				
+mandarin	lzh	0121	tèbié	especially	other	other				
+mandarin	lzh	0121	kāixīn	happy	other:pred	other		pred		
+mandarin	lzh	0122	#	#	##	##				
+mandarin	lzh	0122	ránhòu	then	other	other				
+mandarin	lzh	0122	ZERO	0_she	0.h:a	0	h	a	3005	
+mandarin	lzh	0122	jiù	ADV	other	other				
+mandarin	lzh	0122	gēn	with	adp	adp				
+mandarin	lzh	0122	liáng	Liang	pn_np.h:obl	pn_np	h	obl	3013	
+mandarin	lzh	0122	xiōng	brother	rn_np	rn_np				
+mandarin	lzh	0122	yìqǐ	together	rn_adp	rn_adp				
+mandarin	lzh	0122	zòngshēn	leap	np:obl	np		obl	3087	new
+mandarin	lzh	0122	tiàojìn	jump_in	v:pred	v		pred		
+mandarin	lzh	0122	le	ASP	rv_asp	rv_asp				
+mandarin	lzh	0122	zhè	this	ln_dem	ln_dem				
+mandarin	lzh	0122	ge	CL	ln_cl	ln_cl				
+mandarin	lzh	0122	fénmù	grave	np:p	np		p	3028	
+mandarin	lzh	0123	#	#	##	##				
+mandarin	lzh	0123	jiē	follow	other	other				
+mandarin	lzh	0123	zhe	ASP	other	other				
+mandarin	lzh	0123	yòu	again	other	other				
+mandarin	lzh	0123	yì	one	ln_deti	ln_deti				
+mandarin	lzh	0123	shēng	CL	ln_cl	ln_cl				
+mandarin	lzh	0123	jùxiǎng	loud_sound	np:obl	np		obl	3088	bridging
+mandarin	lzh	0123	fénmù	grave	np:s	np		s	3028	
+mandarin	lzh	0123	héshang	close	v:pred	v		pred		
+mandarin	lzh	0123	le	ASP	rv_asp	rv_asp				
+mandarin	lzh	0124	#	#	##	##				
+mandarin	lzh	0124	nà	that	other	other				
+mandarin	lzh	0124	zhè	this	ln_dem	ln_dem				
+mandarin	lzh	0124	ge	CL	ln_cl	ln_cl				
+mandarin	lzh	0124	shíhòu	moment	np:other	np		other	3089	bridging
+mandarin	lzh	0124	ne	MP	other	other				
+mandarin	lzh	0124	jiù	ADV	other	other				
+mandarin	lzh	0124	fēng	wind	np:s	np		s	3035	bridging
+mandarin	lzh	0124	xiāo	vanish	v:pred	v		pred		
+mandarin	lzh	0124	#	#	##	##				
+mandarin	lzh	0124	yún	cloud	np:s	np		s	3036	bridging
+mandarin	lzh	0124	sàn	scatter	v:pred	v		pred		
+mandarin	lzh	0124	le	ASP	rv_asp	rv_asp				
+mandarin	lzh	0125	#	#	##	##				
+mandarin	lzh	0125	ránhòu	then	other	other				
+mandarin	lzh	0125	zhè	this	ln_dem	ln_dem				
+mandarin	lzh	0125	ge	CL	ln_cl	ln_cl				
+mandarin	lzh	0125	gùshì	story	ln_np:poss	ln_np		poss		
+mandarin	lzh	0125	=de	=MOD	=ln	=ln				
+mandarin	lzh	0125	jiéjú	ending	np:dt	np		dt		
+mandarin	lzh	0125	nǐ	2SG	pro.2:a	pro	2	a		
+mandarin	lzh	0125	jiù	ADV	other	other				
+mandarin	lzh	0125	kěyǐ	can	other	other				
+mandarin	lzh	0125	kànjiàn	see	v:pred	v		pred		
+mandarin	lzh	0125	gè	CL	ln_cl	ln_cl				
+mandarin	lzh	0125	zhǒng	kind	ln	ln				
+mandarin	lzh	0125	yěhuā	wild_flower	np:p	np		p	3037	new
+mandarin	lzh	0125	#	#	##	##				
+mandarin	lzh	0125	ZERO	0_they	0:s	0		s	3037	
+mandarin	lzh	0125	fēng	wind	np:obl	np		obl	3035	
+mandarin	lzh	0125	zhōng	in	rn_adp	rn_adp				
+mandarin	lzh	0125	qīngróude	gently	lv	lv				
+mandarin	lzh	0125	yáoyè	sway_gently	v:pred	v		pred		
+mandarin	lzh	0126	#	#	##	##				
+mandarin	lzh	0126	yí	one	ln_deti	ln_deti				
+mandarin	lzh	0126	duì	pair	ln_cl	ln_cl				
+mandarin	lzh	0126	měilì	beautiful	ln_adj	ln_adj				
+mandarin	lzh	0126	=de	=MOD	=ln	=ln				
+mandarin	lzh	0126	húdié	butterfly	np:s	np		s	3038	new
+mandarin	lzh	0126	cóng	from	adp	adp				
+mandarin	lzh	0126	féntóu	burial_mound	np:obl	np		obl	3039	bridging
+mandarin	lzh	0126	fēichūqù	fly_out	v:pred	v		pred		
+mandarin	lzh	0126	#	#	##	##				
+mandarin	lzh	0126	ZERO	0_they	0.d:s	0	d	s	3038	
+mandarin	lzh	0126	zài	in	adp	adp				
+mandarin	lzh	0126	yángguāng	sunshine	np:l	np		l	3040	unused
+mandarin	lzh	0126	xià	under	rn_adp	rn_adp				
+mandarin	lzh	0126	=de	=MOD	=other	=other				
+mandarin	lzh	0126	piānpiānqǐwǔ	dance_lightfully_and_gracefully	v:pred	v		pred		
+mandarin	lzh	0127	#	#	##	##				
+mandarin	lzh	0127	ránhòu	then	other	other				
+mandarin	lzh	0127	zhè	this	ln_dem	ln_dem				
+mandarin	lzh	0127	ge	CL	ln_cl	ln_cl				
+mandarin	lzh	0127	gùshì	story	np:s	np		s		
+mandarin	lzh	0127	zài	in	adp	adp				
+mandarin	lzh	0127	zhèlǐ	here	other:l	other		l		
+mandarin	lzh	0127	jiù	ADV	other	other				
+mandarin	lzh	0127	yǐjīng	already	other	other				
+mandarin	lzh	0127	jiéshù	finish	v:pred	v		pred		
+mandarin	lzh	0127	le	ASP	rv_asp	rv_asp				
+mandarin	lzh	0128	#	#	##	##				
+mandarin	lzh	0128	qíshí	actually	other	other				
+mandarin	lzh	0128	liángshānbó	Liangshanbo	ln_pn_np.h:poss	ln_pn_np	h	poss	3013	
+mandarin	lzh	0128	yǔ	and	ln	ln				
+mandarin	lzh	0128	zhùyīngtái	Zhuyingtai	ln_pn_np.h:poss	ln_pn_np	h	poss	3005	
+mandarin	lzh	0128	=de	=MOD	=ln	=ln				
+mandarin	lzh	0128	gùshì	story	np:s	np		s		
+mandarin	lzh	0128	zǎo	early	other	other				
+mandarin	lzh	0128	zài	be_at	adp	adp				
+mandarin	lzh	0128	mínjiān	folk	np.h:obl	np	h	obl		
+mandarin	lzh	0128	jiù	ADV	other	other				
+mandarin	lzh	0128	yǐjīng	already	other	other				
+mandarin	lzh	0128	liúchuán	spread	v:pred	v		pred		
+mandarin	lzh	0128	le	ASP	rv_asp	rv_asp				
+mandarin	lzh	0128	hěn	very	ln	ln				
+mandarin	lzh	0128	cháng	long	ln_adj	ln_adj				
+mandarin	lzh	0128	shíjiān	time	np:other	np		other		
+mandarin	lzh	0128	le	ASP	other	other				
+mandarin	lzh	0129	#	#	##	##				
+mandarin	lzh	0129	èn	yes	other	other				
+mandarin	lzh	0129	ZERO	0_they	0.h:a	0	h	a		
+mandarin	lzh	0129	jiù	ADV	other	other				
+mandarin	lzh	0129	wèi	for	adp	adp				
+mandarin	lzh	0129	cǐ	this	other:obl	other		obl		
+mandarin	lzh	0129	qíshí	actually	other	other				
+mandarin	lzh	0129	hái	still	other	other				
+mandarin	lzh	0129	biān	compile	v:pred	v		pred		
+mandarin	lzh	0129	le	ASP	rv_asp	rv_asp				
+mandarin	lzh	0129	yì	one	ln_deti	ln_deti				
+mandarin	lzh	0129	shǒu	CL	ln_cl	ln_cl				
+mandarin	lzh	0129	gē	song	np:p	np		p		
+mandarin	lzh	0130	#	#	##	##				
+mandarin	lzh	0130	gēyáo	folk_song	np:s	np		s		
+mandarin	lzh	0130	shì	COP	other	other				
+mandarin	lzh	0130	zhè	this	ln_dem	ln_dem				
+mandarin	lzh	0130	yàngzi	way	np:obl	np		obl		
+mandarin	lzh	0130	shuō	say	v:pred	v		pred		
+mandarin	lzh	0130	=de	=MOD	=other	=other				
+mandarin	lzh	0131	#	#	#nc	#nc				
+mandarin	lzh	0131	tóngchuānggòngdú	NC	nc	nc				
+mandarin	lzh	0131	zhěngsānzǎi	NC	nc	nc				
+mandarin	lzh	0132	cùxībìngjiān	NC	nc	nc				
+mandarin	lzh	0132	liǎngwúcāi	NC	nc	nc				
+mandarin	lzh	0133	shíbāxiāngsòng	NC	nc	nc				
+mandarin	lzh	0133	qíngqièqiè	NC	nc	nc				
+mandarin	lzh	0134	shuízhī	NC	nc	nc				
+mandarin	lzh	0134	yìbié	NC	nc	nc				
+mandarin	lzh	0134	zàilóutái	NC	nc	nc				
+mandarin	lzh	0135	lóutái	NC	nc	nc				
+mandarin	lzh	0135	yìbié	NC	nc	nc				
+mandarin	lzh	0135	hènrúhǎi	NC	nc	nc				
+mandarin	lzh	0136	lèirǎnshuāngchì	NC	nc	nc				
+mandarin	lzh	0136	shēnhuàcǎidié	NC	nc	nc				
+mandarin	lzh	0136	piānpiān	NC	nc	nc				
+mandarin	lzh	0136	huācónglái	NC	nc	nc				
+mandarin	lzh	0137	lìjìnmónàn	NC	nc	nc				
+mandarin	lzh	0137	zhēnqíngzài	NC	nc	nc				
+mandarin	lzh	0138	tiānchángdìjiǔ	NC	nc	nc				
+mandarin	lzh	0138	bùfēnkāi	NC	nc	nc				
+mandarin	lzh	0139	#	#	#nc	#nc				
+mandarin	lzh	0139	hǎo	good	nc	nc				
+mandarin	lzh	0139	gùshì	story	nc	nc				
+mandarin	lzh	0139	dào	until	nc	nc				
+mandarin	lzh	0139	zhèlǐ	here	nc	nc				
+mandarin	lzh	0139	jiù	ADV	nc	nc				
+mandarin	lzh	0139	jiéjú	finish	nc	nc				
+mandarin	lzh	0139	le	ASP	nc	nc				
+mandarin	lzh	0140	#	#	#nc	#nc				
+mandarin	lzh	0140	ZERO	0_I	nc	nc				
+mandarin	lzh	0140	xièxiè	thank	nc	nc				
+mandarin	lzh	0140	dàjiā	everybody	nc	nc				
+mandarin	lzh	0140	hāhā	haha	nc	nc				
+mandarin	lzh	0141	hāhā	haha	nc	nc				
+mandarin	lzh	0141	èn	yes	nc	nc				
