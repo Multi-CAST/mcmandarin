@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<multicast version="2211">
+<multicast version="2311">
  <corpus c_name="mandarin">
   <text t_name="jgz" annotators="Maria Vollmer" speaker="MD02">
-   <file f_name="mc_mandarin_jgz" audio="mc_mandarin_jgz.wav" updated="2022-07-25">
+   <file f_name="mc_mandarin_jgz" audio="mc_mandarin_jgz.wav" updated="2023-07-09">
     <unit uid="0001" start_time="0" end_time="8494">
      <utterance_id>mandarin_jgz_0001</utterance_id>
      <utterance>běnlái zhègè gúshì bā, kě néng shì gēn, yīnggāi shì gēn nágè wǒde péngyǒu lǐshàngzōng yīqǐ jiǎng</utterance>
@@ -11142,8 +11142,8 @@
        <graid>=other</graid>
       </segment>
       <segment>
-       <gword>#</gword>
-       <gloss>#</gloss>
+       <gword>%</gword>
+       <gloss>%</gloss>
        <graid>%</graid>
       </segment>
       <segment>

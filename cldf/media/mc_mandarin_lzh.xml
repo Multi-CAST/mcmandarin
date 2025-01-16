@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<multicast version="2211">
+<multicast version="2311">
  <corpus c_name="mandarin">
   <text t_name="lzh" annotators="Maria Vollmer" speaker="MD03">
    <file f_name="mc_mandarin_lzh" audio="mc_mandarin_lzh.wav" updated="2021-06-08">
