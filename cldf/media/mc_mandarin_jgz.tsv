@@ -1438,7 +1438,7 @@ mandarin	jgz	0186	dàole	arrive	v:pred	v		pred
 mandarin	jgz	0186	tāmén	3PL	ln_pro.h:poss	ln_pro	h	poss	2050	
 mandarin	jgz	0186	zhé	DEM	ln_dem	ln_dem				
 mandarin	jgz	0186	gè	CL	ln_cl	ln_cl				
-mandarin	jgz	0186	xiàn	district	ln_np	ln_np			2012	new
+mandarin	jgz	0186	xiàn	district	ln_np	ln_np			2012	
 mandarin	jgz	0186	lǐ	inside	adp	adp				
 mandarin	jgz	0186	=de	=MOD	=ln	=ln				
 mandarin	jgz	0186	ná	DEM	ln_dem	ln_dem				
@@ -2050,7 +2050,7 @@ mandarin	jgz	0249	#	#	##	##
 mandarin	jgz	0249	zuǐ	mouth	np:s	np		s	2045	
 mandarin	jgz	0249	wāi	crooked	other:pred	other		pred		
 mandarin	jgz	0249	#	#	##	##				
-mandarin	jgz	0249	yǎn	eyes	np:s	np		s	2085	
+mandarin	jgz	0249	yǎn	eyes	np:s	np		s	2085	bridging
 mandarin	jgz	0249	xié	crooked	other:pred	other		pred		
 mandarin	jgz	0250	#	#	##	##				
 mandarin	jgz	0250	yīfú	clothes	np:other	np		other	2086	bridging
