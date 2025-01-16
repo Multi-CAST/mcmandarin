@@ -161,12 +161,12 @@ mandarin	hml	0012	zài	in	adp	adp
 mandarin	hml	0012	lìshǐ	history	np:other	np		other		
 mandarin	hml	0012	shàng	on	adp	adp				
 mandarin	hml	0012	=de	=MOD	=other	=other				
-mandarin	hml	0012	mùlán	Mulan	np.h:dt_s	np	h	dt_s	1001	
+mandarin	hml	0012	mùlán	Mulan	pn_np.h:dt_s	pn_np	h	dt_s	1001	
 mandarin	hml	0012	tā	3SG	pro.h:s	pro	h	s	1001	
 mandarin	hml	0012	shì	COP	cop	cop				
 mandarin	hml	0012	zài	in	adp	adp				
 mandarin	hml	0012	ā	MP	other	other				
-mandarin	hml	0012	suígōng	Suigong	np:pred	np		pred		
+mandarin	hml	0012	suígōng	Suigong	pn_np:pred	pn_np		pred		
 mandarin	hml	0013	#	#	##	##				
 mandarin	hml	0013	ā	MP	other	other				
 mandarin	hml	0013	OK	OK	other	other				
@@ -469,7 +469,7 @@ mandarin	hml	0031	dànshì	but	other	other
 mandarin	hml	0031	yīnwéi	because	other	other				
 mandarin	hml	0031	nà	that	ln	ln				
 mandarin	hml	0031	gè	CL	ln	ln				
-mandarin	hml	0031	huāhú	Huahu	np.h:dt	np	h	dt	1003	
+mandarin	hml	0031	huāhú	Huahu	pn_np.h:dt	pn_np	h	dt	1003	
 mandarin	hml	0031	tā	3SG	ln_pro.h:poss	ln_pro	h	poss	1003	
 mandarin	hml	0031	nián	age	np:s	np		s	1030	bridging
 mandarin	hml	0031	shìfēi	right_and_wrong	other:pred	other		pred		
@@ -690,7 +690,7 @@ mandarin	hml	0044	zhè	this	ln	ln
 mandarin	hml	0044	gè	CL	ln	ln				
 mandarin	hml	0044	shíhòu	moment	np:other	np		other	1046	new
 mandarin	hml	0044	ne	MP	other	other				
-mandarin	hml	0044	huāhú	Huahu	np.h:dt_a	np	h	dt_a	1003	
+mandarin	hml	0044	huāhú	Huahu	pn_np.h:dt_a	pn_np	h	dt_a	1003	
 mandarin	hml	0044	tā	3SG	pro.h:a	pro	h	a	1003	
 mandarin	hml	0044	fúbìng	support	v:pred	v		pred		
 mandarin	hml	0044	bing	sickness	np:p	np		p	1047	
@@ -1036,7 +1036,7 @@ mandarin	hml	0067	kěyǐ	can	lv	lv
 mandarin	hml	0067	kànchūlái	see	v:pred	v		pred		
 mandarin	hml	0068	#	#	##	##				
 mandarin	hml	0068	qíshí	actually	other	other				
-mandarin	hml	0068	mùlán	Mulan	pn_np.h:dt_s	pn_np	h	dt_s	1001	
+mandarin	hml	0068	mùlán	Mulan	pn_np.h:dt_poss	pn_np	h	dt_poss	1001	
 mandarin	hml	0068	tā	3SG	ln_pro.h:poss	ln_pro	h	poss	1001	
 mandarin	hml	0068	de	MOD	ln	ln				
 mandarin	hml	0068	nèi	inside	ln	ln				
@@ -2051,8 +2051,8 @@ mandarin	hml	0147	#	#	##	##
 mandarin	hml	0147	ZERO	0_she	0.h:s	0	h	s	1001	
 mandarin	hml	0147	lái	come	v:pred	v		pred		
 mandarin	hml	0148	#	#	##	##				
-mandarin	hml	0148	hè	He	ln_pn_np.h	ln_pn_np	h			
-mandarin	hml	0148	yuánshuài	marshal	np.h:s_ds	np	h	s_ds	1065	
+mandarin	hml	0148	hè	He	pn_np.h:s_ds	pn_np	h	s_ds	1065	
+mandarin	hml	0148	yuánshuài	marshal	rn_np.h	rn_np	h			
 mandarin	hml	0148	réng	yet	other	other				
 mandarin	hml	0148	réng	yet	other	other				
 mandarin	hml	0148	shuō	say	v:pred	v		pred		
@@ -2093,8 +2093,8 @@ mandarin	hml	0150	zhè	this	ln	ln
 mandarin	hml	0150	gè	CL	ln	ln				
 mandarin	hml	0150	shíhòu	moment	np:other	np		other	1173	new
 mandarin	hml	0150	g	yes	other	other				
-mandarin	hml	0150	hè	He	ln_pn_np.h	ln_pn_np	h		1172	
-mandarin	hml	0150	yuánshuài	marshal	np.h:s	np	h	s	1065	
+mandarin	hml	0150	hè	He	pn_np.h:s	pn_np	h	s	1065	
+mandarin	hml	0150	yuánshuài	marshal	rn_np.h	rn_np	h			
 mandarin	hml	0150	cái	only	other	other				
 mandarin	hml	0150	huǎngrán	suddenly	other	other				
 mandarin	hml	0150	dà	big	ln	ln				
@@ -2122,8 +2122,8 @@ mandarin	hml	0152	jiǔyàn	feast	np:p	np		p	1176	new
 mandarin	hml	0153	#	#	##	##				
 mandarin	hml	0153	ZERO	0_he	0.h:a	0	h	a	1003	
 mandarin	hml	0153	xiàng	towards	adp	adp				
-mandarin	hml	0153	he	He	ln_pn_np.h	ln_pn_np	h			
-mandarin	hml	0153	yuánshuài	marshal	np.h:g	np	h	g	1065	
+mandarin	hml	0153	he	He	pn_np.h:g	pn_np	h	g	1065	
+mandarin	hml	0153	yuánshuài	marshal	rn_np.h	rn_np	h			
 mandarin	hml	0153	qǐngzuì	beg_forgiveness	v:pred	v		pred		
 mandarin	hml	0153	#	#	#rc	#rc				
 mandarin	hml	0153	mùlán	Mulan	pn_np.h:dt	pn_np	h	dt	1001	
@@ -2145,8 +2145,8 @@ mandarin	hml	0154	hòu	after	other	other
 mandarin	hml	0154	#	#	##	##				
 mandarin	hml	0154	mùlán	Mulan	pn_np.h:s	pn_np	h	s	1001	
 mandarin	hml	0154	jiāng	towards	adp	adp				
-mandarin	hml	0154	he	He	pn_np.h	pn_np	h		1172	
-mandarin	hml	0154	yuánshuài	marshal	np.h:g	np	h	g	1065	
+mandarin	hml	0154	he	He	pn_np.h:g	pn_np	h	g	1065	
+mandarin	hml	0154	yuánshuài	marshal	rn_np.h	rn_np	h			
 mandarin	hml	0154	qǐng	invite	v:pred	v		pred		
 mandarin	hml	0154	dào	arrive	adp	adp				
 mandarin	hml	0154	jīfáng	equipment room	np:g	np		g	1178	new
@@ -2194,8 +2194,8 @@ mandarin	hml	0159	wǒ	1SG	ln_pro.1:poss	ln_pro	1	poss	1001
 mandarin	hml	0159	fùnǚ	woman	ln_np.h:poss	ln_np	h	poss	1038	
 mandarin	hml	0159	běnfēn	duty	np:p	np		p	1182	new
 mandarin	hml	0160	#	#	##	##				
-mandarin	hml	0160	hè	He	ln_pn_np.h	ln_pn_np	h			
-mandarin	hml	0160	yuánshuài	marshal	np.h:a	np	h	a	1065	
+mandarin	hml	0160	hè	He	pn_np.h:a	pn_np	h	a	1065	
+mandarin	hml	0160	yuánshuài	marshal	rn_np.h	rn_np	h			
 mandarin	hml	0160	tīng	hear	v:pred	v		pred		
 mandarin	hml	0160	le	ASP	rv	rv				
 mandarin	hml	0160	ZERO	0_she	0.h:p	0	h	p	1001	

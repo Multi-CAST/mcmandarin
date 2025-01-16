@@ -4,7 +4,7 @@
 
 If you use these data please cite
 - the original source
-  > Vollmer, Maria. 2020. Multi-CAST Mandarin. In Haig, Geoffrey & Schnell, Stefan (eds.), Multi-CAST: Multilingual corpus of annotated spoken texts. Version 2001. Bamberg: University of Bamberg. (multicast.aspra.uni-bamberg.de/#mandarin) (date accessed)
+  > Vollmer, Maria. 2021. Multi-CAST Mandarin. In Haig, Geoffrey & Schnell, Stefan (eds.), Multi-CAST: Multilingual corpus of annotated spoken texts. Version 2101. Bamberg: University of Bamberg. (multicast.aspra.uni-bamberg.de/#mandarin) (date accessed)
 - the derived dataset using the DOI of the [particular released version](../../releases/) you were using
 
 ![](cldf/media/image.jpg)
@@ -107,16 +107,16 @@ information on all annotated categories, including those not listed here.
 
 | GRAID | ⟨:s⟩ | ⟨:a⟩ | ⟨:ncs⟩ | ⟨:p⟩ | ⟨:obl⟩ | ⟨:g⟩ | ⟨:l⟩ | ⟨:pred⟩ | ⟨:poss⟩ | ⟨:other⟩ | totals |
 |:--------------|-------:|-------:|---------:|-------:|---------:|-------:|-------:|----------:|----------:|-----------:|---------:|
-| **⟨0.1⟩** | 27 | 46 | 0 | 2 | 2 | 0 | 0 | 0 | 0 | 0 | 77 |
-| **⟨0.2⟩** | 17 | 23 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 41 |
-| **⟨0.h⟩** | 222 | 205 | 0 | 28 | 0 | 2 | 0 | 0 | 0 | 0 | 457 |
+| **⟨0.1⟩** | 30 | 48 | 0 | 2 | 3 | 0 | 0 | 0 | 0 | 0 | 83 |
+| **⟨0.2⟩** | 18 | 24 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 43 |
+| **⟨0.h⟩** | 223 | 205 | 0 | 28 | 0 | 2 | 0 | 0 | 0 | 0 | 458 |
 | **⟨0.d⟩** | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 |
-| **⟨0⟩** | 47 | 11 | 0 | 71 | 2 | 0 | 0 | 0 | 0 | 0 | 131 |
-| **⟨pro.1⟩** | 23 | 31 | 0 | 7 | 6 | 3 | 0 | 0 | 20 | 2 | 92 |
-| **⟨pro.2⟩** | 21 | 24 | 0 | 6 | 5 | 4 | 0 | 0 | 5 | 0 | 65 |
-| **⟨pro.h⟩** | 51 | 48 | 0 | 14 | 11 | 0 | 0 | 0 | 37 | 1 | 162 |
+| **⟨0⟩** | 47 | 11 | 0 | 72 | 2 | 0 | 0 | 0 | 0 | 0 | 132 |
+| **⟨pro.1⟩** | 20 | 29 | 0 | 7 | 5 | 3 | 0 | 0 | 20 | 2 | 86 |
+| **⟨pro.2⟩** | 20 | 23 | 0 | 6 | 5 | 4 | 0 | 0 | 5 | 0 | 63 |
+| **⟨pro.h⟩** | 50 | 48 | 0 | 14 | 11 | 0 | 0 | 0 | 37 | 1 | 161 |
 | **⟨pro.d⟩** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| **⟨pro⟩** | 20 | 4 | 0 | 8 | 3 | 1 | 6 | 0 | 0 | 3 | 45 |
+| **⟨pro⟩** | 20 | 4 | 0 | 7 | 3 | 1 | 6 | 0 | 0 | 3 | 44 |
 | **⟨np.1⟩** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
 | **⟨np.2⟩** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
 | **⟨np.h⟩** | 146 | 72 | 0 | 84 | 48 | 13 | 0 | 27 | 39 | 1 | 430 |
@@ -134,8 +134,8 @@ information on all annotated categories, including those not listed here.
 
 | GRAID | count |
 |:-----------|--------:|
-| **⟨##⟩** | 1107 |
-| **⟨#⟩** | 87 |
+| **⟨##⟩** | 1111 |
+| **⟨#⟩** | 83 |
 | **totals** | 1194 |
 
 

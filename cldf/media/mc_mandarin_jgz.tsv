@@ -96,7 +96,7 @@ mandarin	jgz	0011	zhé	DEM	rn	rn
 mandarin	jgz	0011	gè	CL	rn	rn				
 mandarin	jgz	0011	gúshì	story	np:s	np		s		
 mandarin	jgz	0011	shì	COP	cop	cop				
-mandarin	jgz	0011	zhōngguó	China	ln_np:poss	ln_np		poss		
+mandarin	jgz	0011	zhōngguó	China	ln_pn_np:poss	ln_pn_np		poss		
 mandarin	jgz	0011	lìshǐ	history	ln_np	ln_np				
 mandarin	jgz	0011	shàng	on	adp	adp				
 mandarin	jgz	0011	liúchuán	popular	ln_adj	ln_adj				
@@ -601,11 +601,11 @@ mandarin	jgz	0074	le	ASP	rv	rv
 mandarin	jgz	0075	#	#	##	##				
 mandarin	jgz	0075	ZERO	0	0.h:s_ds	0	h	s_ds	2034	
 mandarin	jgz	0075	wèn	ask	v:pred	v		pred		
-mandarin	jgz	0076	#	#	#ds:p	#ds		p		
+mandarin	jgz	0076	#	#	##ds	##ds				
 mandarin	jgz	0076	nǐ	2SG	pro.2:a	pro	2	a	2024	
 mandarin	jgz	0076	gān	do	v:pred	v		pred		
 mandarin	jgz	0076	shénme	what	intrg_other:p	intrg_other		p		
-mandarin	jgz	0076	(nǐmén)	(2PL)	nc	nc			2021	
+mandarin	jgz	0076	nǐmén	2PL	nc	nc			2021	
 mandarin	jgz	0077	#	#	##	##				
 mandarin	jgz	0077	fūqī	couple	np.h:s_ds	np	h	s_ds	2021	
 mandarin	jgz	0077	liǎ	two	ln_num	ln_num				
@@ -632,7 +632,7 @@ mandarin	jgz	0080	le	ASP	rv	rv
 mandarin	jgz	0081	#	#	##	##				
 mandarin	jgz	0081	tā	3SG	pro.h:s_ds	pro	h	s_ds	2024	
 mandarin	jgz	0081	shuō	say	v:pred	v		pred		
-mandarin	jgz	0082	#	#	#ds	#ds				
+mandarin	jgz	0082	#	#	##ds	##ds				
 mandarin	jgz	0082	wǒ	1SG	pro.1:a	pro	1	a	2024	
 mandarin	jgz	0082	jiù	ADV	other	other				
 mandarin	jgz	0082	kē	kow	v:pred	v		pred		
@@ -647,7 +647,7 @@ mandarin	jgz	0083	nà	DEM	ln_dem	ln_dem
 mandarin	jgz	0083	(dà)	(big)	ln_adj	ln_adj				
 mandarin	jgz	0083	jìnér	energy	np:obl	np		obl		
 mandarin	jgz	0083	#	#	##ds	##ds				
-mandarin	jgz	0083	ZERO	0_you	pro.2:s	pro	2	s	2024	
+mandarin	jgz	0083	ZERO	0_you	0.2:s	0	2	s	2024	
 mandarin	jgz	0083	gān	do	v:pred	v		pred		
 mandarin	jgz	0083	mā	MP	rv	rv				
 mandarin	jgz	0084	#	#	##	##				
@@ -730,7 +730,7 @@ mandarin	jgz	0094	rénér	person	np.h:s	np	h	s	2021
 mandarin	jgz	0094	fēicháng	really	other	other				
 mandarin	jgz	0094	gāoxīng	happy	other:pred	other		pred		
 mandarin	jgz	0094	ā	MP	other	other				
-mandarin	jgz	0095	#	#	#ds	#ds				
+mandarin	jgz	0095	#	#	##ds	##ds				
 mandarin	jgz	0095	ZERO	0	0.1:a	0	1	a	2021	
 mandarin	jgz	0095	kě	but	other	other				
 mandarin	jgz	0095	zhōngyú	finally	other	other				
@@ -984,7 +984,7 @@ mandarin	jgz	0127	dàshī	master	np.h:voc	np	h	voc	2035
 mandarin	jgz	0127	nǐ	2SG	pro.2:a	pro	2	a	2035	
 mandarin	jgz	0127	kuài	fast	other	other				
 mandarin	jgz	0127	gěi	give	adp	adp				
-mandarin	jgz	0127	ZERO	0_us	pro.1:obl	pro	1	obl	2021	
+mandarin	jgz	0127	ZERO	0_us	0.1:obl	0	1	obl	2021	
 mandarin	jgz	0127	kànkàn	red-look	v:pred	v		pred		
 mandarin	jgz	0127	ZERO	0_him	0.h:p	0	h	p	2001	
 mandarin	jgz	0128	#	#	##ds	##ds				
@@ -2219,13 +2219,14 @@ mandarin	jgz	0265	miào	temple	np:l	np		l	2068
 mandarin	jgz	0265	lǐ	inside	rn_adp	rn_adp				
 mandarin	jgz	0265	jiù	ADV	other	other				
 mandarin	jgz	0265	zhùxiàlái	settle	v:pred	v		pred		
-mandarin	jgz	0266	#	#	##ac	##ac				
+mandarin	jgz	0266	#	#	##neg	##neg				
+mandarin	jgz	0266	#	#	#ac	#ac				
 mandarin	jgz	0266	ZERO	0_he	0.h:s	0	h	s	2001	
 mandarin	jgz	0266	zhé	DEM	other	other				
 mandarin	jgz	0266	gè	CL	other	other				
 mandarin	jgz	0266	zhùxiàlái	settle	v:pred	v		pred		
 mandarin	jgz	0266	zhīhòu	after	other	other				
-mandarin	jgz	0267	#	#	#neg	#neg				
+mandarin	jgz	0266	%	%	%	%				
 mandarin	jgz	0267	ZERO	0_he	0.h:s	0	h	s	2001	
 mandarin	jgz	0267	gēn	ADP	adp	adp				
 mandarin	jgz	0267	yǐqián	before	other	other				
@@ -2387,12 +2388,13 @@ mandarin	jgz	0285	wǒ	1SG	pro.1:p	pro	1	p	2073
 mandarin	jgz	0285	dài	catch	v:pred	v		pred		
 mandarin	jgz	0285	zhe	ASP	rv_asp	rv_asp				
 mandarin	jgz	0285	nǐ	2SG	pro.2:p	pro	2	p	2001	
+mandarin	jgz	0286	#	#	##ds	##ds				
 mandarin	jgz	0286	#	#	#ds_ac	#ds_ac				
 mandarin	jgz	0286	ZERO	0_I	0.1:a	0	1	a	2073	
 mandarin	jgz	0286	dài	catch	v:pred	v		pred		
 mandarin	jgz	0286	zhe	ASP	rv_asp	rv_asp				
 mandarin	jgz	0286	nǐ	2SG	pro.2:p	pro	2	p	2001	
-mandarin	jgz	0286	#	#	#ds	#ds				
+mandarin	jgz	0286	%	%	%	%				
 mandarin	jgz	0286	ZERO	0_I	0.1:s	0	1	s	2073	
 mandarin	jgz	0286	yīdìng	necessarily	other	other				
 mandarin	jgz	0286	yào	want	other	other				
@@ -2650,7 +2652,7 @@ mandarin	jgz	0309	bǎobèi	baby	ln_np	ln_np
 mandarin	jgz	0309	jiāshā	cape	np:voc	np		voc	2098	
 mandarin	jgz	0309	yā	oh	other	other				
 mandarin	jgz	0310	#	#	##	##				
-mandarin	jgz	0310	ZERO	0_he	pro.h:s_ds	pro	h	s_ds	2073	
+mandarin	jgz	0310	ZERO	0_he	0.h:s_ds	0	h	s_ds	2073	
 mandarin	jgz	0310	wéishénme	why	other	other				
 mandarin	jgz	0310	zhème	this	pro:other	pro		other		
 mandarin	jgz	0310	shuō	say	v:pred	v		pred		
@@ -2866,7 +2868,7 @@ mandarin	jgz	0334	zhǎo	search	v:pred	v		pred
 mandarin	jgz	0334	miào	temple	np:l	np		l	2068	
 mandarin	jgz	0334	lǐ	inside	rn_adp	rn_adp				
 mandarin	jgz	0335	#	#	##	##				
-mandarin	jgz	0335	ZEO	0_they	0.h:a	0	h	a	2115	
+mandarin	jgz	0335	ZERO	0_they	0.h:a	0	h	a	2115	
 mandarin	jgz	0335	ná	DEM	other	other				
 mandarin	jgz	0335	gè	CL	other	other				
 mandarin	jgz	0335	wàibiānér	outside	np:l	np		l	2120	new
@@ -3172,7 +3174,7 @@ mandarin	jgz	0371	lǐ	inside	rn_adp	rn_adp
 mandarin	jgz	0371	chī	eat	v:pred	v		pred		
 mandarin	jgz	0371	gǒuròu	dog_meat	np:p	np		p	2132	
 mandarin	jgz	0372	#	#	##ds	##ds				
-mandarin	jgz	0372	ZERO	0_you	pro.2:a	pro	2	a	2001	
+mandarin	jgz	0372	ZERO	0_you	0.2:a	0	2	a	2001	
 mandarin	jgz	0372	kàn	see	v:pred	v		pred		
 mandarin	jgz	0372	#	#	#ds_cc:p	#ds_cc		p		
 mandarin	jgz	0372	wǒ	1SG	pro.1:a	pro	1	a	2073	
@@ -3206,8 +3208,8 @@ mandarin	jgz	0375	zhuī	follow	v:pred	v		pred
 mandarin	jgz	0375	ZERO	0_he	0.h:p	0	h	p	2001	
 mandarin	jgz	0376	#	#	##	##				
 mandarin	jgz	0376	ZERO	0_he	0.h:s	0	h	s	2073	
-mandarin	jgz	0376	(kū	cry	v:pred	v		pred		
-mandarin	jgz	0376	lā)	asp_mp	rv_asp	rv_asp				
+mandarin	jgz	0376	kū	cry	v:pred	v		pred		
+mandarin	jgz	0376	lā	asp_mp	rv_asp	rv_asp				
 mandarin	jgz	0377	#	#	##	##				
 mandarin	jgz	0377	ZERO	0_he	0.h:a	0	h	a	2073	
 mandarin	jgz	0377	duì	right	other	other				
@@ -3291,7 +3293,7 @@ mandarin	jgz	0386	#	#	##ds	##ds
 mandarin	jgz	0386	wǒ	1SG	pro.1:a	pro	1	a	2073	
 mandarin	jgz	0386	kàn	see	v:pred	v		pred		
 mandarin	jgz	0386	kàn	see	rv	rv				
-mandarin	jgz	0386	ZERO	0_it	pro:p	pro		p	2135	
+mandarin	jgz	0386	ZERO	0_it	0:p	0		p	2135	
 mandarin	jgz	0387	#	#	##	##				
 mandarin	jgz	0387	huícài	stew_dish	np.h:a	np	h	a	2118	
 mandarin	jgz	0387	jiù	ADV	other	other				
@@ -3618,7 +3620,7 @@ mandarin	jgz	0418	shēnghuó	life	np:s	np		s	2148	new
 mandarin	jgz	0418	hěn	very	other	other				
 mandarin	jgz	0418	jímò	lonely	other:pred	other		pred		
 mandarin	jgz	0419	#	#	##ds	##ds				
-mandarin	jgz	0419	ZERO	0_I	pro.1:s	pro	1	s	2123	
+mandarin	jgz	0419	ZERO	0_I	0.1:s	0	1	s	2123	
 mandarin	jgz	0419	xiǎngyào	want	lv_aux	lv_aux				
 mandarin	jgz	0419	chūqù	go_out	v:pred	v		pred		
 mandarin	jgz	0419	#	#	##ds	##ds				
@@ -3647,12 +3649,12 @@ mandarin	jgz	0422	xiè	take	v:pred	v		pred
 mandarin	jgz	0422	xià	down	rv_svc	rv_svc				
 mandarin	jgz	0422	lái	come	rv_svc	rv_svc				
 mandarin	jgz	0423	#	#	##ds	##ds				
-mandarin	jgz	0423	ZERO	0_I	pro.1:a	pro	1	a	2073	
+mandarin	jgz	0423	ZERO	0_I	0.1:a	0	1	a	2073	
 mandarin	jgz	0423	dài	be_with	v:pred	v		pred		
 mandarin	jgz	0423	zhe	ASP	rv_asp	rv_asp				
 mandarin	jgz	0423	tā	3SG	pro.h:p	pro	h	p	2123	
 mandarin	jgz	0423	#	#	##ds	##ds				
-mandarin	jgz	0423	ZERO	0_we	pro.1:s	pro	1	s	2073	
+mandarin	jgz	0423	ZERO	0_we	0.1:s	0	1	s	2073	
 mandarin	jgz	0423	guàng	walk	v:pred	v		pred		
 mandarin	jgz	0423	yī	one	rv	rv				
 mandarin	jgz	0423	quānér	circle	rv	rv				
@@ -3942,7 +3944,7 @@ mandarin	jgz	0453	qiē	cut	v:pred	v		pred
 mandarin	jgz	0453	xià	down	rv_svc	rv_svc				
 mandarin	jgz	0453	lái	come	rv_svc	rv_svc				
 mandarin	jgz	0454	#	#	##ds	##ds				
-mandarin	jgz	0454	ZERO	0_we	pro.1:a	pro	1	a	2142	
+mandarin	jgz	0454	ZERO	0_we	0.1:a	0	1	a	2142	
 mandarin	jgz	0454	qiē	cut	v:pred	v		pred		
 mandarin	jgz	0454	xià	down	rv_svc	rv_svc				
 mandarin	jgz	0454	lái	come	rv_svc	rv_svc				
@@ -4058,7 +4060,7 @@ mandarin	jgz	0464	wǒ	1SG	pro.1:other	pro	1	other	2073
 mandarin	jgz	0464	má	q	other	other				
 mandarin	jgz	0464	(duì)	(right)	other	other				
 mandarin	jgz	0465	#	#	##ds	##ds				
-mandarin	jgz	0465	ZERO	0_I	pro.1:s	pro	1	s	2073	
+mandarin	jgz	0465	ZERO	0_I	0.1:s	0	1	s	2073	
 mandarin	jgz	0465	zěnme	how	other	other				
 mandarin	jgz	0465	bàn	do	v:pred	v		pred		
 mandarin	jgz	0466	#	#	##	##				

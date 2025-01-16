@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<multicast version="2001">
+<multicast version="2101">
     <corpus c_name="mandarin">
         <text t_name="hml" annotators="Maria Vollmer, Adrian Kuqi" speaker="MD01">
-            <file f_name="mc_mandarin_hml" audio="mc_mandarin_hml.wav" updated="2020-01-12">
+            <file f_name="mc_mandarin_hml" audio="mc_mandarin_hml.wav" updated="2020-11-10">
                 <unit uid="0001" start_time="0" end_time="4031">
                     <utterance_id>mandarin_hml_0001</utterance_id>
                     <utterance>ok hǎo le ké</utterance>
@@ -921,7 +921,7 @@
                         <segment>
                             <gword>mùlán</gword>
                             <gloss>Mulan</gloss>
-                            <graid>np.h:dt_s</graid>
+                            <graid>pn_np.h:dt_s</graid>
                             <refind>1001</refind>
                         </segment>
                         <segment>
@@ -948,7 +948,7 @@
                         <segment>
                             <gword>suígōng</gword>
                             <gloss>Suigong</gloss>
-                            <graid>np:pred</graid>
+                            <graid>pn_np:pred</graid>
                         </segment>
                     </annotations>
                 </unit>
@@ -2687,7 +2687,7 @@
                         <segment>
                             <gword>huāhú</gword>
                             <gloss>Huahu</gloss>
-                            <graid>np.h:dt</graid>
+                            <graid>pn_np.h:dt</graid>
                             <refind>1003</refind>
                         </segment>
                         <segment>
@@ -3963,7 +3963,7 @@
                         <segment>
                             <gword>huāhú</gword>
                             <gloss>Huahu</gloss>
-                            <graid>np.h:dt_a</graid>
+                            <graid>pn_np.h:dt_a</graid>
                             <refind>1003</refind>
                         </segment>
                         <segment>
@@ -6014,7 +6014,7 @@
                         <segment>
                             <gword>mùlán</gword>
                             <gloss>Mulan</gloss>
-                            <graid>pn_np.h:dt_s</graid>
+                            <graid>pn_np.h:dt_poss</graid>
                             <refind>1001</refind>
                         </segment>
                         <segment>
@@ -12048,13 +12048,13 @@
                         <segment>
                             <gword>hè</gword>
                             <gloss>He</gloss>
-                            <graid>ln_pn_np.h</graid>
+                            <graid>pn_np.h:s_ds</graid>
+                            <refind>1065</refind>
                         </segment>
                         <segment>
                             <gword>yuánshuài</gword>
                             <gloss>marshal</gloss>
-                            <graid>np.h:s_ds</graid>
-                            <refind>1065</refind>
+                            <graid>rn_np.h</graid>
                         </segment>
                         <segment>
                             <gword>réng</gword>
@@ -12253,7 +12253,7 @@
                 <unit uid="0150" start_time="556786" end_time="558816">
                     <utterance_id>mandarin_hml_0150</utterance_id>
                     <utterance>zhè gè shíhòu g hè yuánshuài cái huǎngrán dàwù</utterance>
-                    <utterance_translation>At this moment, Marshal He suddenly comprehended.</utterance_translation>
+                    <utterance_translation>At this moment, Marshal He suddenly understood.</utterance_translation>
                     <annotations>
                         <segment>
                             <gword>#</gword>
@@ -12285,14 +12285,13 @@
                         <segment>
                             <gword>hè</gword>
                             <gloss>He</gloss>
-                            <graid>ln_pn_np.h</graid>
-                            <refind>1172</refind>
+                            <graid>pn_np.h:s</graid>
+                            <refind>1065</refind>
                         </segment>
                         <segment>
                             <gword>yuánshuài</gword>
                             <gloss>marshal</gloss>
-                            <graid>np.h:s</graid>
-                            <refind>1065</refind>
+                            <graid>rn_np.h</graid>
                         </segment>
                         <segment>
                             <gword>cái</gword>
@@ -12465,13 +12464,13 @@
                         <segment>
                             <gword>he</gword>
                             <gloss>He</gloss>
-                            <graid>ln_pn_np.h</graid>
+                            <graid>pn_np.h:g</graid>
+                            <refind>1065</refind>
                         </segment>
                         <segment>
                             <gword>yuánshuài</gword>
                             <gloss>marshal</gloss>
-                            <graid>np.h:g</graid>
-                            <refind>1065</refind>
+                            <graid>rn_np.h</graid>
                         </segment>
                         <segment>
                             <gword>qǐngzuì</gword>
@@ -12596,14 +12595,13 @@
                         <segment>
                             <gword>he</gword>
                             <gloss>He</gloss>
-                            <graid>pn_np.h</graid>
-                            <refind>1172</refind>
+                            <graid>pn_np.h:g</graid>
+                            <refind>1065</refind>
                         </segment>
                         <segment>
                             <gword>yuánshuài</gword>
                             <gloss>marshal</gloss>
-                            <graid>np.h:g</graid>
-                            <refind>1065</refind>
+                            <graid>rn_np.h</graid>
                         </segment>
                         <segment>
                             <gword>qǐng</gword>
@@ -12908,13 +12906,13 @@
                         <segment>
                             <gword>hè</gword>
                             <gloss>He</gloss>
-                            <graid>ln_pn_np.h</graid>
+                            <graid>pn_np.h:a</graid>
+                            <refind>1065</refind>
                         </segment>
                         <segment>
                             <gword>yuánshuài</gword>
                             <gloss>marshal</gloss>
-                            <graid>np.h:a</graid>
-                            <refind>1065</refind>
+                            <graid>rn_np.h</graid>
                         </segment>
                         <segment>
                             <gword>tīng</gword>

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ANNOTATION_DOCUMENT xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" AUTHOR="" DATE="2020-01-12T16:45:14+01:00" FORMAT="2.8" VERSION="2.8" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv2.8.xsd">
+<ANNOTATION_DOCUMENT xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" AUTHOR="" DATE="2020-10-01T13:12:21+01:00" FORMAT="2.8" VERSION="2.8" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv2.8.xsd">
     <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
         <MEDIA_DESCRIPTOR MEDIA_URL="mc_mandarin_lzh.wav" MIME_TYPE="audio/x-wav"/>
         <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:05b8cdf6-727c-4425-8841-166d32ceaf5f</PROPERTY>
-        <PROPERTY NAME="lastUsedAnnotationId">8883</PROPERTY>
+        <PROPERTY NAME="lastUsedAnnotationId">9095</PROPERTY>
     </HEADER>
     <TIME_ORDER>
         <TIME_SLOT TIME_SLOT_ID="ts1" TIME_VALUE="0"/>
@@ -10637,12 +10637,7 @@
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a5706" ANNOTATION_REF="a530" PREVIOUS_ANNOTATION="a5705">
-                <ANNOTATION_VALUE>ZERO</ANNOTATION_VALUE>
-            </REF_ANNOTATION>
-        </ANNOTATION>
-        <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a1590" ANNOTATION_REF="a530" PREVIOUS_ANNOTATION="a5706">
+            <REF_ANNOTATION ANNOTATION_ID="a1590" ANNOTATION_REF="a530" PREVIOUS_ANNOTATION="a5705">
                 <ANNOTATION_VALUE>xièxiè</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
@@ -18894,11 +18889,6 @@
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a5709" ANNOTATION_REF="a5706">
-                <ANNOTATION_VALUE>0_I</ANNOTATION_VALUE>
-            </REF_ANNOTATION>
-        </ANNOTATION>
-        <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a2511" ANNOTATION_REF="a1590">
                 <ANNOTATION_VALUE>thank</ANNOTATION_VALUE>
             </REF_ANNOTATION>
@@ -19127,7 +19117,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a6702" ANNOTATION_REF="a1627">
-                <ANNOTATION_VALUE>np:dt_a</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>pn_np:dt_a</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -19162,7 +19152,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a6709" ANNOTATION_REF="a1634">
-                <ANNOTATION_VALUE>ln_np</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>ln_pn_np</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -19172,7 +19162,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a6711" ANNOTATION_REF="a1636">
-                <ANNOTATION_VALUE>np:p</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>pn_np:p</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -19182,7 +19172,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a6713" ANNOTATION_REF="a1638">
-                <ANNOTATION_VALUE>np:appos</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>pn_np:appos</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -20102,7 +20092,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a6897" ANNOTATION_REF="a1772">
-                <ANNOTATION_VALUE>np:obl</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>pn_np:obl</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -20402,7 +20392,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a6957" ANNOTATION_REF="a1812">
-                <ANNOTATION_VALUE>np.h:obl</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>pn_np.h:obl</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -20892,7 +20882,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a7055" ANNOTATION_REF="a1876">
-                <ANNOTATION_VALUE>np:p</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>pn_np:p</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -20942,7 +20932,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a7065" ANNOTATION_REF="a2615">
-                <ANNOTATION_VALUE>np:l</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>pn_np:l</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -27151,11 +27141,6 @@
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a8307" ANNOTATION_REF="a5709">
-                <ANNOTATION_VALUE>nc</ANNOTATION_VALUE>
-            </REF_ANNOTATION>
-        </ANNOTATION>
-        <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a8308" ANNOTATION_REF="a2511">
                 <ANNOTATION_VALUE>nc</ANNOTATION_VALUE>
             </REF_ANNOTATION>
@@ -29335,709 +29320,1051 @@
             </REF_ANNOTATION>
         </ANNOTATION>
     </TIER>
+    <TIER ANNOTATOR="Adrian Kuqi" LINGUISTIC_TYPE_REF="symbolic_association" PARENT_REF="graid" PARTICIPANT="MD03" TIER_ID="predsem">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a8884" ANNOTATION_REF="a6692">
+                <ANNOTATION_VALUE>spe</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a8885" ANNOTATION_REF="a6707">
+                <ANNOTATION_VALUE>pos</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a8886" ANNOTATION_REF="a6772">
+                <ANNOTATION_VALUE>neu</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a8887" ANNOTATION_REF="a6795">
+                <ANNOTATION_VALUE>neu</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a8888" ANNOTATION_REF="a6811">
+                <ANNOTATION_VALUE>pos</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a8889" ANNOTATION_REF="a6821">
+                <ANNOTATION_VALUE>neu</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a8890" ANNOTATION_REF="a6833">
+                <ANNOTATION_VALUE>neu</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a8891" ANNOTATION_REF="a6865">
+                <ANNOTATION_VALUE>pos</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a8892" ANNOTATION_REF="a6881">
+                <ANNOTATION_VALUE>neu</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a8893" ANNOTATION_REF="a6921">
+                <ANNOTATION_VALUE>pos_res</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a8894" ANNOTATION_REF="a6937">
+                <ANNOTATION_VALUE>pos</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a8895" ANNOTATION_REF="a6963">
+                <ANNOTATION_VALUE>cau_vol</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a8896" ANNOTATION_REF="a6983">
+                <ANNOTATION_VALUE>neu_res</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a8897" ANNOTATION_REF="a6995">
+                <ANNOTATION_VALUE>cau_vol</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a8898" ANNOTATION_REF="a7024">
+                <ANNOTATION_VALUE>act</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a8899" ANNOTATION_REF="a7033">
+                <ANNOTATION_VALUE>exp</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a8900" ANNOTATION_REF="a7054">
+                <ANNOTATION_VALUE>neu</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a8901" ANNOTATION_REF="a7081">
+                <ANNOTATION_VALUE>neu</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a8902" ANNOTATION_REF="a7132">
+                <ANNOTATION_VALUE>neu</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a8903" ANNOTATION_REF="a7154">
+                <ANNOTATION_VALUE>exp</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a8904" ANNOTATION_REF="a7178">
+                <ANNOTATION_VALUE>exp</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a8905" ANNOTATION_REF="a7223">
+                <ANNOTATION_VALUE>act</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a8906" ANNOTATION_REF="a7266">
+                <ANNOTATION_VALUE>neu_res</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a8907" ANNOTATION_REF="a7283">
+                <ANNOTATION_VALUE>spe</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a8908" ANNOTATION_REF="a7304">
+                <ANNOTATION_VALUE>neu</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a8909" ANNOTATION_REF="a7324">
+                <ANNOTATION_VALUE>neu_res</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a8910" ANNOTATION_REF="a7327">
+                <ANNOTATION_VALUE>neu_res</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a8911" ANNOTATION_REF="a7335">
+                <ANNOTATION_VALUE>neu_res</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a8912" ANNOTATION_REF="a7339">
+                <ANNOTATION_VALUE>neu_res</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a8913" ANNOTATION_REF="a7351">
+                <ANNOTATION_VALUE>act</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a8914" ANNOTATION_REF="a7355">
+                <ANNOTATION_VALUE>spe</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a8915" ANNOTATION_REF="a7360">
+                <ANNOTATION_VALUE>act_mot_dir_res</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a8916" ANNOTATION_REF="a7385">
+                <ANNOTATION_VALUE>exp</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a8917" ANNOTATION_REF="a7456">
+                <ANNOTATION_VALUE>act_mot_dir_res</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a8918" ANNOTATION_REF="a7473">
+                <ANNOTATION_VALUE>exp</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a8919" ANNOTATION_REF="a7489">
+                <ANNOTATION_VALUE>act_mot_dir</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a8920" ANNOTATION_REF="a7509">
+                <ANNOTATION_VALUE>exp</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a8921" ANNOTATION_REF="a7532">
+                <ANNOTATION_VALUE>exp_perc</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a8922" ANNOTATION_REF="a7636">
+                <ANNOTATION_VALUE>spe</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a8923" ANNOTATION_REF="a7648">
+                <ANNOTATION_VALUE>spe</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a8924" ANNOTATION_REF="a7671">
+                <ANNOTATION_VALUE>neu</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a8925" ANNOTATION_REF="a7722">
+                <ANNOTATION_VALUE>cau_vol</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a8926" ANNOTATION_REF="a7759">
+                <ANNOTATION_VALUE>act_mot_dir_res</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a8927" ANNOTATION_REF="a7770">
+                <ANNOTATION_VALUE>act</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a8928" ANNOTATION_REF="a7841">
+                <ANNOTATION_VALUE>exp</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a8929" ANNOTATION_REF="a7848">
+                <ANNOTATION_VALUE>act_mot_dir_res</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a8930" ANNOTATION_REF="a7892">
+                <ANNOTATION_VALUE>neu_res</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a8931" ANNOTATION_REF="a7905">
+                <ANNOTATION_VALUE>other</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a8932" ANNOTATION_REF="a7914">
+                <ANNOTATION_VALUE>cau_vol</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a8933" ANNOTATION_REF="a7929">
+                <ANNOTATION_VALUE>exp</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a8934" ANNOTATION_REF="a7936">
+                <ANNOTATION_VALUE>neu_res</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a8935" ANNOTATION_REF="a7946">
+                <ANNOTATION_VALUE>cau_vol</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a8936" ANNOTATION_REF="a7958">
+                <ANNOTATION_VALUE>act_mot_dir</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a8937" ANNOTATION_REF="a7968">
+                <ANNOTATION_VALUE>pos</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a8938" ANNOTATION_REF="a7981">
+                <ANNOTATION_VALUE>act_mot</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a8939" ANNOTATION_REF="a8007">
+                <ANNOTATION_VALUE>cau_vol</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a8940" ANNOTATION_REF="a8011">
+                <ANNOTATION_VALUE>cau_vol</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a8941" ANNOTATION_REF="a8053">
+                <ANNOTATION_VALUE>cau_vol</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a8942" ANNOTATION_REF="a8061">
+                <ANNOTATION_VALUE>neu</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a8943" ANNOTATION_REF="a8079">
+                <ANNOTATION_VALUE>other xxx later &lt;proc&gt;</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a8944" ANNOTATION_REF="a8082">
+                <ANNOTATION_VALUE>act xxx later &lt;proc&gt;</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a8945" ANNOTATION_REF="a8084">
+                <ANNOTATION_VALUE>act xxx later &lt;proc&gt;</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a8946" ANNOTATION_REF="a8164">
+                <ANNOTATION_VALUE>act_mot_dir</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a8947" ANNOTATION_REF="a8177">
+                <ANNOTATION_VALUE>act xxx later &lt;proc&gt;</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a8948" ANNOTATION_REF="a8187">
+                <ANNOTATION_VALUE>neu_res xxx later &lt;proc_res&gt;</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a8949" ANNOTATION_REF="a8190">
+                <ANNOTATION_VALUE>neu_res xxx later &lt;proc_res&gt;</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a8950" ANNOTATION_REF="a8202">
+                <ANNOTATION_VALUE>exp_perc</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a8951" ANNOTATION_REF="a8220">
+                <ANNOTATION_VALUE>act_mot</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
     <TIER ANNOTATOR="Maria Vollmer" LINGUISTIC_TYPE_REF="symbolic_association" PARENT_REF="utterance" PARTICIPANT="MD03" TIER_ID="utterance_translation">
         <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a8743" ANNOTATION_REF="a391">
+            <REF_ANNOTATION ANNOTATION_ID="a8955" ANNOTATION_REF="a391">
                 <ANNOTATION_VALUE>Alright, let's begin. You have already pressed 'start' for me. Let us begin.</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a8744" ANNOTATION_REF="a392">
+            <REF_ANNOTATION ANNOTATION_ID="a8956" ANNOTATION_REF="a392">
                 <ANNOTATION_VALUE>Well, today I tell you a story about Liangshanbo and Zhuyingtai.</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a8745" ANNOTATION_REF="a393">
+            <REF_ANNOTATION ANNOTATION_ID="a8957" ANNOTATION_REF="a393">
                 <ANNOTATION_VALUE>Well Liang and Zhu, actually they are like our Chinese Romeo and Juliet.</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a8746" ANNOTATION_REF="a394">
+            <REF_ANNOTATION ANNOTATION_ID="a8958" ANNOTATION_REF="a394">
                 <ANNOTATION_VALUE>This story, in the beginning it gives people a very happy feeling, a very lucky one.</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a8747" ANNOTATION_REF="a395">
+            <REF_ANNOTATION ANNOTATION_ID="a8959" ANNOTATION_REF="a395">
                 <ANNOTATION_VALUE>but when I tell it until the end, the result, it is rather tragic.</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a8748" ANNOTATION_REF="a396">
+            <REF_ANNOTATION ANNOTATION_ID="a8960" ANNOTATION_REF="a396">
                 <ANNOTATION_VALUE>Then, in the beginning, a long time ago there was a landlord named Zhu.</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a8749" ANNOTATION_REF="a397">
+            <REF_ANNOTATION ANNOTATION_ID="a8961" ANNOTATION_REF="a397">
                 <ANNOTATION_VALUE>He was called Zhu landlord by people.</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a8750" ANNOTATION_REF="a398">
+            <REF_ANNOTATION ANNOTATION_ID="a8962" ANNOTATION_REF="a398">
                 <ANNOTATION_VALUE>The landlords of that time are like us now, in a certain place, and he had money.</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a8751" ANNOTATION_REF="a399">
+            <REF_ANNOTATION ANNOTATION_ID="a8963" ANNOTATION_REF="a399">
                 <ANNOTATION_VALUE>He was a big merchant from a rich family.</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a8752" ANNOTATION_REF="a400">
+            <REF_ANNOTATION ANNOTATION_ID="a8964" ANNOTATION_REF="a400">
                 <ANNOTATION_VALUE>But Zhu landlord had a daughter.</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a8753" ANNOTATION_REF="a401">
+            <REF_ANNOTATION ANNOTATION_ID="a8965" ANNOTATION_REF="a401">
                 <ANNOTATION_VALUE>She was called Zhu Yingtai.</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a8754" ANNOTATION_REF="a402">
+            <REF_ANNOTATION ANNOTATION_ID="a8966" ANNOTATION_REF="a402">
                 <ANNOTATION_VALUE>Zhuyingtai, this girl, looked very beautiful, generous.</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a8755" ANNOTATION_REF="a403">
+            <REF_ANNOTATION ANNOTATION_ID="a8967" ANNOTATION_REF="a403">
                 <ANNOTATION_VALUE>And she was extremely smart and well studied.</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a8756" ANNOTATION_REF="a404">
+            <REF_ANNOTATION ANNOTATION_ID="a8968" ANNOTATION_REF="a404">
                 <ANNOTATION_VALUE>And they, the Zhu family, had an ethnic rule.</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a8757" ANNOTATION_REF="a405">
+            <REF_ANNOTATION ANNOTATION_ID="a8969" ANNOTATION_REF="a405">
                 <ANNOTATION_VALUE>Their ethnic rule was rather discriminating with regards to women.</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a8758" ANNOTATION_REF="a406">
+            <REF_ANNOTATION ANNOTATION_ID="a8970" ANNOTATION_REF="a406">
                 <ANNOTATION_VALUE>Just like the one you just told</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a8759" ANNOTATION_REF="a407">
+            <REF_ANNOTATION ANNOTATION_ID="a8971" ANNOTATION_REF="a407">
                 <ANNOTATION_VALUE>just like Huamulan</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a8760" ANNOTATION_REF="a408">
+            <REF_ANNOTATION ANNOTATION_ID="a8972" ANNOTATION_REF="a408">
                 <ANNOTATION_VALUE>Then women, they</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a8761" ANNOTATION_REF="a409">
+            <REF_ANNOTATION ANNOTATION_ID="a8973" ANNOTATION_REF="a409">
                 <ANNOTATION_VALUE>Their ethnic rule was that Zhu landlord could only give his property as inheritance to sons, but not to daughters.</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a8762" ANNOTATION_REF="a410">
+            <REF_ANNOTATION ANNOTATION_ID="a8974" ANNOTATION_REF="a410">
                 <ANNOTATION_VALUE>But their Zhu family, they had no sons.</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a8763" ANNOTATION_REF="a411">
+            <REF_ANNOTATION ANNOTATION_ID="a8975" ANNOTATION_REF="a411">
                 <ANNOTATION_VALUE>They only had a daughter.</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a8764" ANNOTATION_REF="a412">
+            <REF_ANNOTATION ANNOTATION_ID="a8976" ANNOTATION_REF="a412">
                 <ANNOTATION_VALUE>Then, so, Zhu landlord liked to dress that Zhuyingtai, since childhood, as a boy.</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a8765" ANNOTATION_REF="a413">
+            <REF_ANNOTATION ANNOTATION_ID="a8977" ANNOTATION_REF="a413">
                 <ANNOTATION_VALUE>But that Yingtai, she was both talented and beautiful.</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a8766" ANNOTATION_REF="a414">
+            <REF_ANNOTATION ANNOTATION_ID="a8978" ANNOTATION_REF="a414">
                 <ANNOTATION_VALUE>And she was comparatively well studied.</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a8767" ANNOTATION_REF="a415">
+            <REF_ANNOTATION ANNOTATION_ID="a8979" ANNOTATION_REF="a415">
                 <ANNOTATION_VALUE>When she was old enough to go to school, Zhu landlord decided to send her to a convent to study, because</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a8768" ANNOTATION_REF="a416">
+            <REF_ANNOTATION ANNOTATION_ID="a8980" ANNOTATION_REF="a416">
                 <ANNOTATION_VALUE>Because that Bixian convent was like ... in ancient times, women and men were not allowed to study together.</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a8769" ANNOTATION_REF="a417">
+            <REF_ANNOTATION ANNOTATION_ID="a8981" ANNOTATION_REF="a417">
                 <ANNOTATION_VALUE>And a woman, she should not understand many things if possible.</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a8770" ANNOTATION_REF="a418">
+            <REF_ANNOTATION ANNOTATION_ID="a8982" ANNOTATION_REF="a418">
                 <ANNOTATION_VALUE>Then, (he) send her to a place called Bixian convent to study.</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a8771" ANNOTATION_REF="a419">
+            <REF_ANNOTATION ANNOTATION_ID="a8983" ANNOTATION_REF="a419">
                 <ANNOTATION_VALUE>When (she) studied at Bixian convent, then, she met a classmate.</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a8772" ANNOTATION_REF="a420">
+            <REF_ANNOTATION ANNOTATION_ID="a8984" ANNOTATION_REF="a420">
                 <ANNOTATION_VALUE>This classmate was called Liangshanbo.</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a8773" ANNOTATION_REF="a421">
+            <REF_ANNOTATION ANNOTATION_ID="a8985" ANNOTATION_REF="a421">
                 <ANNOTATION_VALUE>Haha. Continue, go. Press stop first. Okay. Then she met a, dressed as a boy, her first friend, (he) was called Liangshanbo.</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a8774" ANNOTATION_REF="a422">
+            <REF_ANNOTATION ANNOTATION_ID="a8986" ANNOTATION_REF="a422">
                 <ANNOTATION_VALUE>In Liangshanbo's home, compared to Zhuyingtai, (it) was a lot worse.</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a8775" ANNOTATION_REF="a423">
+            <REF_ANNOTATION ANNOTATION_ID="a8987" ANNOTATION_REF="a423">
                 <ANNOTATION_VALUE>Then the first day in school</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a8776" ANNOTATION_REF="a424">
+            <REF_ANNOTATION ANNOTATION_ID="a8988" ANNOTATION_REF="a424">
                 <ANNOTATION_VALUE>Zhuyingtai was attracted to Liangshanbo, this person who had outstanding knowledge, and this person who was excelled greatly.</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a8777" ANNOTATION_REF="a425">
+            <REF_ANNOTATION ANNOTATION_ID="a8989" ANNOTATION_REF="a425">
                 <ANNOTATION_VALUE>She thought to herself:</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a8778" ANNOTATION_REF="a426">
+            <REF_ANNOTATION ANNOTATION_ID="a8990" ANNOTATION_REF="a426">
                 <ANNOTATION_VALUE>Oh, this good man, if (we) could be together every day</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a8779" ANNOTATION_REF="a427">
+            <REF_ANNOTATION ANNOTATION_ID="a8991" ANNOTATION_REF="a427">
                 <ANNOTATION_VALUE>(I) will surely learn a lot of things.</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a8780" ANNOTATION_REF="a428">
+            <REF_ANNOTATION ANNOTATION_ID="a8992" ANNOTATION_REF="a428">
                 <ANNOTATION_VALUE>And (I) will also surely be very happy.</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a8781" ANNOTATION_REF="a429">
+            <REF_ANNOTATION ANNOTATION_ID="a8993" ANNOTATION_REF="a429">
                 <ANNOTATION_VALUE>And Lianshanbo, he himself thought that he and Zhuyingtai were kindred spirits, that (they) had the same karma.</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a8782" ANNOTATION_REF="a430">
+            <REF_ANNOTATION ANNOTATION_ID="a8994" ANNOTATION_REF="a430">
                 <ANNOTATION_VALUE>So (they) were friends at first sight.</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a8783" ANNOTATION_REF="a431">
+            <REF_ANNOTATION ANNOTATION_ID="a8995" ANNOTATION_REF="a431">
                 <ANNOTATION_VALUE>The two of them were often together.</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a8784" ANNOTATION_REF="a432">
+            <REF_ANNOTATION ANNOTATION_ID="a8996" ANNOTATION_REF="a432">
                 <ANNOTATION_VALUE>(They) read poems and scriptures.</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a8785" ANNOTATION_REF="a433">
+            <REF_ANNOTATION ANNOTATION_ID="a8997" ANNOTATION_REF="a433">
                 <ANNOTATION_VALUE>(They) had much in common.</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a8786" ANNOTATION_REF="a434">
+            <REF_ANNOTATION ANNOTATION_ID="a8998" ANNOTATION_REF="a434">
                 <ANNOTATION_VALUE>They cared about each other, (they) were considerate, (they) were intimately side by side.</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a8787" ANNOTATION_REF="a435">
+            <REF_ANNOTATION ANNOTATION_ID="a8999" ANNOTATION_REF="a435">
                 <ANNOTATION_VALUE>In the end, the two became sworn brothers.</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a8788" ANNOTATION_REF="a5084">
+            <REF_ANNOTATION ANNOTATION_ID="a9000" ANNOTATION_REF="a5084">
                 <ANNOTATION_VALUE>At that time, their relationship had already become very, very good, just like our best girlfriends [guimi] nowadays.</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a8789" ANNOTATION_REF="a437">
+            <REF_ANNOTATION ANNOTATION_ID="a9001" ANNOTATION_REF="a437">
                 <ANNOTATION_VALUE>Just like best girlfriends [guimi] between girls, and [best boyfriends] between boys</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a8790" ANNOTATION_REF="a438">
+            <REF_ANNOTATION ANNOTATION_ID="a9002" ANNOTATION_REF="a438">
                 <ANNOTATION_VALUE>best boyfriends, yes, like best boyfriends [jiyou]</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a8791" ANNOTATION_REF="a439">
+            <REF_ANNOTATION ANNOTATION_ID="a9003" ANNOTATION_REF="a439">
                 <ANNOTATION_VALUE>The two, (they) were together at all times.</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a8792" ANNOTATION_REF="a440">
+            <REF_ANNOTATION ANNOTATION_ID="a9004" ANNOTATION_REF="a440">
                 <ANNOTATION_VALUE>Spring went, Autumn came, this way three years went by.</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a8793" ANNOTATION_REF="a441">
+            <REF_ANNOTATION ANNOTATION_ID="a9005" ANNOTATION_REF="a441">
                 <ANNOTATION_VALUE>Studying time was over.</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a8794" ANNOTATION_REF="a442">
+            <REF_ANNOTATION ANNOTATION_ID="a9006" ANNOTATION_REF="a442">
                 <ANNOTATION_VALUE>At this moment, (they) had to dress for traveling, (they) said goodbye to the teachers, (they) went back home.</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a8795" ANNOTATION_REF="a443">
+            <REF_ANNOTATION ANNOTATION_ID="a9007" ANNOTATION_REF="a443">
                 <ANNOTATION_VALUE>At this moment, the two had to leave each other.</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a8796" ANNOTATION_REF="a444">
+            <REF_ANNOTATION ANNOTATION_ID="a9008" ANNOTATION_REF="a444">
                 <ANNOTATION_VALUE>They, the two surely, in these three years, had developed very deep feelings for each other, (they) could not bare to leave each other.</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a8797" ANNOTATION_REF="a5238">
+            <REF_ANNOTATION ANNOTATION_ID="a9009" ANNOTATION_REF="a5238">
                 <ANNOTATION_VALUE>They had studied together for three years (lit. same window, candle together, three whole years).</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a8798" ANNOTATION_REF="a446">
+            <REF_ANNOTATION ANNOTATION_ID="a9010" ANNOTATION_REF="a446">
                 <ANNOTATION_VALUE>Zhuyingtai had already deeply fallen in love with her brother Liang.</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a8799" ANNOTATION_REF="a447">
+            <REF_ANNOTATION ANNOTATION_ID="a9011" ANNOTATION_REF="a447">
                 <ANNOTATION_VALUE>Then Liang Shanbo, even though he did not know that Zhu Yingtai was a girl, but he admired her greatly as well.</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a8800" ANNOTATION_REF="a448">
+            <REF_ANNOTATION ANNOTATION_ID="a9012" ANNOTATION_REF="a448">
                 <ANNOTATION_VALUE>Everyday, they, it was that kind of love, they thought about each other day and night, everyday.</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a8801" ANNOTATION_REF="a449">
+            <REF_ANNOTATION ANNOTATION_ID="a9013" ANNOTATION_REF="a449">
                 <ANNOTATION_VALUE>Then, a few months after they had gone home.</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a8802" ANNOTATION_REF="a450">
+            <REF_ANNOTATION ANNOTATION_ID="a9014" ANNOTATION_REF="a450">
                 <ANNOTATION_VALUE>Then, Liang Shanbo decided, then, not to suppress the feelings in his heart.</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a8803" ANNOTATION_REF="a451">
+            <REF_ANNOTATION ANNOTATION_ID="a9015" ANNOTATION_REF="a451">
                 <ANNOTATION_VALUE>He would go to the home of Zhu Yingtai to visit them.</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a8804" ANNOTATION_REF="a452">
+            <REF_ANNOTATION ANNOTATION_ID="a9016" ANNOTATION_REF="a452">
                 <ANNOTATION_VALUE>As a result, this visit pleasantly surprised him.</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a8805" ANNOTATION_REF="a453">
+            <REF_ANNOTATION ANNOTATION_ID="a9017" ANNOTATION_REF="a453">
                 <ANNOTATION_VALUE>As it turns out, this delicate and pretty little scholar was a young pretty lady.</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a8806" ANNOTATION_REF="a454">
+            <REF_ANNOTATION ANNOTATION_ID="a9018" ANNOTATION_REF="a454">
                 <ANNOTATION_VALUE>Hahaha. In that moment, think,</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a8807" ANNOTATION_REF="a455">
+            <REF_ANNOTATION ANNOTATION_ID="a9019" ANNOTATION_REF="a455">
                 <ANNOTATION_VALUE>Liang Shanbo must have been bursting with joy.</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a8808" ANNOTATION_REF="a456">
+            <REF_ANNOTATION ANNOTATION_ID="a9020" ANNOTATION_REF="a456">
                 <ANNOTATION_VALUE>He thought, aiya, he had always really liked this brother.</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a8809" ANNOTATION_REF="a457">
+            <REF_ANNOTATION ANNOTATION_ID="a9021" ANNOTATION_REF="a457">
                 <ANNOTATION_VALUE>And he had learned that precisely this brother was a girl.</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a8810" ANNOTATION_REF="a458">
+            <REF_ANNOTATION ANNOTATION_ID="a9022" ANNOTATION_REF="a458">
                 <ANNOTATION_VALUE>Then he surely, following these thoughts, the two of them would naturally start to date each other.</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a8811" ANNOTATION_REF="a459">
+            <REF_ANNOTATION ANNOTATION_ID="a9023" ANNOTATION_REF="a459">
                 <ANNOTATION_VALUE>Surely would be together.</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a8812" ANNOTATION_REF="a460">
+            <REF_ANNOTATION ANNOTATION_ID="a9024" ANNOTATION_REF="a460">
                 <ANNOTATION_VALUE>Then, they had fallen in love with each other without needing to say a word about it.</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a8813" ANNOTATION_REF="a461">
+            <REF_ANNOTATION ANNOTATION_ID="a9025" ANNOTATION_REF="a461">
                 <ANNOTATION_VALUE>Then Liang Shanbo decided.</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a8814" ANNOTATION_REF="a462">
+            <REF_ANNOTATION ANNOTATION_ID="a9026" ANNOTATION_REF="a462">
                 <ANNOTATION_VALUE>He would ask someone to go to the Zhu family and ask for permission to marry her.</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a8815" ANNOTATION_REF="a463">
+            <REF_ANNOTATION ANNOTATION_ID="a9027" ANNOTATION_REF="a463">
                 <ANNOTATION_VALUE>But how could that landlord Zhu like (him).</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a8816" ANNOTATION_REF="a464">
+            <REF_ANNOTATION ANNOTATION_ID="a9028" ANNOTATION_REF="a464">
                 <ANNOTATION_VALUE>The Zhu family, it had a big household and lots of work, how could he like a poor scholar.</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a8817" ANNOTATION_REF="a465">
+            <REF_ANNOTATION ANNOTATION_ID="a9029" ANNOTATION_REF="a465">
                 <ANNOTATION_VALUE>That, Liang Shanbo's family was very poor.</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a8818" ANNOTATION_REF="a466">
+            <REF_ANNOTATION ANNOTATION_ID="a9030" ANNOTATION_REF="a466">
                 <ANNOTATION_VALUE>How could he like a poor, a very poor scholar?</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a8819" ANNOTATION_REF="a467">
+            <REF_ANNOTATION ANNOTATION_ID="a9031" ANNOTATION_REF="a467">
                 <ANNOTATION_VALUE>Also, he had already decided</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a8820" ANNOTATION_REF="a468">
+            <REF_ANNOTATION ANNOTATION_ID="a9032" ANNOTATION_REF="a468">
                 <ANNOTATION_VALUE>He would give his daughter to the son of a rich official (or feudal prince).</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a8821" ANNOTATION_REF="a469">
+            <REF_ANNOTATION ANNOTATION_ID="a9033" ANNOTATION_REF="a469">
                 <ANNOTATION_VALUE>This person was Ma Wencai.</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a8822" ANNOTATION_REF="a470">
+            <REF_ANNOTATION ANNOTATION_ID="a9034" ANNOTATION_REF="a470">
                 <ANNOTATION_VALUE>Ma Wencai had actually at that time also gone to the same place to study as Zhu Yingtai and Liang Shanbo.</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a8823" ANNOTATION_REF="a471">
+            <REF_ANNOTATION ANNOTATION_ID="a9035" ANNOTATION_REF="a471">
                 <ANNOTATION_VALUE>The three of them had gone to school together.</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a8824" ANNOTATION_REF="a472">
+            <REF_ANNOTATION ANNOTATION_ID="a9036" ANNOTATION_REF="a472">
                 <ANNOTATION_VALUE>But Ma Wencai had actually already known that Zhu Yingtai was a girl when they were at school.</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a8825" ANNOTATION_REF="a473">
+            <REF_ANNOTATION ANNOTATION_ID="a9037" ANNOTATION_REF="a473">
                 <ANNOTATION_VALUE>Because he, he was relatively clever at that time.</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a8826" ANNOTATION_REF="a474">
+            <REF_ANNOTATION ANNOTATION_ID="a9038" ANNOTATION_REF="a474">
                 <ANNOTATION_VALUE>He was already able to discover that Zhu Yingtai was a girl.</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a8827" ANNOTATION_REF="a475">
+            <REF_ANNOTATION ANNOTATION_ID="a9039" ANNOTATION_REF="a475">
                 <ANNOTATION_VALUE>Then, he had already decided to give his daughter to Ma Wencai.</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a8828" ANNOTATION_REF="a476">
+            <REF_ANNOTATION ANNOTATION_ID="a9040" ANNOTATION_REF="a476">
                 <ANNOTATION_VALUE>So at this time, Liang Shanbo must have immediately felt completely disheartened.</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a8829" ANNOTATION_REF="a477">
+            <REF_ANNOTATION ANNOTATION_ID="a9041" ANNOTATION_REF="a477">
                 <ANNOTATION_VALUE>Then, as a result, after he went back home, he was depressed.</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a8830" ANNOTATION_REF="a478">
+            <REF_ANNOTATION ANNOTATION_ID="a9042" ANNOTATION_REF="a478">
                 <ANNOTATION_VALUE>Then he did not even contact people that much.</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a8831" ANNOTATION_REF="a479">
+            <REF_ANNOTATION ANNOTATION_ID="a9043" ANNOTATION_REF="a479">
                 <ANNOTATION_VALUE>Yes, then it was this way.</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a8832" ANNOTATION_REF="a480">
+            <REF_ANNOTATION ANNOTATION_ID="a9044" ANNOTATION_REF="a480">
                 <ANNOTATION_VALUE>He was sick until death, he was sick until death.</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a8833" ANNOTATION_REF="a481">
+            <REF_ANNOTATION ANNOTATION_ID="a9045" ANNOTATION_REF="a481">
                 <ANNOTATION_VALUE>Then after a short time he died.</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a8834" ANNOTATION_REF="a482">
+            <REF_ANNOTATION ANNOTATION_ID="a9046" ANNOTATION_REF="a482">
                 <ANNOTATION_VALUE>[Zhu Yingtai who] heard the message that Liang Shanbo had died</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a8835" ANNOTATION_REF="a483">
+            <REF_ANNOTATION ANNOTATION_ID="a9047" ANNOTATION_REF="a483">
                 <ANNOTATION_VALUE>[who was] Then going here again.</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a8836" ANNOTATION_REF="a484">
+            <REF_ANNOTATION ANNOTATION_ID="a9048" ANNOTATION_REF="a484">
                 <ANNOTATION_VALUE>[who was] accepting the parents, here still resisting the parents, being forced in an arranged marriage.</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a8837" ANNOTATION_REF="a485">
+            <REF_ANNOTATION ANNOTATION_ID="a9049" ANNOTATION_REF="a485">
                 <ANNOTATION_VALUE>She herself must have been hurt very strongly.</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a8838" ANNOTATION_REF="a486">
+            <REF_ANNOTATION ANNOTATION_ID="a9050" ANNOTATION_REF="a486">
                 <ANNOTATION_VALUE>then, her character suddenly changed.</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a8839" ANNOTATION_REF="a487">
+            <REF_ANNOTATION ANNOTATION_ID="a9051" ANNOTATION_REF="a487">
                 <ANNOTATION_VALUE>She decided</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a8840" ANNOTATION_REF="a488">
+            <REF_ANNOTATION ANNOTATION_ID="a9052" ANNOTATION_REF="a488">
                 <ANNOTATION_VALUE>to wear these red clothes and red dress,</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a8841" ANNOTATION_REF="a489">
+            <REF_ANNOTATION ANNOTATION_ID="a9053" ANNOTATION_REF="a489">
                 <ANNOTATION_VALUE>to walk in the marriage sedan for the procession [to escort the bride to the bridegroom's home for the wedding],</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a8842" ANNOTATION_REF="a490">
+            <REF_ANNOTATION ANNOTATION_ID="a9054" ANNOTATION_REF="a490">
                 <ANNOTATION_VALUE>But she had one condition</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a8843" ANNOTATION_REF="a491">
+            <REF_ANNOTATION ANNOTATION_ID="a9055" ANNOTATION_REF="a491">
                 <ANNOTATION_VALUE>This procession [to escort the bride to the wedding], you have to pass the grave of Liang Shanbo.</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a8844" ANNOTATION_REF="a492">
+            <REF_ANNOTATION ANNOTATION_ID="a9056" ANNOTATION_REF="a492">
                 <ANNOTATION_VALUE>Because she wanted to give a Kowtow to Liang Shanbo in the end.</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a8845" ANNOTATION_REF="a493">
+            <REF_ANNOTATION ANNOTATION_ID="a9057" ANNOTATION_REF="a493">
                 <ANNOTATION_VALUE>So, this procession [to escort the bride to the wedding] beat gongs on the road, (they) beat drums.</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a8846" ANNOTATION_REF="a494">
+            <REF_ANNOTATION ANNOTATION_ID="a9058" ANNOTATION_REF="a494">
                 <ANNOTATION_VALUE>They passed it like that.</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a8847" ANNOTATION_REF="a495">
+            <REF_ANNOTATION ANNOTATION_ID="a9059" ANNOTATION_REF="a495">
                 <ANNOTATION_VALUE>After (it) had passed</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a8848" ANNOTATION_REF="a496">
+            <REF_ANNOTATION ANNOTATION_ID="a9060" ANNOTATION_REF="a496">
                 <ANNOTATION_VALUE>the bridal sedan chair stopped.</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a8849" ANNOTATION_REF="a497">
+            <REF_ANNOTATION ANNOTATION_ID="a9061" ANNOTATION_REF="a497">
                 <ANNOTATION_VALUE>Zhu Yingtai walked out of the sedan chair.</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a8850" ANNOTATION_REF="a498">
+            <REF_ANNOTATION ANNOTATION_ID="a9062" ANNOTATION_REF="a498">
                 <ANNOTATION_VALUE>In this moment,</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a8851" ANNOTATION_REF="a499">
+            <REF_ANNOTATION ANNOTATION_ID="a9063" ANNOTATION_REF="a499">
                 <ANNOTATION_VALUE>she had suddenly already taken off the bridal clothes on her own body.</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a8852" ANNOTATION_REF="a500">
+            <REF_ANNOTATION ANNOTATION_ID="a9064" ANNOTATION_REF="a500">
                 <ANNOTATION_VALUE>She wore plain white clothes [often used as mourning apparel]</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a8853" ANNOTATION_REF="a501">
+            <REF_ANNOTATION ANNOTATION_ID="a9065" ANNOTATION_REF="a501">
                 <ANNOTATION_VALUE>Then she slowly walked towards the grave.</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a8854" ANNOTATION_REF="a502">
+            <REF_ANNOTATION ANNOTATION_ID="a9066" ANNOTATION_REF="a502">
                 <ANNOTATION_VALUE>(She) kneeled down , (she) sobbed loudly</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a8855" ANNOTATION_REF="a503">
+            <REF_ANNOTATION ANNOTATION_ID="a9067" ANNOTATION_REF="a503">
                 <ANNOTATION_VALUE>In a flash, there was a raging storm and thunder erupted.</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a8856" ANNOTATION_REF="a504">
+            <REF_ANNOTATION ANNOTATION_ID="a9068" ANNOTATION_REF="a504">
                 <ANNOTATION_VALUE>A voice exploded.</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a8857" ANNOTATION_REF="a505">
+            <REF_ANNOTATION ANNOTATION_ID="a9069" ANNOTATION_REF="a505">
                 <ANNOTATION_VALUE>Ai, you say, what happened?</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a8858" ANNOTATION_REF="a506">
+            <REF_ANNOTATION ANNOTATION_ID="a9070" ANNOTATION_REF="a506">
                 <ANNOTATION_VALUE>At this moment,</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a8859" ANNOTATION_REF="a507">
+            <REF_ANNOTATION ANNOTATION_ID="a9071" ANNOTATION_REF="a507">
                 <ANNOTATION_VALUE>it already carries the characteristics of a fairy tale.</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a8860" ANNOTATION_REF="a508">
+            <REF_ANNOTATION ANNOTATION_ID="a9072" ANNOTATION_REF="a508">
                 <ANNOTATION_VALUE>That grave had already split open.</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a8861" ANNOTATION_REF="a509">
+            <REF_ANNOTATION ANNOTATION_ID="a9073" ANNOTATION_REF="a509">
                 <ANNOTATION_VALUE>So Zhu Yingtai seemed to see her brother Liang again.</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a8862" ANNOTATION_REF="a510">
+            <REF_ANNOTATION ANNOTATION_ID="a9074" ANNOTATION_REF="a510">
                 <ANNOTATION_VALUE>In that moment when, you know, seemingly she went back to the time when she studied with her brother Liang,</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a8863" ANNOTATION_REF="a511">
+            <REF_ANNOTATION ANNOTATION_ID="a9075" ANNOTATION_REF="a511">
                 <ANNOTATION_VALUE>She was very happy.</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a8864" ANNOTATION_REF="a512">
+            <REF_ANNOTATION ANNOTATION_ID="a9076" ANNOTATION_REF="a512">
                 <ANNOTATION_VALUE>Then she jumped into this grave together with brother Liang.</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a8865" ANNOTATION_REF="a513">
+            <REF_ANNOTATION ANNOTATION_ID="a9077" ANNOTATION_REF="a513">
                 <ANNOTATION_VALUE>Then followed again the loud sound of the grave closing.</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a8866" ANNOTATION_REF="a514">
+            <REF_ANNOTATION ANNOTATION_ID="a9078" ANNOTATION_REF="a514">
                 <ANNOTATION_VALUE>And in this moment, the wind disappeared and the clouds scattered.</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a8867" ANNOTATION_REF="a515">
+            <REF_ANNOTATION ANNOTATION_ID="a9079" ANNOTATION_REF="a515">
                 <ANNOTATION_VALUE>Then, the ending of this story, you can see all kinds of wild flowers swaying gently in the wind.</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a8868" ANNOTATION_REF="a516">
+            <REF_ANNOTATION ANNOTATION_ID="a9080" ANNOTATION_REF="a516">
                 <ANNOTATION_VALUE>Two beautiful butterflies flew out of the grave mound, and started to dance lightly and gracefully under the sunlight.</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a8869" ANNOTATION_REF="a517">
+            <REF_ANNOTATION ANNOTATION_ID="a9081" ANNOTATION_REF="a517">
                 <ANNOTATION_VALUE>Then, this story is already finished here.</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a8870" ANNOTATION_REF="a518">
+            <REF_ANNOTATION ANNOTATION_ID="a9082" ANNOTATION_REF="a518">
                 <ANNOTATION_VALUE>Actually, the story of Liang Shanbo and Zhu Yingtai has been spread for a long time already</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a8871" ANNOTATION_REF="a519">
+            <REF_ANNOTATION ANNOTATION_ID="a9083" ANNOTATION_REF="a519">
                 <ANNOTATION_VALUE>Actually, a song was even composed for this</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a8872" ANNOTATION_REF="a520">
+            <REF_ANNOTATION ANNOTATION_ID="a9084" ANNOTATION_REF="a520">
                 <ANNOTATION_VALUE>The folk song has following lyrics.</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a8873" ANNOTATION_REF="a521">
+            <REF_ANNOTATION ANNOTATION_ID="a9085" ANNOTATION_REF="a521">
                 <ANNOTATION_VALUE>They studied at the same window for three whole years.</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a8874" ANNOTATION_REF="a522">
+            <REF_ANNOTATION ANNOTATION_ID="a9086" ANNOTATION_REF="a522">
                 <ANNOTATION_VALUE>The two innocent ones sat knee to knee and shoulder to shoulder.</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a8875" ANNOTATION_REF="a523">
+            <REF_ANNOTATION ANNOTATION_ID="a9087" ANNOTATION_REF="a523">
                 <ANNOTATION_VALUE>[FOLK SONG]</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a8876" ANNOTATION_REF="a524">
+            <REF_ANNOTATION ANNOTATION_ID="a9088" ANNOTATION_REF="a524">
                 <ANNOTATION_VALUE>[FOLK SONG]</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a8877" ANNOTATION_REF="a525">
+            <REF_ANNOTATION ANNOTATION_ID="a9089" ANNOTATION_REF="a525">
                 <ANNOTATION_VALUE>[FOLK SONG]</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a8878" ANNOTATION_REF="a526">
+            <REF_ANNOTATION ANNOTATION_ID="a9090" ANNOTATION_REF="a526">
                 <ANNOTATION_VALUE>[FOLK SONG]</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a8879" ANNOTATION_REF="a527">
+            <REF_ANNOTATION ANNOTATION_ID="a9091" ANNOTATION_REF="a527">
                 <ANNOTATION_VALUE>[FOLK SONG]</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a8880" ANNOTATION_REF="a528">
+            <REF_ANNOTATION ANNOTATION_ID="a9092" ANNOTATION_REF="a528">
                 <ANNOTATION_VALUE>[FOLK SONG]</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a8881" ANNOTATION_REF="a529">
+            <REF_ANNOTATION ANNOTATION_ID="a9093" ANNOTATION_REF="a529">
                 <ANNOTATION_VALUE>Good, the story is finished here.</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a8882" ANNOTATION_REF="a530">
+            <REF_ANNOTATION ANNOTATION_ID="a9094" ANNOTATION_REF="a530">
                 <ANNOTATION_VALUE>Thank you, haha.</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a8883" ANNOTATION_REF="a531">
+            <REF_ANNOTATION ANNOTATION_ID="a9095" ANNOTATION_REF="a531">
                 <ANNOTATION_VALUE>Haha, yes.</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>

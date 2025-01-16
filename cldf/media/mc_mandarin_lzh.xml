@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<multicast version="2001">
+<multicast version="2101">
     <corpus c_name="mandarin">
         <text t_name="lzh" annotators="Maria Vollmer" speaker="MD03">
-            <file f_name="mc_mandarin_lzh" audio="mc_mandarin_lzh.wav" updated="2020-01-12">
+            <file f_name="mc_mandarin_lzh" audio="mc_mandarin_lzh.wav" updated="2020-10-01">
                 <unit uid="0001" start_time="0" end_time="6596">
                     <utterance_id>mandarin_lzh_0001</utterance_id>
                     <utterance>hǎo, kāishǐ le. nǐ yǐjīng gěi wǒ àn kāishǐ le. kāishǐ le. èn. ò, (dua) wǒqù. āyā</utterance>
@@ -169,6 +169,7 @@
                             <gword>jiǎng</gword>
                             <gloss>talk</gloss>
                             <graid>v:pred</graid>
+                            <predsem>spe</predsem>
                         </segment>
                         <segment>
                             <gword>yí</gword>
@@ -229,7 +230,7 @@
                         <segment>
                             <gword>liángzhù</gword>
                             <gloss>Liangzhu</gloss>
-                            <graid>np:dt_a</graid>
+                            <graid>pn_np:dt_a</graid>
                             <refind>3015</refind>
                             <isnref>bridging</isnref>
                         </segment>
@@ -258,6 +259,7 @@
                             <gword>shǔyú</gword>
                             <gloss>belong_to</gloss>
                             <graid>v:pred</graid>
+                            <predsem>pos</predsem>
                         </segment>
                         <segment>
                             <gword>zánmen</gword>
@@ -267,7 +269,7 @@
                         <segment>
                             <gword>zhōngguó</gword>
                             <gloss>China</gloss>
-                            <graid>ln_np</graid>
+                            <graid>ln_pn_np</graid>
                         </segment>
                         <segment>
                             <gword>=de</gword>
@@ -277,7 +279,7 @@
                         <segment>
                             <gword>luómìōu</gword>
                             <gloss>Romeo</gloss>
-                            <graid>np:p</graid>
+                            <graid>pn_np:p</graid>
                         </segment>
                         <segment>
                             <gword>yǔ</gword>
@@ -287,7 +289,7 @@
                         <segment>
                             <gword>zhūlìyè</gword>
                             <gloss>Juliet</gloss>
-                            <graid>np:appos</graid>
+                            <graid>pn_np:appos</graid>
                         </segment>
                     </annotations>
                 </unit>
@@ -606,6 +608,7 @@
                             <gword>xìng</gword>
                             <gloss>call_by_last_name</gloss>
                             <graid>v:pred</graid>
+                            <predsem>neu</predsem>
                         </segment>
                         <segment>
                             <gword>zhù</gword>
@@ -742,6 +745,7 @@
                             <gword>xiāngdāngyú</gword>
                             <gloss>like</gloss>
                             <graid>v:pred</graid>
+                            <predsem>neu</predsem>
                         </segment>
                         <segment>
                             <gword>zánmen</gword>
@@ -823,6 +827,7 @@
                             <gword>yǒu</gword>
                             <gloss>have</gloss>
                             <graid>other:pred</graid>
+                            <predsem>pos</predsem>
                         </segment>
                         <segment>
                             <gword>qián</gword>
@@ -886,6 +891,7 @@
                             <gloss>merchant</gloss>
                             <graid>np.h:pred</graid>
                             <refind>3001</refind>
+                            <predsem>neu</predsem>
                         </segment>
                     </annotations>
                 </unit>
@@ -964,6 +970,7 @@
                             <gword>jiào</gword>
                             <gloss>call</gloss>
                             <graid>v:pred</graid>
+                            <predsem>neu</predsem>
                         </segment>
                         <segment>
                             <gword>zhùyīngtái</gword>
@@ -1154,6 +1161,7 @@
                             <gword>yǒu</gword>
                             <gloss>have</gloss>
                             <graid>v:pred</graid>
+                            <predsem>pos</predsem>
                         </segment>
                         <segment>
                             <gword>yí</gword>
@@ -1247,6 +1255,7 @@
                             <gword>qíshì</gword>
                             <gloss>discriminating</gloss>
                             <graid>other:pred</graid>
+                            <predsem>neu</predsem>
                         </segment>
                         <segment>
                             <gword>=de</gword>
@@ -1341,7 +1350,7 @@
                         <segment>
                             <gword>huāmùlán</gword>
                             <gloss>Huamulan</gloss>
-                            <graid>np:obl</graid>
+                            <graid>pn_np:obl</graid>
                         </segment>
                         <segment>
                             <gword>nà</gword>
@@ -1483,6 +1492,7 @@
                             <gword>chuán</gword>
                             <gloss>inherit</gloss>
                             <graid>v:pred</graid>
+                            <predsem>pos_res</predsem>
                         </segment>
                         <segment>
                             <gword>nán</gword>
@@ -1577,6 +1587,7 @@
                             <gword>yǒu</gword>
                             <gloss>have</gloss>
                             <graid>v:pred</graid>
+                            <predsem>pos</predsem>
                         </segment>
                         <segment>
                             <gword>érzi</gword>
@@ -1695,7 +1706,7 @@
                         <segment>
                             <gword>zhùyīngtái</gword>
                             <gloss>Zhuyingtai</gloss>
-                            <graid>np.h:obl</graid>
+                            <graid>pn_np.h:obl</graid>
                             <refind>3005</refind>
                         </segment>
                         <segment>
@@ -1729,6 +1740,7 @@
                             <gword>dǎbàn</gword>
                             <gloss>dress_up</gloss>
                             <graid>v:pred</graid>
+                            <predsem>cau_vol</predsem>
                         </segment>
                     </annotations>
                 </unit>
@@ -1854,6 +1866,7 @@
                             <gword>dào</gword>
                             <gloss>arrive</gloss>
                             <graid>v:pred</graid>
+                            <predsem>neu_res</predsem>
                         </segment>
                         <segment>
                             <gword>le</gword>
@@ -1918,6 +1931,7 @@
                             <gword>sòng</gword>
                             <gloss>send</gloss>
                             <graid>v:pred</graid>
+                            <predsem>cau_vol</predsem>
                         </segment>
                         <segment>
                             <gword>dào</gword>
@@ -2080,6 +2094,7 @@
                             <gword>dúshū</gword>
                             <gloss>study</gloss>
                             <graid>v:pred</graid>
+                            <predsem>act</predsem>
                         </segment>
                         <segment>
                             <gword>=de</gword>
@@ -2134,6 +2149,7 @@
                             <gword>dǒng</gword>
                             <gloss>understand</gloss>
                             <graid>v:pred</graid>
+                            <predsem>exp</predsem>
                         </segment>
                         <segment>
                             <gword>ZERO</gword>
@@ -2252,11 +2268,12 @@
                             <gword>jiào</gword>
                             <gloss>call</gloss>
                             <graid>v:pred</graid>
+                            <predsem>neu</predsem>
                         </segment>
                         <segment>
                             <gword>bìxiānān</gword>
                             <gloss>Bixian_convent</gloss>
-                            <graid>np:p</graid>
+                            <graid>pn_np:p</graid>
                             <refind>3054</refind>
                             <isnref>bridging</isnref>
                         </segment>
@@ -2318,7 +2335,7 @@
                         <segment>
                             <gword>bìxiānān</gword>
                             <gloss>Bixian_convent</gloss>
-                            <graid>np:l</graid>
+                            <graid>pn_np:l</graid>
                             <refind>3011</refind>
                         </segment>
                         <segment>
@@ -2410,6 +2427,7 @@
                             <gword>jiàozuo</gword>
                             <gloss>call</gloss>
                             <graid>v:pred</graid>
+                            <predsem>neu</predsem>
                         </segment>
                         <segment>
                             <gword>liángshānbó</gword>
@@ -2690,6 +2708,7 @@
                             <gword>chàhěnduō</gword>
                             <gloss>worse</gloss>
                             <graid>other:pred</graid>
+                            <predsem>neu</predsem>
                         </segment>
                     </annotations>
                 </unit>
@@ -2822,6 +2841,7 @@
                             <gword>xīyǐn</gword>
                             <gloss>attract</gloss>
                             <graid>v:pred</graid>
+                            <predsem>exp</predsem>
                         </segment>
                         <segment>
                             <gword>le</gword>
@@ -2967,6 +2987,7 @@
                             <gword>xuédào</gword>
                             <gloss>learn</gloss>
                             <graid>v:pred</graid>
+                            <predsem>exp</predsem>
                         </segment>
                         <segment>
                             <gword>hěn</gword>
@@ -3238,6 +3259,7 @@
                             <gword>dúdu</gword>
                             <gloss>study</gloss>
                             <graid>v:pred</graid>
+                            <predsem>act</predsem>
                         </segment>
                         <segment>
                             <gword>shī</gword>
@@ -3494,6 +3516,7 @@
                             <gword>fāzhǎn</gword>
                             <gloss>develop</gloss>
                             <graid>v:pred</graid>
+                            <predsem>neu_res</predsem>
                         </segment>
                         <segment>
                             <gword>dào</gword>
@@ -3580,6 +3603,7 @@
                             <gword>suǒshuō</gword>
                             <gloss>say</gloss>
                             <graid>v:pred</graid>
+                            <predsem>spe</predsem>
                         </segment>
                         <segment>
                             <gword>ZERO</gword>
@@ -3711,6 +3735,7 @@
                             <gword>yíyàng</gword>
                             <gloss>same_as</gloss>
                             <graid>other:pred</graid>
+                            <predsem>neu</predsem>
                         </segment>
                     </annotations>
                 </unit>
@@ -3829,6 +3854,7 @@
                             <gword>qù</gword>
                             <gloss>go</gloss>
                             <graid>v:pred</graid>
+                            <predsem>neu_res</predsem>
                         </segment>
                         <segment>
                             <gword>#</gword>
@@ -3846,6 +3872,7 @@
                             <gword>lái</gword>
                             <gloss>come</gloss>
                             <graid>v:pred</graid>
+                            <predsem>neu_res</predsem>
                         </segment>
                         <segment>
                             <gword>#</gword>
@@ -3888,6 +3915,7 @@
                             <gword>guòqùle</gword>
                             <gloss>over</gloss>
                             <graid>v:pred</graid>
+                            <predsem>neu_res</predsem>
                         </segment>
                     </annotations>
                 </unit>
@@ -3917,6 +3945,7 @@
                             <gword>mǎn</gword>
                             <gloss>full</gloss>
                             <graid>other:pred</graid>
+                            <predsem>neu_res</predsem>
                         </segment>
                         <segment>
                             <gword>le</gword>
@@ -3987,6 +4016,7 @@
                             <gword>dǎdiǎnxíngzhuāng</gword>
                             <gloss>dress_for_traveling</gloss>
                             <graid>v:pred</graid>
+                            <predsem>act</predsem>
                         </segment>
                         <segment>
                             <gword>#</gword>
@@ -4008,6 +4038,7 @@
                             <gword>bàibié</gword>
                             <gloss>say_goodbye</gloss>
                             <graid>v:pred</graid>
+                            <predsem>spe</predsem>
                         </segment>
                         <segment>
                             <gword>lǎoshī</gword>
@@ -4036,6 +4067,7 @@
                             <gword>fǎnhuí</gword>
                             <gloss>return</gloss>
                             <graid>v:pred</graid>
+                            <predsem>act_mot_dir_res</predsem>
                         </segment>
                         <segment>
                             <gword>jiāxiāng</gword>
@@ -4182,6 +4214,7 @@
                             <gword>chǎnshēng</gword>
                             <gloss>produce</gloss>
                             <graid>v:pred</graid>
+                            <predsem>exp</predsem>
                         </segment>
                         <segment>
                             <gword>le</gword>
@@ -4588,6 +4621,7 @@
                             <gword>huí</gword>
                             <gloss>return</gloss>
                             <graid>v:pred</graid>
+                            <predsem>act_mot_dir_res</predsem>
                         </segment>
                         <segment>
                             <gword>dào</gword>
@@ -4685,6 +4719,7 @@
                             <gword>ànnài</gword>
                             <gloss>control</gloss>
                             <graid>v:pred</graid>
+                            <predsem>exp</predsem>
                         </segment>
                         <segment>
                             <gword>(nà</gword>
@@ -4778,6 +4813,7 @@
                             <gword>qù</gword>
                             <gloss>go</gloss>
                             <graid>v:pred</graid>
+                            <predsem>act_mot_dir</predsem>
                         </segment>
                         <segment>
                             <gword>zhùyīngtái</gword>
@@ -4896,6 +4932,7 @@
                             <gword>jīng</gword>
                             <gloss>surprised</gloss>
                             <graid>other:pred</graid>
+                            <predsem>exp</predsem>
                         </segment>
                         <segment>
                             <gword>yòu</gword>
@@ -5027,6 +5064,7 @@
                             <gword>kànjiàn</gword>
                             <gloss>see</gloss>
                             <graid>v:pred</graid>
+                            <predsem>exp_perc</predsem>
                         </segment>
                         <segment>
                             <gword>ZERO</gword>
@@ -5622,6 +5660,7 @@
                             <gword>qǐng</gword>
                             <gloss>ask</gloss>
                             <graid>v:pred</graid>
+                            <predsem>spe</predsem>
                         </segment>
                         <segment>
                             <gword>rén</gword>
@@ -5689,6 +5728,7 @@
                             <gword>qiú</gword>
                             <gloss>ask</gloss>
                             <graid>v:pred</graid>
+                            <predsem>spe</predsem>
                         </segment>
                         <segment>
                             <gword>qīn</gword>
@@ -5828,6 +5868,7 @@
                             <gword>dà</gword>
                             <gloss>big</gloss>
                             <graid>other:pred</graid>
+                            <predsem>neu</predsem>
                         </segment>
                         <segment>
                             <gword>#</gword>
@@ -6121,6 +6162,7 @@
                             <gword>xǔpèi</gword>
                             <gloss>betroth</gloss>
                             <graid>v:pred</graid>
+                            <predsem>cau_vol</predsem>
                         </segment>
                         <segment>
                             <gword>gěi</gword>
@@ -6331,6 +6373,7 @@
                             <gword>shàng</gword>
                             <gloss>attend</gloss>
                             <graid>v:pred</graid>
+                            <predsem>act_mot_dir_res</predsem>
                         </segment>
                         <segment>
                             <gword>xué</gword>
@@ -6395,6 +6438,7 @@
                             <gword>shàng</gword>
                             <gloss>attend</gloss>
                             <graid>v:pred</graid>
+                            <predsem>act</predsem>
                         </segment>
                         <segment>
                             <gword>xué</gword>
@@ -6802,6 +6846,7 @@
                             <gword>juéde</gword>
                             <gloss>feel</gloss>
                             <graid>v:pred</graid>
+                            <predsem>exp</predsem>
                         </segment>
                         <segment>
                             <gword>wànniànjùmième</gword>
@@ -6847,6 +6892,7 @@
                             <gword>huídào</gword>
                             <gloss>return</gloss>
                             <graid>v:pred</graid>
+                            <predsem>act_mot_dir_res</predsem>
                         </segment>
                         <segment>
                             <gword>jiā</gword>
@@ -7111,6 +7157,7 @@
                             <gword>qùshì</gword>
                             <gloss>pass_away</gloss>
                             <graid>v:pred</graid>
+                            <predsem>neu_res</predsem>
                         </segment>
                         <segment>
                             <gword>=de</gword>
@@ -7195,6 +7242,7 @@
                             <gword>jiēshòu</gword>
                             <gloss>accept</gloss>
                             <graid>v:pred</graid>
+                            <predsem>other</predsem>
                         </segment>
                         <segment>
                             <gword>fùmǔ</gword>
@@ -7245,6 +7293,7 @@
                             <gword>kàngzhēng</gword>
                             <gloss>fight</gloss>
                             <graid>v:pred</graid>
+                            <predsem>cau_vol</predsem>
                         </segment>
                         <segment>
                             <gword>zhè</gword>
@@ -7334,6 +7383,7 @@
                             <gword>zhòng</gword>
                             <gloss>strong</gloss>
                             <graid>other:pred</graid>
+                            <predsem>exp</predsem>
                         </segment>
                     </annotations>
                 </unit>
@@ -7379,6 +7429,7 @@
                             <gword>zhuǎnbiàn</gword>
                             <gloss>change</gloss>
                             <graid>v:pred</graid>
+                            <predsem>neu_res</predsem>
                         </segment>
                         <segment>
                             <gword>le</gword>
@@ -7445,6 +7496,7 @@
                             <gword>chuānshang</gword>
                             <gloss>wear</gloss>
                             <graid>v:pred</graid>
+                            <predsem>cau_vol</predsem>
                         </segment>
                         <segment>
                             <gword>le</gword>
@@ -7517,6 +7569,7 @@
                             <gword>jin</gword>
                             <gloss>go_in</gloss>
                             <graid>v:pred</graid>
+                            <predsem>act_mot_dir</predsem>
                         </segment>
                         <segment>
                             <gword>le</gword>
@@ -7579,6 +7632,7 @@
                             <gword>yǒu</gword>
                             <gloss>have</gloss>
                             <graid>v:pred</graid>
+                            <predsem>pos</predsem>
                         </segment>
                         <segment>
                             <gword>yí</gword>
@@ -7656,6 +7710,7 @@
                             <gword>jīngguò</gword>
                             <gloss>pass</gloss>
                             <graid>v:pred</graid>
+                            <predsem>act_mot</predsem>
                         </segment>
                         <segment>
                             <gword>liángshānbó</gword>
@@ -7809,6 +7864,7 @@
                             <gword>qiāo</gword>
                             <gloss>beat</gloss>
                             <graid>v:pred</graid>
+                            <predsem>cau_vol</predsem>
                         </segment>
                         <segment>
                             <gword>luó</gword>
@@ -7833,6 +7889,7 @@
                             <gword>dǎ</gword>
                             <gloss>beat</gloss>
                             <graid>v:pred</graid>
+                            <predsem>cau_vol</predsem>
                         </segment>
                         <segment>
                             <gword>gǔ</gword>
@@ -8100,6 +8157,7 @@
                             <gword>tuōqù</gword>
                             <gloss>take_off</gloss>
                             <graid>v:pred</graid>
+                            <predsem>cau_vol</predsem>
                         </segment>
                         <segment>
                             <gword>le</gword>
@@ -8151,6 +8209,7 @@
                             <graid>np:pred</graid>
                             <refind>3034</refind>
                             <isnref>new</isnref>
+                            <predsem>neu</predsem>
                         </segment>
                     </annotations>
                 </unit>
@@ -8268,6 +8327,7 @@
                             <gword>fēngyǔpiāoyáo</gword>
                             <gloss>tossed_about_by_wind_and_rain</gloss>
                             <graid>other:pred</graid>
+                            <predsem>other xxx later &lt;proc&gt;</predsem>
                         </segment>
                         <segment>
                             <gword>#</gword>
@@ -8285,6 +8345,7 @@
                             <gword>dàzuò</gword>
                             <gloss>erupt_abruptly</gloss>
                             <graid>v:pred</graid>
+                            <predsem>act xxx later &lt;proc&gt;</predsem>
                         </segment>
                     </annotations>
                 </unit>
@@ -8302,6 +8363,7 @@
                             <gword>hōng</gword>
                             <gloss>explosion</gloss>
                             <graid>v:pred</graid>
+                            <predsem>act xxx later &lt;proc&gt;</predsem>
                         </segment>
                         <segment>
                             <gword>=de</gword>
@@ -8776,6 +8838,7 @@
                             <gword>tiàojìn</gword>
                             <gloss>jump_in</gloss>
                             <graid>v:pred</graid>
+                            <predsem>act_mot_dir</predsem>
                         </segment>
                         <segment>
                             <gword>le</gword>
@@ -8852,6 +8915,7 @@
                             <gword>héshang</gword>
                             <gloss>close</gloss>
                             <graid>v:pred</graid>
+                            <predsem>act xxx later &lt;proc&gt;</predsem>
                         </segment>
                         <segment>
                             <gword>le</gword>
@@ -8913,6 +8977,7 @@
                             <gword>xiāo</gword>
                             <gloss>vanish</gloss>
                             <graid>v:pred</graid>
+                            <predsem>neu_res xxx later &lt;proc_res&gt;</predsem>
                         </segment>
                         <segment>
                             <gword>#</gword>
@@ -8930,6 +8995,7 @@
                             <gword>sàn</gword>
                             <gloss>scatter</gloss>
                             <graid>v:pred</graid>
+                            <predsem>neu_res xxx later &lt;proc_res&gt;</predsem>
                         </segment>
                         <segment>
                             <gword>le</gword>
@@ -8997,6 +9063,7 @@
                             <gword>kànjiàn</gword>
                             <gloss>see</gloss>
                             <graid>v:pred</graid>
+                            <predsem>exp_perc</predsem>
                         </segment>
                         <segment>
                             <gword>gè</gword>
@@ -9102,6 +9169,7 @@
                             <gword>fēichūqù</gword>
                             <gloss>fly_out</gloss>
                             <graid>v:pred</graid>
+                            <predsem>act_mot</predsem>
                         </segment>
                         <segment>
                             <gword>#</gword>
@@ -9635,11 +9703,6 @@
                             <gword>#</gword>
                             <gloss>#</gloss>
                             <graid>#nc</graid>
-                        </segment>
-                        <segment>
-                            <gword>ZERO</gword>
-                            <gloss>0_I</gloss>
-                            <graid>nc</graid>
                         </segment>
                         <segment>
                             <gword>xièxiè</gword>

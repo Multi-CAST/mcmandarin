@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ANNOTATION_DOCUMENT xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" AUTHOR="" DATE="2020-01-12T16:44:49+01:00" FORMAT="2.8" VERSION="2.8" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv2.8.xsd">
+<ANNOTATION_DOCUMENT xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" AUTHOR="" DATE="2020-11-10T14:50:25+01:00" FORMAT="2.8" VERSION="2.8" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv2.8.xsd">
     <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
         <MEDIA_DESCRIPTOR MEDIA_URL="mc_mandarin_hml.wav" MIME_TYPE="audio/x-wav"/>
         <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:91014c5f-3958-4aa0-8869-0529c87fd840</PROPERTY>
-        <PROPERTY NAME="lastUsedAnnotationId">19134</PROPERTY>
+        <PROPERTY NAME="lastUsedAnnotationId">19139</PROPERTY>
     </HEADER>
     <TIME_ORDER>
         <TIME_SLOT TIME_SLOT_ID="ts1" TIME_VALUE="0"/>
@@ -26536,7 +26536,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a16005" ANNOTATION_REF="a13720">
-                <ANNOTATION_VALUE>np.h:dt_s</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>pn_np.h:dt_s</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -26561,7 +26561,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a16010" ANNOTATION_REF="a13725">
-                <ANNOTATION_VALUE>np:pred</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>pn_np:pred</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -28076,7 +28076,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a16313" ANNOTATION_REF="a14028">
-                <ANNOTATION_VALUE>np.h:dt</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>pn_np.h:dt</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -29181,7 +29181,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a16534" ANNOTATION_REF="a14249">
-                <ANNOTATION_VALUE>np.h:dt_a</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>pn_np.h:dt_a</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -30911,7 +30911,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a16880" ANNOTATION_REF="a14595">
-                <ANNOTATION_VALUE>pn_np.h:dt_s</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>pn_np.h:dt_poss</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -35986,12 +35986,12 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a17895" ANNOTATION_REF="a15610">
-                <ANNOTATION_VALUE>ln_pn_np.h</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>pn_np.h:s_ds</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a17896" ANNOTATION_REF="a15611">
-                <ANNOTATION_VALUE>np.h:s_ds</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>rn_np.h</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -36196,12 +36196,12 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a17937" ANNOTATION_REF="a15652">
-                <ANNOTATION_VALUE>ln_pn_np.h</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>pn_np.h:s</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a17938" ANNOTATION_REF="a15653">
-                <ANNOTATION_VALUE>np.h:s</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>rn_np.h</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -36341,12 +36341,12 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a17966" ANNOTATION_REF="a15681">
-                <ANNOTATION_VALUE>ln_pn_np.h</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>pn_np.h:g</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a17967" ANNOTATION_REF="a15682">
-                <ANNOTATION_VALUE>np.h:g</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>rn_np.h</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -36456,12 +36456,12 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a17989" ANNOTATION_REF="a15704">
-                <ANNOTATION_VALUE>pn_np.h</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>pn_np.h:g</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a17990" ANNOTATION_REF="a15705">
-                <ANNOTATION_VALUE>np.h:g</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>rn_np.h</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -36701,12 +36701,12 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a18038" ANNOTATION_REF="a15753">
-                <ANNOTATION_VALUE>ln_pn_np.h</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>pn_np.h:a</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a18039" ANNOTATION_REF="a15754">
-                <ANNOTATION_VALUE>np.h:a</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>rn_np.h</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -40012,7 +40012,7 @@
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a18700" ANNOTATION_REF="a17896">
+            <REF_ANNOTATION ANNOTATION_ID="a19135" ANNOTATION_REF="a17895">
                 <ANNOTATION_VALUE>1065</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
@@ -40072,12 +40072,7 @@
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a18712" ANNOTATION_REF="a17937">
-                <ANNOTATION_VALUE>1172</ANNOTATION_VALUE>
-            </REF_ANNOTATION>
-        </ANNOTATION>
-        <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a18713" ANNOTATION_REF="a17938">
+            <REF_ANNOTATION ANNOTATION_ID="a19136" ANNOTATION_REF="a17937">
                 <ANNOTATION_VALUE>1065</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
@@ -40127,7 +40122,7 @@
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a18723" ANNOTATION_REF="a17967">
+            <REF_ANNOTATION ANNOTATION_ID="a19137" ANNOTATION_REF="a17966">
                 <ANNOTATION_VALUE>1065</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
@@ -40167,12 +40162,7 @@
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a18731" ANNOTATION_REF="a17989">
-                <ANNOTATION_VALUE>1172</ANNOTATION_VALUE>
-            </REF_ANNOTATION>
-        </ANNOTATION>
-        <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a18732" ANNOTATION_REF="a17990">
+            <REF_ANNOTATION ANNOTATION_ID="a19138" ANNOTATION_REF="a17989">
                 <ANNOTATION_VALUE>1065</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
@@ -40267,7 +40257,7 @@
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a18751" ANNOTATION_REF="a18039">
+            <REF_ANNOTATION ANNOTATION_ID="a19139" ANNOTATION_REF="a18038">
                 <ANNOTATION_VALUE>1065</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
@@ -42097,7 +42087,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a19116" ANNOTATION_REF="a588">
-                <ANNOTATION_VALUE>At this moment, Marshal He suddenly comprehended.</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>At this moment, Marshal He suddenly understood.</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>

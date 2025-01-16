@@ -39,18 +39,18 @@ mandarin	lzh	0002	=de	=MOD	=ln	=ln
 mandarin	lzh	0002	gùshi	story	np:p	np		p		
 mandarin	lzh	0003	#	#	#	#				
 mandarin	lzh	0003	(nà)	NC	nc	nc				
-mandarin	lzh	0003	liángzhù	Liangzhu	np:dt_a	np		dt_a	3015	bridging
+mandarin	lzh	0003	liángzhù	Liangzhu	pn_np:dt_a	pn_np		dt_a	3015	bridging
 mandarin	lzh	0003	dehuà	if	other	other				
 mandarin	lzh	0003	ZERO	0_it	dt_0.h:a	dt_0	h	a	3015	
 mandarin	lzh	0003	qíshí	actually	other	other				
 mandarin	lzh	0003	jiù	ADV	other	other				
 mandarin	lzh	0003	shǔyú	belong_to	v:pred	v		pred		
 mandarin	lzh	0003	zánmen	1PL.INCL	ln_pro.1:poss	ln_pro	1	poss		
-mandarin	lzh	0003	zhōngguó	China	ln_np	ln_np				
+mandarin	lzh	0003	zhōngguó	China	ln_pn_np	ln_pn_np				
 mandarin	lzh	0003	=de	=MOD	=ln	=ln				
-mandarin	lzh	0003	luómìōu	Romeo	np:p	np		p		
+mandarin	lzh	0003	luómìōu	Romeo	pn_np:p	pn_np		p		
 mandarin	lzh	0003	yǔ	and	ln	ln				
-mandarin	lzh	0003	zhūlìyè	Juliet	np:appos	np		appos		
+mandarin	lzh	0003	zhūlìyè	Juliet	pn_np:appos	pn_np		appos		
 mandarin	lzh	0004	#	#	##	##				
 mandarin	lzh	0004	ránhòu	then	other	other				
 mandarin	lzh	0004	zhè	DEM	ln_dem	ln_dem				
@@ -234,7 +234,7 @@ mandarin	lzh	0016	=de	=MOD	=other	=other
 mandarin	lzh	0016	nà	that	ln_dem	ln_dem				
 mandarin	lzh	0016	ge	CL	ln_cl	ln_cl				
 mandarin	lzh	0017	(ze)	NC	nc	nc				
-mandarin	lzh	0017	huāmùlán	Huamulan	np:obl	np		obl		
+mandarin	lzh	0017	huāmùlán	Huamulan	pn_np:obl	pn_np		obl		
 mandarin	lzh	0017	nà	that	other	other				
 mandarin	lzh	0017	ge	CL	other	other				
 mandarin	lzh	0017	yíyàng	similar	other:pred	other		pred		
@@ -294,7 +294,7 @@ mandarin	lzh	0022	jīngcháng	often	other	other
 mandarin	lzh	0022	bǎ	BA	adp	adp				
 mandarin	lzh	0022	nà	that	ln_dem	ln_dem				
 mandarin	lzh	0022	ge	CL	ln_cl	ln_cl				
-mandarin	lzh	0022	zhùyīngtái	Zhuyingtai	np.h:obl	np	h	obl	3005	
+mandarin	lzh	0022	zhùyīngtái	Zhuyingtai	pn_np.h:obl	pn_np	h	obl	3005	
 mandarin	lzh	0022	cóng	from	other	other				
 mandarin	lzh	0022	xiǎo	little	other	other				
 mandarin	lzh	0022	jiùshì	ADV	other	other				
@@ -392,7 +392,7 @@ mandarin	lzh	0028	ge	CL	ln_cl	ln_cl
 mandarin	lzh	0028	#	#	#rc	#rc				
 mandarin	lzh	0028	ZERO	0_it	f0:a	f0		a	3011	
 mandarin	lzh	0028	jiào	call	v:pred	v		pred		
-mandarin	lzh	0028	bìxiānān	Bixian_convent	np:p	np		p	3054	bridging
+mandarin	lzh	0028	bìxiānān	Bixian_convent	pn_np:p	pn_np		p	3054	bridging
 mandarin	lzh	0028	=de	=MOD	=other	=other				
 mandarin	lzh	0028	%	%	%	%				
 mandarin	lzh	0028	dìfang	place	np:g	np		g	3011	
@@ -402,7 +402,7 @@ mandarin	lzh	0028	dúshū	study	v:pred	v		pred
 mandarin	lzh	0029	#	#	##	##				
 mandarin	lzh	0029	ZERO	0_she	0.h:s	0	h	s	3005	
 mandarin	lzh	0029	zài	be_at/ADP	adp	adp				
-mandarin	lzh	0029	bìxiānān	Bixian_convent	np:l	np		l	3011	
+mandarin	lzh	0029	bìxiānān	Bixian_convent	pn_np:l	pn_np		l	3011	
 mandarin	lzh	0029	dúshū	study	v:pred	v		pred		
 mandarin	lzh	0029	shí	when	other	other				
 mandarin	lzh	0029	#	#	##	##				
@@ -1644,7 +1644,6 @@ mandarin	lzh	0139	jiù	ADV	nc	nc
 mandarin	lzh	0139	jiéjú	finish	nc	nc				
 mandarin	lzh	0139	le	ASP	nc	nc				
 mandarin	lzh	0140	#	#	#nc	#nc				
-mandarin	lzh	0140	ZERO	0_I	nc	nc				
 mandarin	lzh	0140	xièxiè	thank	nc	nc				
 mandarin	lzh	0140	dàjiā	everybody	nc	nc				
 mandarin	lzh	0140	hāhā	haha	nc	nc				
